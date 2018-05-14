@@ -4,7 +4,7 @@ draft = false
 imageActive = "gif/acww.gif"
 image = "gif/acww_still.gif"
 date = "2006-10-01"
-title = "Animal Crossing: Wild World Adventures"
+title = "Animal Crossing: Wild World Adventure Blog"
 tags = ['Animal Crossing']
 game_name = 'Animal Crossing: Wild World'
 Description = 'It is a wild world indeed as the Acorn festival is about to start. Should I exchange some acorns ro net me a chair so I can gift Drift something for his birthday? What to do!'
@@ -15,7 +15,6 @@ game_developer = 'Nintendo'
 weight = 0
 +++
 
-<a name="top"></a>
 <h3>The Cornimer is Here!</h3>
 <div style="text-align: right;">[ Date: 09/10/2006 | <a href="#top">top</a> ]</div>
 

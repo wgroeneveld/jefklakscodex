@@ -1,3 +1,4 @@
+
 # About the Codex
 
 Hi, I'm Jefklak/[Wouter](https://brainbaking.com/about/) and you're looking at "Jefklak's Codex", a dedicated and highly opinionated website about nostalgic games. The word **nostalgic** should be emphasized here. I grew up with a Gameboy between my hands and PC RPG games burnt into my retina. That healthy cocktail left a lasting impression - and netted me the Codex (and glasses).

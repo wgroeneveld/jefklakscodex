@@ -56,6 +56,10 @@ body, .content-column-content p, .content-column-content li, .box-masonry .box-m
 	cursor: pointer;
 }
 
+a.internal {
+	cursor: pointer;
+}
+
 .sidebar-menu li:hover {
 	/* background randomly set in script */
 	border: 1px solid #a6a57c;
@@ -63,16 +67,18 @@ body, .content-column-content p, .content-column-content li, .box-masonry .box-m
 
 .sidebar-game-platform {
 	position: absolute;
-	top: 6px;
+	top: 0px;
 	border: 1px solid black;
 }
 
 .sidebar-header {
 	font-weight: bold;
+	padding-top: 10px;
 }
 
 .sidebar-date {
 	color: grey;
+	font-size: 9pt;
 }
 
 .sidebar-header img {

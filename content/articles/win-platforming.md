@@ -1,14 +1,19 @@
 +++
 showonlyimage = false
 draft = false
-image = "gif/acww_still.gif"
+image = "/img/articles/captainclaw.jpg"
 date = "2007-03-30"
 title = "Windows 2D Platforming"
 tags = ['2D platforming']
 weight = 0
 +++
 
-Platform games, one of the most dominant game genres in gaming history. They spawned a whole lot of spin-off series (run-and-gun, platform puzzles, Apogee's shareware system, Mario 64's 3D platform debut). Platform gaming has been the dominant type on every gaming platform for quite a while, but classic platforming is rarely seen on nowadays computers. Consoles have taken over the 3D platforming aspect while handheld games kept producing 2D variations (Castlevania, Wario Land), but what happened to PC platformers? Try to sum up more than five recent commercial classic 2D platform games. Euurhhghmmmhghyhg... Right.
+Platform games, one of the most dominant game genres in gaming history. They spawned a whole lot of spin-off series (run-and-gun, platform puzzles, Apogee's shareware system, Mario 64's 3D platform debut). Platform gaming has been the dominant type on every gaming platform for quite a while.
+
+<!--more-->
+<img src="/img/articles/WinPlatforming.jpg"/>
+
+But classic platforming is rarely seen on nowadays computers. Consoles have taken over the 3D platforming aspect while handheld games kept producing 2D variations (Castlevania, Wario Land), but what happened to PC platformers? Try to sum up more than five recent commercial classic 2D platform games. Euurhhghmmmhghyhg... Right.
 
 Unfolding the History of Platform gaming would be rather boring and you can read the details at Wikipedia. So let's instead try to sum up that list... The first, and most obvious entry would be of course Captain Claw by Monolith, since I've mentioned the game more than once before. Being a game from 1997, one can imagine more exciting recent 2D platform games for the Personal Computer.
 

@@ -1,6 +1,3 @@
-<footer>
-    <img src="/img/bg-back.gif">
-</footer>
 
 <!-- built-in theme scripts -->
 <script src="{{ "js/jquery.min.js" | absURL }}"></script>
@@ -18,7 +15,14 @@
 
 $(function() {
 
-// 	background: #f1f4dd url(/img/random/6.gif) no-repeat right;
+	$('#totop').click(function() {
+		$.scrollTo($('#top'), 1000);
+	});
+
+	$('a.internal').click(function() {
+		$.scrollTo($($(this).data('to')), 1000);
+	});
+
 	var rand = Math.floor(Math.random() * 10) + 1;
 	$('.sidebar-menu li').mouseenter(function() {
 		$(this).css('background', '#f1f4dd url(/img/random/' + rand + '.gif) no-repeat right');
@@ -30,19 +34,24 @@ $(function() {
 
 	$('.sidebar-game-platform').height($('.sidebar-content .img-inactive').height());
 
-	$('.box-masonry').mouseenter(function() {
+	var animate = function() {
 		var active = $(this).find('.img-active');
 		if(active.length > 0) {
 			active.css('display', 'block');
 			$(this).find('.img-inactive').css('display', 'none');
 		}
-	}).mouseleave(function() {
+	};
+
+	var inanimate = function() {
 		var active = $(this).find('.img-active');
 		if(active.length > 0) {
 			active.css('display', 'none');
 			$(this).find('.img-inactive').css('display', 'block');
 		}
-	});
+	};
+
+	$('.box-masonry').mouseenter(animate).mouseleave(inanimate);
+	$('.sidebar-game-info').mouseenter(animate).mouseleave(inanimate);
 
 });
 

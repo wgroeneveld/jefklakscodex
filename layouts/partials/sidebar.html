@@ -1,3 +1,5 @@
+{{ $url := .Site.BaseURL }}
+
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
@@ -26,7 +28,6 @@
       <img src="/img/gob_waypoint.gif"/>
     </div>
     <ul class="sidebar-menu">
-      {{ $url := .Site.BaseURL }}
       {{ range .Site.Params.navlinks }}
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
       {{ end }}
@@ -41,12 +42,17 @@
           {{ else }}
             <span>{{ .Title }}</span>
           {{ end }}
-          <img src="/img/gob_waypoint.gif"/>
         </div>
 
         <p style="position: relative;">
-        <img src="{{.Site.BaseURL}}{{ .Params.image }}" alt="" class="img-responsive img-inactive" style="border: 1px solid black"/>
-        <img src="/img/{{ .Params.game_platform }}.png" alt="{{ .Params.game_platform }}" class="sidebar-game-platform img-responsive"/>
+        <img src="{{ $url }}{{ .Params.image }}" alt="" class="img-responsive img-inactive" style="border: 1px solid black"/>
+        {{ with .Params.imageActive }}
+          <img src="{{ $url }}{{ . }}" alt="" class="img-responsive img-active" style="border: 1px solid black"/>
+        {{ end }}
+
+        {{ with .Params.game_platform }}
+          <img src="{{ $url }}/img/{{ . }}.png" alt="{{ . }}" class="sidebar-game-platform img-responsive"/>
+        {{ end }}
         <br/>
 
         {{ with .Params.game_genre }}

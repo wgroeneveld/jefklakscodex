@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>{{ partial "head.html" . }}</head>
+<body>
+  <a name="top" id="top"></a>
+  <div id="all">
+      <div class="container-fluid">
+          <div class="row row-offcanvas row-offcanvas-left">
+              {{ partial "sidebar.html" . }}
+              {{ block "main" . }}
+              {{ end }}
+          </div>
+      </div>
+  </div>
+  {{ partial "scripts.html" . }}
+
+  <footer>
+      <a style="cursor: pointer;" id="totop"><img src="/img/bg-back.gif" alt="to top" /></a>
+  </footer>  
+</body>
+</html>

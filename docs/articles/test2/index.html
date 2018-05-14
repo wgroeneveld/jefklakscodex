@@ -32,10 +32,13 @@
 
 </head>
 <body>
+  <a name="top" id="top"></a>
   <div id="all">
       <div class="container-fluid">
           <div class="row row-offcanvas row-offcanvas-left">
-              <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+              
+
+<div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="https://jefklakscodex.com/">Jefklak&#39;s Codex</a></h1>
     
@@ -50,17 +53,57 @@
     <ul class="sidebar-menu">
       
         
-        
           <li>
             <a href="/articles/test2/">Example game 2</a>&nbsp;
-            <span class="sidebar-date">(5 November)</span>
+            <span class="sidebar-date">(11/2016)</span>
           </li>
       
         
-        
           <li>
             <a href="/articles/test/">Example game</a>&nbsp;
-            <span class="sidebar-date">(5 November)</span>
+            <span class="sidebar-date">(11/2016)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/win-platforming/">Windows 2D Platforming</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/arcanum-review/">Arcanum: the Review</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/arcanum-gunslinger/">Arcanum: the Gunslinger</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/arcanum-parties/">Arcanum: Party Seleciton</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/arcanum-magick-vs-tech/">Arcanum: Magick VS Tech</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/apogees-legacy/">Apogee&#39;s Legacy</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/animalcrossing-wildworld/">Animal Crossing: Wild World Adventure Blog</a>&nbsp;
+            <span class="sidebar-date">(10/2006)</span>
           </li>
       
     </ul>
@@ -71,7 +114,6 @@
       <img src="/img/gob_waypoint.gif"/>
     </div>
     <ul class="sidebar-menu">
-      
       
         <li><a href="https://jefklakscodex.com/articles/">Articles Index</a></li>
       
@@ -84,18 +126,32 @@
     
       <hr/>
       <div class="sidebar-game-info">
-        <div class="sidebar-header">
-          <span>Game: Wario Land 3</span>
-          <img src="/img/gob_waypoint.gif"/>
+        <div class="sidebar-header">&nbsp;&nbsp;
+          
+            <span>Game: Wario Land 3</span>
+          
         </div>
 
         <p style="position: relative;">
         <img src="https://jefklakscodex.com/gif/warioland3_still.gif" alt="" class="img-responsive img-inactive" style="border: 1px solid black"/>
-        <img src="/img/gb.png" alt="gb" class="sidebar-game-platform img-responsive"/>
+        
+          <img src="https://jefklakscodex.com/gif/warioland3.gif" alt="" class="img-responsive img-active" style="border: 1px solid black"/>
+        
+
+        
+          <img src="https://jefklakscodex.com//img/gb.png" alt="gb" class="sidebar-game-platform img-responsive"/>
+        
         <br/>
-        Genre: 2D Platformer<br/>
-        Release year: 2001<br/>
-        Developer: Nintendo RD1<br/>
+
+        
+          &nbsp;Genre: 2D Platformer<br/>
+        
+        
+          &nbsp;Release year: 2001<br/>
+        
+        
+          &nbsp;Developer: Nintendo RD1<br/>
+        
         </p>
       </div>
       <hr/>
@@ -186,10 +242,7 @@
           </div>
       </div>
   </div>
-  <footer>
-    <img src="/img/bg-back.gif">
-</footer>
-
+  
 
 <script src="https://jefklakscodex.com/js/jquery.min.js"></script>
 <script src="https://jefklakscodex.com/js/bootstrap.min.js"></script>
@@ -206,6 +259,13 @@
 
 $(function() {
 
+	$('#totop').click(function() {
+		$.scrollTo($('#top'), 1000);
+	});
+
+	$('a.internal').click(function() {
+		$.scrollTo($($(this).data('to')), 1000);
+	});
 
 	var rand = Math.floor(Math.random() * 10) + 1;
 	$('.sidebar-menu li').mouseenter(function() {
@@ -218,22 +278,31 @@ $(function() {
 
 	$('.sidebar-game-platform').height($('.sidebar-content .img-inactive').height());
 
-	$('.box-masonry').mouseenter(function() {
+	var animate = function() {
 		var active = $(this).find('.img-active');
 		if(active.length > 0) {
 			active.css('display', 'block');
 			$(this).find('.img-inactive').css('display', 'none');
 		}
-	}).mouseleave(function() {
+	};
+
+	var inanimate = function() {
 		var active = $(this).find('.img-active');
 		if(active.length > 0) {
 			active.css('display', 'none');
 			$(this).find('.img-inactive').css('display', 'block');
 		}
-	});
+	};
+
+	$('.box-masonry').mouseenter(animate).mouseleave(inanimate);
+	$('.sidebar-game-info').mouseenter(animate).mouseleave(inanimate);
 
 });
 
 </script>
+
+  <footer>
+      <a style="cursor: pointer;" id="totop"><img src="/img/bg-back.gif" alt="to top" /></a>
+  </footer>  
 </body>
 </html>
