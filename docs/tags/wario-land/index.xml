@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wario Land on Jefklak&#39;s Codex</title>
+    <link>https://jefklakscodex.com/tags/wario-land/</link>
+    <description>Recent content in Wario Land on Jefklak&#39;s Codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://jefklakscodex.com/tags/wario-land/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example game</title>
+      <link>https://jefklakscodex.com/articles/test/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://jefklakscodex.com/articles/test/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Example game 2</title>
+      <link>https://jefklakscodex.com/articles/test2/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://jefklakscodex.com/articles/test2/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

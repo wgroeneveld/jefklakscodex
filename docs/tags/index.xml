@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jefklak&#39;s Codex</title>
+    <link>https://jefklakscodex.com/tags/</link>
+    <description>Recent content on Jefklak&#39;s Codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jefklakscodex.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wario Land</title>
+      <link>https://jefklakscodex.com/tags/wario-land/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://jefklakscodex.com/tags/wario-land/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

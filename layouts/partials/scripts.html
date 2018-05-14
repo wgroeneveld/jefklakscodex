@@ -18,6 +18,16 @@
 
 $(function() {
 
+// 	background: #f1f4dd url(/img/random/6.gif) no-repeat right;
+	var rand = Math.floor(Math.random() * 10) + 1;
+	$('.sidebar-menu li').mouseenter(function() {
+		$(this).css('background', '#f1f4dd url(/img/random/' + rand + '.gif) no-repeat right');
+	}).mouseleave(function() {
+		$(this).css('background', 'none');
+	}).click(function() {
+		location.href = $(this).find('a').attr('href');
+	});
+
 	$('.sidebar-game-platform').height($('.sidebar-content .img-inactive').height());
 
 	$('.box-masonry').mouseenter(function() {

@@ -9,7 +9,7 @@
       <span>Latest</span>
       <img src="/img/gob_letter.gif"/>
     </div>
-    {{ with .Site.GetPage "section" "reviews" }}
+    {{ with .Site.GetPage "section" "articles" }}
     <ul class="sidebar-menu">
       {{ range .Data.Pages.ByDate.Reverse }}
         {{ .Date.Format (.Site.Params.dateFormat | default "2 January") | $.Scratch.Set "subtitle" }}
@@ -54,7 +54,7 @@
     {{ end }}
 
     <!-- ripped from BB's minimal theme -->
-    {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "reviews") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+    {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "articles") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
 
     {{ if $related }}
 

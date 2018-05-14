@@ -18,13 +18,12 @@ enableEmoji = true
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Articles Index"
-  url = "reviews/"
+  url = "articles/"
   home = true
 
 [[params.navlinks]]
   name = "Games Index"
   url = "tags/"
-  home = true
 
   [[params.navlinks]]
   name = "About the Codex"

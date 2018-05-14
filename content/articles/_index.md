@@ -1,3 +1,3 @@
 <img src="/img/logo.png"/>
 
-index blabla reviews
+index blabla articles
