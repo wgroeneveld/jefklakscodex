@@ -1,0 +1,89 @@
+<div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+    {{ range .Site.Params.sidebarAbout }}
+      <p class="sidebar-p">{{ . | safeHTML }}</p>
+    {{ end }}
+
+    <div class="sidebar-header">
+      <span>Latest</span>
+      <img src="/img/gob_letter.gif"/>
+    </div>
+    {{ with .Site.GetPage "section" "reviews" }}
+    <ul class="sidebar-menu">
+      {{ range .Data.Pages.ByDate.Reverse }}
+        {{ .Date.Format (.Site.Params.dateFormat | default "2 January") | $.Scratch.Set "subtitle" }}
+        {{ with .Description }} {{ $.Scratch.Set "subtitle" . }} {{ end }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;
+            <span class="sidebar-date">({{ $.Scratch.Get "subtitle" }})</span>
+          </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    <div class="sidebar-header">
+      <span>Browsing</span>
+      <img src="/img/gob_waypoint.gif"/>
+    </div>
+    <ul class="sidebar-menu">
+      {{ $url := .Site.BaseURL }}
+      {{ range .Site.Params.navlinks }}
+        <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
+
+    {{ if and (isset .Params "image") .Params.image }}
+      <hr/>
+      <div class="sidebar-game-info">
+        <div class="sidebar-header">
+          <span>Game: {{ .Params.game_name }}</span>
+          <img src="/img/gob_waypoint.gif"/>
+        </div>
+
+        <p style="position: relative;">
+        <img src="{{.Site.BaseURL}}{{ .Params.image }}" alt="" class="img-responsive img-inactive" style="border: 1px solid black"/>
+        <img src="/img/{{ .Params.game_platform }}.png" alt="{{ .Params.game_platform }}" class="sidebar-game-platform img-responsive"/>
+        <br/>
+        Genre: {{ .Params.game_genre }}<br/>
+        Release year: {{ .Params.game_release_year }}<br/>
+        Developer: {{ .Params.game_developer }}<br/>
+        </p>
+      </div>
+      <hr/>
+    {{ end }}
+
+    <!-- ripped from BB's minimal theme -->
+    {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "reviews") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+
+    {{ if $related }}
+
+      <div class="sidebar-header">
+        <span>Related</span>
+        <img src="/img/gob_purse.gif"/>
+      </div>
+
+        <ul class="sidebar-menu">
+        {{ range $related }}
+          {{ .Date.Format (.Site.Params.dateFormat | default "2 January") | $.Scratch.Set "subtitle" }}
+          {{ with .Description }} {{ $.Scratch.Set "subtitle" . }} {{ end }}              
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;
+            <span class="sidebar-date">({{ $.Scratch.Get "subtitle" }})</span>
+          </li>
+        {{ end }}
+      </ul>
+
+    {{ end }}
+
+
+    <div class="copyright">
+      <p class="credit">
+        {{ with .Site.Params.copyright }}
+          {{ . | safeHTML }}
+        {{ end }}
+      </p>
+    </div>
+  </div>
+</div>
+

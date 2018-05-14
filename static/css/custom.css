@@ -1,0 +1,153 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: #f1f4dd;
+}
+
+footer {
+	position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    height: 140px;
+    visibility: hidden;
+}
+
+@media only screen and (min-width: 1200px) {
+	footer {
+		visibility: visible;
+	}
+}
+
+footer .img-responsive {
+	margin: 0;
+}
+
+.container-fluid {
+	overflow: hidden;
+}
+
+.sidebar-content {
+	/** haxx!! overflowww **/
+    margin-bottom: -9000px;
+    padding-bottom: 9000px;
+    position: relative;
+    width: 100%;
+
+	border-right: 5px solid #a6a57c;
+}
+
+.content-column, .sidebar-content {
+	padding-top: 30px;
+}
+
+body, .content-column-content p, .content-column-content li, .box-masonry .box-masonry-text p {
+	color: #363636;
+}
+
+.sidebar-menu li {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border: 1px solid #d7d7a3;
+	padding-left: 20px;
+	margin: 0;
+}
+
+.sidebar-menu li:hover {
+	background: #f1f4dd url(/img/random/6.gif) no-repeat right;
+	border: 1px solid #a6a57c;
+}
+
+.sidebar-game-platform {
+	position: absolute;
+	top: 6px;
+	border: 1px solid black;
+}
+
+.sidebar-header {
+	font-weight: bold;
+}
+
+.sidebar-date {
+	color: grey;
+}
+
+.sidebar-header img {
+	float: right;
+}
+
+.content-column-content {
+	text-align: justify !important;
+}
+
+a, .box-masonry h4 a {
+    color:#c7532d;
+    text-decoration: none;
+}
+
+a:hover, .box-masonry h4 a:hover {
+    color:#c7532d;
+    background-color: #d1d3bd;
+} 
+
+.container-fluid {
+	padding-left: 0;
+}
+
+#sidebar {
+	padding: 0;
+	padding-left: 10px;
+}
+
+.content-column.white-background {
+	min-height: 100vh;
+	background: none;
+}
+
+.content-column {
+	padding-left: 30px;
+}
+
+#sidebar, .sidebar-content {
+	background-color: #d7d7a3;
+}
+
+#sidebar hr {
+	border-top: 1px solid #a6a57c;
+}
+
+.sidebar-game-info {
+	background-color: #e6ecb2;
+	border: 1px solid #a6a57c;
+}
+
+.box-masonry {
+	background-color: #d9e7ac;
+	border: 1px solid #a6a57c;
+}
+
+.img-inactive {
+	display: block;
+}
+
+.img-active {
+	display: none;
+}
+
+.box-masonry:hover {
+  box-shadow: 0 0 5px black;
+}
+.box-masonry:hover .box-masonry-hover-text-header {
+  opacity: 1;
+}
+.box-masonry:hover .box-masonry-hover-center {
+  opacity: 1;
+}
+.box-masonry:hover .box-masonry-image.with-hover-overlay:before {
+  opacity: 0.3;
+}
+.box-masonry:hover .box-masonry-image.with-hover-icon:after {
+  opacity: 1;
+}

@@ -1,0 +1,32 @@
+baseurl = "https://jefklakscodex.com/"
+title = "Jefklak's Codex"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+disqusShortname = ""
+googleAnalytics = ""
+publishDir = "docs"
+enableEmoji = true
+
+[params]
+  style = "default"
+  description = "Retro game thoughts"
+  copyright = "No &copy; reserved - sharing is caring. <a href='https://github.com/wgroeneveld/jefklakscodex' target='_blank'>Hack away!</a><br/>An integral part of <a href='https://brainbaking.com/' target='_blank'>Brain Baking</a>."
+  sidebarAbout = [
+    "You’re looking at “The Codex”, a dedicated and highly opinionated website about nostalgic games that left a lasting impression on me."
+  ]
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Articles Index"
+  url = "reviews/"
+  home = true
+
+[[params.navlinks]]
+  name = "Games Index"
+  url = "tags/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About the Codex"
+  url = "about/"
+

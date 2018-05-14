@@ -1,0 +1,39 @@
+<footer>
+    <img src="/img/bg-back.gif">
+</footer>
+
+<!-- built-in theme scripts -->
+<script src="{{ "js/jquery.min.js" | absURL }}"></script>
+<script src="{{ "js/bootstrap.min.js" | absURL }}"></script>
+<script src="{{ "js/jquery.cookie.js" | absURL }}"> </script>
+<script src="{{ "js/ekko-lightbox.js" | absURL }}"></script>
+<script src="{{ "js/jquery.scrollTo.min.js" | absURL }}"></script>
+<script src="{{ "js/masonry.pkgd.min.js" | absURL }}"></script>
+<script src="{{ "js/imagesloaded.pkgd.min.js" | absURL }}"></script>
+<script src="{{ "js/owl.carousel.min.js" | absURL }}"></script>
+<script src="{{ "js/front.js" | absURL }}"></script>
+<!-- custom stuff -->
+
+<script>
+
+$(function() {
+
+	$('.sidebar-game-platform').height($('.sidebar-content .img-inactive').height());
+
+	$('.box-masonry').mouseenter(function() {
+		var active = $(this).find('.img-active');
+		if(active.length > 0) {
+			active.css('display', 'block');
+			$(this).find('.img-inactive').css('display', 'none');
+		}
+	}).mouseleave(function() {
+		var active = $(this).find('.img-active');
+		if(active.length > 0) {
+			active.css('display', 'none');
+			$(this).find('.img-inactive').css('display', 'block');
+		}
+	});
+
+});
+
+</script>
