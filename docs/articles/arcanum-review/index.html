@@ -72,6 +72,54 @@
       
         
           <li>
+            <a href="/articles/captian-claw-review/">Captain Claw Review</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/bugs-are-features/">Bugs Are Features</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/bg2-spellprotection/">Baldur&#39;s Gate 2: Spell Protection</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/bg2-parties/">Baldur&#39;s Gate 2: Parties</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/bg2-magetalk/">Baldur&#39;s Gate 2: Mage Talk</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/bg2-mods/">BG2/Infinity Engine Mods</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/bg2-solo-blade/">BG2 Solo Blade: A Report</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
+            <a href="/articles/arxfatalis-review/">Arx Fatalis: the Review</a>&nbsp;
+            <span class="sidebar-date">(03/2007)</span>
+          </li>
+      
+        
+          <li>
             <a href="/articles/arcanum-review/">Arcanum: the Review</a>&nbsp;
             <span class="sidebar-date">(03/2007)</span>
           </li>
@@ -128,7 +176,7 @@
       <div class="sidebar-game-info">
         <div class="sidebar-header">&nbsp;&nbsp;
           
-            <span>Arcanum: the Review</span>
+            <span>Game: Arcanum</span>
           
         </div>
 
@@ -140,7 +188,13 @@
         <br/>
 
         
+          &nbsp;Genre: PC RPG<br/>
         
+        
+          &nbsp;Release year: 2001<br/>
+        
+        
+          &nbsp;Developer: Troika Games<br/>
         
         </p>
       </div>
@@ -265,51 +319,8 @@ Conclusion</p>
 <script src="https://jefklakscodex.com/js/front.js"></script>
 
 
-<script>
+<script src="https://jefklakscodex.com/js/codex.js"></script>
 
-$(function() {
-
-	$('#totop').click(function() {
-		$.scrollTo($('#top'), 1000);
-	});
-
-	$('a.internal').click(function() {
-		$.scrollTo($($(this).data('to')), 1000);
-	});
-
-	var rand = Math.floor(Math.random() * 10) + 1;
-	$('.sidebar-menu li').mouseenter(function() {
-		$(this).css('background', '#f1f4dd url(/img/random/' + rand + '.gif) no-repeat right');
-	}).mouseleave(function() {
-		$(this).css('background', 'none');
-	}).click(function() {
-		location.href = $(this).find('a').attr('href');
-	});
-
-	$('.sidebar-game-platform').height($('.sidebar-content .img-inactive').height());
-
-	var animate = function() {
-		var active = $(this).find('.img-active');
-		if(active.length > 0) {
-			active.css('display', 'block');
-			$(this).find('.img-inactive').css('display', 'none');
-		}
-	};
-
-	var inanimate = function() {
-		var active = $(this).find('.img-active');
-		if(active.length > 0) {
-			active.css('display', 'none');
-			$(this).find('.img-inactive').css('display', 'block');
-		}
-	};
-
-	$('.box-masonry').mouseenter(animate).mouseleave(inanimate);
-	$('.sidebar-game-info').mouseenter(animate).mouseleave(inanimate);
-
-});
-
-</script>
 
   <footer>
       <a style="cursor: pointer;" id="totop"><img src="/img/bg-back.gif" alt="to top" /></a>

@@ -1,3 +1,12 @@
+
+/* pm wiki conversion styles */
+
+.rfloat {
+	float: right;
+}
+
+/* hugo theme custom stuff */
+
 html, body {
 	height: 100%;
 }
@@ -85,7 +94,16 @@ a.internal {
 	float: right;
 }
 
-.content-column-content {
+.content-column-content img {
+	cursor: pointer;
+	border: 1px solid black;
+}
+
+.modal-header {
+	display: none;
+}
+
+.content-column-content p {
 	text-align: justify !important;
 }
 
@@ -115,6 +133,10 @@ a:hover, .box-masonry h4 a:hover {
 
 .content-column {
 	padding-left: 30px;
+}
+
+.content-column div.row {
+	padding-bottom: 14px;
 }
 
 #sidebar, .sidebar-content {
