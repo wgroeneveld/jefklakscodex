@@ -5,6 +5,10 @@ image = "/img/games/Arcanum/logo.jpg"
 date = "2007-03-30"
 title = "Arcanum: the Review"
 tags = ['Arcanum']
+game_name = 'Arcanum'
+game_genre = 'PC RPG'
+game_release_year = '2001'
+game_developer = 'Troika Games'
 weight = 0
 +++
 

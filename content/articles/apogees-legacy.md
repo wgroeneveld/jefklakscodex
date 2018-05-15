@@ -1,7 +1,8 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/articles/apogee_logo.png"
+image = "gif/apogee_still.gif"
+imageActive = "/gif/apogee.gif"
 date = "2007-03-30"
 title = "Apogee's Legacy"
 tags = ['Apogee']
@@ -51,7 +52,7 @@ Watch the first few minutes of well-known Apogee games in these Compilation vide
 - Mystic Towers
 - Raptor
 
-{{< youtube "bQ7-dduMz1E&t=229s" >}}
+{{< youtube "bQ7-dduMz1E&t=6s" >}}
 
 <br/>
 {{< youtube "MFd7L_cddrQ" >}}
