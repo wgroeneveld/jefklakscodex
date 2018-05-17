@@ -45,3 +45,14 @@ Review-Cat says: A welcome addition to dungeon crawling in real time. Better tha
 
 <img src="/img/games/ArxFatalis/screens/02_library.jpg"/>
 
+### Video footage
+
+This is some gameplay footage I recorded a long time ago. It might still entertain so here goes. 
+
+**Gameplay part 1**
+
+{{< youtube "TtlEB8U5blI" >}}
+
+**Gameplay part 2**
+
+{{< youtube "RfwrjYSeVfU" >}}

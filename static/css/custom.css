@@ -99,6 +99,23 @@ a.internal {
 	border: 1px solid black;
 }
 
+.content-column-content a:hover {
+	text-decoration: none;
+}
+
+.content-column-content a:not([href]) {
+	padding-right: 0;
+	background-image: none;
+}
+
+.content-column-content a {
+    background-image: url(/img/external.png);
+    background-position: center right;
+    background-repeat: no-repeat;
+    padding-right: 13px;
+    border-bottom: 1px dotted #526A43;
+}
+
 .modal-header {
 	display: none;
 }

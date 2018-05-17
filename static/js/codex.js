@@ -1,5 +1,12 @@
 $(function() {
 
+	var disableResponsiveImagesForInlineLis = function() {
+		$('li img.img-responsive').each(function() {
+			$(this).removeClass('img-responsive');
+			$(this).css('border', 'none');
+		});
+	};
+
 	var enableLightboxOnClickImgInContent = function() {
 		$('.content-column-content img').click(function(e) {
 			var me = $(this);
@@ -60,5 +67,6 @@ $(function() {
 	addRandomImageToSideBarMenus();
 	enableScrollToTopOnInternalLinks();
 	enableLightboxOnClickImgInContent();
+	disableResponsiveImagesForInlineLis();
 
 });

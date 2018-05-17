@@ -8,12 +8,12 @@
     {{ end }}
 
     <div class="sidebar-header">
-      <span>Latest</span>
+      <span>10 Latest</span>
       <img src="/img/gob_letter.gif"/>
     </div>
     {{ with .Site.GetPage "section" "articles" }}
     <ul class="sidebar-menu">
-      {{ range .Data.Pages.ByDate.Reverse }}
+      {{ range first 10 .Data.Pages.ByDate.Reverse }}
         {{ .Date.Format (.Site.Params.dateFormat | default "01/2006") | $.Scratch.Set "subtitle" }}
           <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;

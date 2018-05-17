@@ -47,6 +47,9 @@ Now we get to the cases and specifics of Wes Weimer's tactics mod. And why I had
 
 First, protection from magic weapons and protection from energy stops physical attacks and area effect spells cold. (since the smarter lich script casts and stacks protection from energy, it is completely immune to elemental spells and spells like abi dahzim's horrid wilting) Then spell immunity abjuration will stop remove magic(dispell magic, including inquisitor dispell) cold. So now you must remove the spell immunity so remove magic (or dispell) can work, right?
 
+{{< youtube "Z2r4lgdVPy8" >}}
+<center>A cowled wizard fight in Athkatla</center>
+
 Now the spells that remove spell immunity are spell strike, ruby ray of reversal, and khelbens warding whip...ALL spells that must be targetted on a single target. So now you understand why the lich casts improved invisibility and spell immunity divination...You may not target improved invisible creatures with single target spells. The game engine will not allow you to target improved invisible creatures with spells, until you get rid of the improved invisibility...and spell immunity divination will make the lich immune to true sight... a seemingly closed loop.
 
 However, i have found out that Chain Contingency spell will target improved invisible creatures with single target spells!!!! (this is covered above in the Spell Cheeses section). So when killing smarter liches, (or smarmy liches) the procedure goes like this....

@@ -60,5 +60,6 @@ $(function() {
 	addRandomImageToSideBarMenus();
 	enableScrollToTopOnInternalLinks();
 	enableLightboxOnClickImgInContent();
+	disableResponsiveImagesForInlineLis();
 
 });

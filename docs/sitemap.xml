@@ -78,6 +78,16 @@
   </url>
   
   <url>
+    <loc>https://jefklakscodex.com/articles/castlevania-portrait-of-ruin-review/</loc>
+    <lastmod>2007-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/articles/early-shooter-clones/</loc>
+    <lastmod>2007-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/articles/win-platforming/</loc>
     <lastmod>2007-03-30T00:00:00+00:00</lastmod>
   </url>
@@ -143,6 +153,12 @@
   </url>
   
   <url>
+    <loc>https://jefklakscodex.com/tags/castlevania/</loc>
+    <lastmod>2007-03-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -156,6 +172,12 @@
   <url>
     <loc>https://jefklakscodex.com/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/portrait-of-ruin/</loc>
+    <lastmod>2007-03-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

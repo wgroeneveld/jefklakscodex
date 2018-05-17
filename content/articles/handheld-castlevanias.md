@@ -1,0 +1,86 @@
++++
+showonlyimage = false
+draft = false
+image = "/img/games/BaldursGate2/logo.jpg"
+date = "2007-03-30"
+title = "Handheld Castlevanias"
+tags = ['Castlevania', 'Portrait of Ruin', 'Harmony of Dissonance', 'Circle of the Moon', 'Aria of Sorrow', 'Dawn of Sorrow']
+weight = 0
++++
+
+<p class='vspace'><a class='wikilink' href='/articles/castlevania-portrait-of-ruin-review/'>Portrait of Ruin</a> is the second Nintendo DS Castlevania game. Maybe, if Komani thinks it'll be worthwile, a third one will follow, since there have been three Castlevania games released for the predecessor the Gameboy Advance. All excellent Handheld Metroidvania games, but which one excels at what? A short overview would be handy indeed. Well here you go!
+</p>
+<div class='vspace'></div><h3>Gameboy Advance</h3>
+<div class='indent'><strong>Castlevania: Harmony of Dissonance</strong>
+</div><p class='vspace'><span class='rfloat'><img src="/img/Guides/cv-harmony.jpg"></span>
+</p>
+<p class='vspace'>Harmony of Dissonance was actually the second Castlevania game to be released on the GBA. Being developed by another game studio, they did not see the gameboy's potential music power until very late in the development process. As a result, the soundtrack uses the gameboy color chip. Compared to Circle of the Moon, it's painful to hear. Despite the failing soundtrack, the castle design has been heavily based upon PSX's Symphony of the Night - which is <em>not</em> a bad thing! The castle is larger and features a different set of monsters. Unfortunately most bosses aren't as impressive as featured in other CV games.
+</p>
+<p class='vspace'>The story is barely noticable, but never that much needed anyway. I won't spoil the classic surprises so you'll have to find it out. The game plays like classic Castlevania games: you only have your whip as a weapon and can pick up different sub weapons throughout the castle, varying from holy water to throwing axes. Nothing new or fancy.
+</p>
+<div class='vspace'></div><ul><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>General Castle Design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Color and graphic usage</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Enemy and boss design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Soundtrack</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Skill/Control system</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Story telling</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Gameplay and difficulty</em>
+</li></ul><div class='vspace'></div><div class='indent'><strong>Castlevania: Circle of the Moon</strong>
+</div><p class='vspace'><span class='rfloat'> <img src="/img/Guides/cv-circle.jpg"></span>
+</p>
+<p class='vspace'>Circle of the Moon actually tried to renew a bunch of aspects previously implemented in Castlevania games. The skill system is an obvious result because of this: combining creature and god cards (if found while crushing monsters: the <em>farming</em> effect appears!) nets you different special skills such as increased attack power or poison claws. The storyline is as basic as Harmony of Dissonance though. Circle of the Moon does feature an excellent soundtrack. I personally have the feeling the castle is a lot smaller and tougher to navigate than usual.
+</p>
+<p class='vspace'><span class='wikiword'>CotM</span>'s difficulty can be frustrating, but can also be very rewarding. Bosses are easy to beat if using the right strategy, but some area's are insane. That's a good thing, CV games are not supposed to be easy to breeze through! Too bad most locations are not that significantly different. The game controls a bit awkward, sprinting can be done by double tapping the D-pad. Running and jumping when needed can sometimes be hard to pull of.
+</p>
+<div class='vspace'></div><ul><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>General Castle Design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Color and graphic usage</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Enemy and boss design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> --- <em>Soundtrack</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Skill/Control system</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Story telling</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Gameplay and difficulty</em>
+</li></ul><div class='vspace'></div><div class='indent'><strong>Castlevania: Aria of Sorrow</strong>
+</div><p class='vspace'><span class='rfloat'> <img src="/img/Guides/cv-aria.jpg"></span>
+</p>
+<p class='vspace'>The last GBA Castlevania games is for many the pinnacle of the series. Aria of Sorrow fixed most issues with the previous games: it features another awesome soundtrack, has a greatly improved character and castle design and has a colorful variety of places to go to. It also includes a shop, where you can finally sell your unwanted items. Circle of the Moon's monster drops were not that well balanced. The castle is bigger than <span class='wikiword'>CotM</span> but not as big as Dissonance's (including the inverse castle, that is). 
+</p>
+<p class='vspace'>The skill system has been reworked: you now gather skills from your enemies. Even more farming may be required to get a specific skill, which can prove to be a pain. The storyline is a bit more consistent and you meet more characters. The different possible endings are a great extra to an already excellent game!
+</p>
+<div class='vspace'></div><ul><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> --- <em>General Castle Design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Color and graphic usage</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> --- <em>Enemy and boss design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> --- <em>Soundtrack</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Skill/Control system</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Story telling</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> --- <em>Gameplay and difficulty</em>
+</li></ul><div class='vspace'></div><h3>Nintendo DS</h3>
+<div class='indent'><strong>Castlevania: Dawn of Sorrow</strong>
+</div><p class='vspace'><span class='rfloat'> <img src="/img/Guides/cv-dawn.jpg"></span>
+</p>
+<p class='vspace'>The direct follow-up to Aria of Sorrow begins a bit weird, but the more you progress into the castle, the more it makes up for that mistake. The DS has obviously more power capabilities than the GBA, and that is easily visible: the animations are extremely gorgeous! The high resolution monster designs are even prettier than seen in Aria. You can also now use your gathered skills to forge them into a weapon. After finishing the game, you have the option to replay with another set of characters, unlocking the "classic" whipping gameplay. 
+</p>
+<p class='vspace'>I can't think of many bad things in this game. Except for the maybe annoying touch screen usage: the boss seals and the crystal breaking mechanic. It's nice, but frustrating in later stages when you need to quickly grab the stylus to seal the boss away, before he gets a portion of his HP back to finish you off. I do feel the castle size is a little bit smaller, compared to Aria of Sorrow.
+</p>
+<div class='vspace'></div><ul><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> --- <em>General Castle Design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> --- <em>Color and graphic usage</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> --- <em>Enemy and boss design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> --- <em>Soundtrack</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Skill/Control system</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Story telling</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> --- <em>Gameplay and difficulty</em>
+</li></ul><div class='vspace'></div><div class='indent'><strong>Castlevania: Portrait of Ruin</strong>
+</div><p class='vspace'><span class='rfloat'> <img src="/img/Guides/cv-por.jpg"></span>
+</p>
+<p class='vspace'>Portrait of Ruin introduces <span class='wikiword'>WiFi</span> multiplay and character switching into the game. Both features have been received with mixed feelings as they do not really enhance the gameplay. You can explore the castle as Jonathan using the classic whip (or other weapons like the Sorrow games). The girl has sorcery at her disposal to kill enemies with. You can also perform combination attacks. The skill system is nontheless very interesting, but I prefer the Sorrow ones, or even Circle of the Moon, as sometimes the required cooperation doesn't turn out to be easy to control. 
+</p>
+<p class='vspace'>Apart from that, the castle design is disappointing, because the area's have been divided into different "portraits". See the review for more information. Some portrait area's look like exact copies with drab colors, some are beautiful. Same rule for the monster design: the attempt to do 3D designs (the peeping eye) sadly result into very ugly looking meshes. The storytelling part has been made more laughable than serious, and Death looks like a stereotype anime character instead of a terrifying opponent. If you enjoyed Portrait of Ruin, be sure to try at least one of the above Castlevania games!
+</p>
+<div class='vspace'></div><ul><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>General Castle Design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Color and graphic usage</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Enemy and boss design</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> --- <em>Soundtrack</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Skill/Control system</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Story telling</em>
+</li><li><img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_full.gif' alt='' title='' /> <img src='/img/star_half.gif' alt='' title='' /> <img src='/img/star_empty.gif' alt='' title='' /> --- <em>Gameplay and difficulty</em>
+</li></ul><p>&nbsp;
+</p>

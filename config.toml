@@ -22,7 +22,7 @@ enableEmoji = true
   home = true
 
 [[params.navlinks]]
-  name = "Games Index"
+  name = "Appendix"
   url = "tags/"
 
   [[params.navlinks]]
