@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme Hospital on Jefklak&#39;s Codex</title>
+    <link>https://jefklakscodex.com/tags/theme-hospital/</link>
+    <description>Recent content in Theme Hospital on Jefklak&#39;s Codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Oct 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jefklakscodex.com/tags/theme-hospital/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flashback: Bullfrog</title>
+      <link>https://jefklakscodex.com/articles/bullfrog-flashback/</link>
+      <pubDate>Sun, 29 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://jefklakscodex.com/articles/bullfrog-flashback/</guid>
+      <description>The gaming development industry is a harsh world, especially since 2005. Publishers keep demanding more value for buck which often results into many game delay periods. Sometimes it may even end up real bad: the development studio will be forced to shut down due to lack of funds, popularity, hype, or other factors. Let&amp;rsquo;s take a closer look at one of the entrepreneurs of video gaming, Bullfrog Productions, and how exactly the company met the final end.</description>
+    </item>
+    
+  </channel>
+</rss>

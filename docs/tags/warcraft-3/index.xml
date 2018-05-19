@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Warcraft 3 on Jefklak&#39;s Codex</title>
+    <link>https://jefklakscodex.com/tags/warcraft-3/</link>
+    <description>Recent content in Warcraft 3 on Jefklak&#39;s Codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jefklakscodex.com/tags/warcraft-3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Killing a Lich</title>
+      <link>https://jefklakscodex.com/articles/on-killing-a-lich/</link>
+      <pubDate>Tue, 24 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://jefklakscodex.com/articles/on-killing-a-lich/</guid>
+      <description>Both old school and modern roleplaying games feature many times at least one &amp;ldquo;Lich&amp;rdquo; entry. And the evil spellcasting undead creature will almost always kick your butt without proper protection. And why is it that so many big boss battles featuring some kind of super evil incarnation always have to transform into even worse enemies? Even Ganon tricked me in A link to The Past, although he is certainly not classified as Lich.</description>
+    </item>
+    
+  </channel>
+</rss>
