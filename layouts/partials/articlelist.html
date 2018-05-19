@@ -1,0 +1,21 @@
+{{ range .Data.Pages.GroupByDate "01-2006" "desc" }}
+	<h5 style="float: left; color: grey;">
+		<i class='fa fa-calendar'></i>&nbsp;{{ .Key }}
+	</h5>
+	<ul style="text-align: left; float: left; margin-left: 20px; list-style-type: none; border-left: #eee 1px solid; padding: 0">
+	    {{ range .Pages.ByDate.Reverse }}
+
+		<li style="margin-bottom: 15px;">
+
+	    	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+	    	{{ with .Params.archived }}
+				<kbd class="item-tag">Archived</kbd>
+	    	{{ end }}		    
+		    {{ with .Description }} 
+		    	<br/>{{ . }}
+		    {{ end }}
+		</li>
+	    {{ end }}
+	</ul>
+	<hr style="clear: both;"/>
+	{{ end }}

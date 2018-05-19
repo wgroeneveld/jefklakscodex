@@ -5,10 +5,10 @@
 .content-column-content ul li:before {
 	margin: 0 !important;	
 }
-h5 {
+.content-column-content h5 {
 	width: 15%;
 }
-ul {
+.content-column-content ul {
 	width: 80%;
 }
 </style>
@@ -46,6 +46,8 @@ ul {
       </div>
   </div>
 
+  	{{ partial "scripts.html" . }}
 	{{ partial "footer.html" . }}
+
 </body>
 </html>
