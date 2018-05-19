@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jefklak&#39;s Codex</title>
+    <title>Jefklak&#39;s Retro Gaming Codex on Jefklak&#39;s Codex</title>
     <link>https://jefklakscodex.com/articles/</link>
-    <description>Recent content on Jefklak&#39;s Codex</description>
+    <description>Recent content in Jefklak&#39;s Retro Gaming Codex on Jefklak&#39;s Codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Apr 2008 00:00:00 +0000</lastBuildDate>
@@ -30,12 +30,32 @@
     </item>
     
     <item>
+      <title>Wizardry 8: Classes Guide</title>
+      <link>https://jefklakscodex.com/articles/wizardry8-classes/</link>
+      <pubDate>Wed, 30 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://jefklakscodex.com/articles/wizardry8-classes/</guid>
+      <description>The Bishop Race Best Races:
+ Fairy: best INT &amp;amp; SPE. Downside: low PIE and almost no weapons/armor usable. (go for sprite daggers if you want close-combat) Elf: good INT, PIE &amp;amp; DEX. Downside: less than fairies but you&amp;rsquo;ll be able to use better armor &amp;amp; weapons (use staffs, maces &amp;amp; shield - you need AC - or throwing) Other good races: gnome, human. Mook for SEN + DEX.  Controlling attriubutes:  Intelligence (max ASAP for power cast &amp;amp; keep on pumping this power skill!</description>
+    </item>
+    
+    <item>
       <title>Etrian Odyssey Review</title>
       <link>https://jefklakscodex.com/articles/etrian-oddysey-review/</link>
       <pubDate>Tue, 03 Jul 2007 00:00:00 +0000</pubDate>
       
       <guid>https://jefklakscodex.com/articles/etrian-oddysey-review/</guid>
       <description>Old School dungeon crawlers. It has been a long time since we&amp;rsquo;ve seen these types of games properly released. Veteran Roleplaying players should remember Eye of the Beholder, the Bard&amp;rsquo;s Tale, Might &amp;amp; Magic, Wizardry and other series, released upon different non-console platforms: DOS, Commodore 64, Amiga, &amp;hellip; These games all used to have a few things in common, as explained in the Roleplaying Concepts article. The most intersting gameplay mechanic is without a doubt the &amp;ldquo;dungeon crawling&amp;rdquo; principle.</description>
+    </item>
+    
+    <item>
+      <title>Wizardry 8: General Tips</title>
+      <link>https://jefklakscodex.com/articles/wizardry8-tips/</link>
+      <pubDate>Sun, 17 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://jefklakscodex.com/articles/wizardry8-tips/</guid>
+      <description>Legal notice: Most tips, tricks, howtos and guides are - not - originally created by me. They are scattered troughout the internet, and this site contains a bunch of information found on other sites. Therefore, I am not responsible for any wrong information, or grammatical faults. If anybody notices his own text and would like to have it removed, please email me!
+  A warm welcome to you, stranger.</description>
     </item>
     
     <item>
@@ -223,12 +243,30 @@ An NPC is basically a character not controlled by the player, who can be of grea
     </item>
     
     <item>
+      <title>Flashback: Bullfrog</title>
+      <link>https://jefklakscodex.com/articles/bullfrog-flashback/</link>
+      <pubDate>Sun, 29 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://jefklakscodex.com/articles/bullfrog-flashback/</guid>
+      <description>The gaming development industry is a harsh world, especially since 2005. Publishers keep demanding more value for buck which often results into many game delay periods. Sometimes it may even end up real bad: the development studio will be forced to shut down due to lack of funds, popularity, hype, or other factors. Let&amp;rsquo;s take a closer look at one of the entrepreneurs of video gaming, Bullfrog Productions, and how exactly the company met the final end.</description>
+    </item>
+    
+    <item>
       <title>The Art of Cooperative (PC) Gaming</title>
       <link>https://jefklakscodex.com/articles/cooperative-arts/</link>
       <pubDate>Sat, 28 Oct 2006 00:00:00 +0000</pubDate>
       
       <guid>https://jefklakscodex.com/articles/cooperative-arts/</guid>
       <description>What could possibly more fun than playing a PC game on your own? Why, cooperative gameplay mechanics of course! Every modern released game nowadays features at least one cooperative (co-op) game mode where you can play with your friends, mostly against the computer AI. Since this is part I, let&amp;rsquo;s talk about Strategy games on the PC and its coopeartive capabilities. I can&amp;rsquo;t possibly imagine a strategy game without multiplayer options available, even games from 1998 came with some (limited) multiplayer modes, mostly using the IPX protocol.</description>
+    </item>
+    
+    <item>
+      <title>On Killing a Lich</title>
+      <link>https://jefklakscodex.com/articles/on-killing-a-lich/</link>
+      <pubDate>Tue, 24 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://jefklakscodex.com/articles/on-killing-a-lich/</guid>
+      <description>Both old school and modern roleplaying games feature many times at least one &amp;ldquo;Lich&amp;rdquo; entry. And the evil spellcasting undead creature will almost always kick your butt without proper protection. And why is it that so many big boss battles featuring some kind of super evil incarnation always have to transform into even worse enemies? Even Ganon tricked me in A link to The Past, although he is certainly not classified as Lich.</description>
     </item>
     
     <item>
