@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "/img/games/BaldursGate2/logo.jpg"
-date = "2007-03-30"
+date = "2008-04-30"
 title = "BG2 Solo Blade: A Report"
 tags = ['Baldurs Gate 2']
 weight = 0

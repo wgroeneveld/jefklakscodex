@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "/img/games/por.jpg"
-date = "2007-03-30"
+date = "2007-01-12"
 title = "Castlevania Portrait of Ruin Review"
 tags = ['Castlevania', 'Portrait of Ruin']
 game_name = 'Castlevania Portrait of Ruin'

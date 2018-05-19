@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/games/BaldursGate2/logo.jpg"
-date = "2007-03-30"
+image = "/img/articles/rpg-npc_blocking.gif"
+date = "2007-01-02"
 title = "RPG Concepts: NPCS"
-tags = ['RPG Concepts']
+tags = ['RPG Concepts', 'Knights of the Old Republic', 'Oblivion', 'Wizardry8', 'Wizardry7', 'Arcanum']
 weight = 0
 +++
 
@@ -14,7 +14,7 @@ weight = 0
 
 An NPC is basically a character not controlled by the player, who can be of great importance during the many main or side quests. NPCs vary in importance and placement: they can either be annoying and usesless or interesting and useful. Many Roleplaying games only give the most important NPCs something useful to say or do. Talking to other characters makes no sense since they only answer with one of the standard sentences: "oh, you're the princess!" or "good weather, isn't it?". This concept destroys the whole roleplaying experience since it transforms roleplaying into trying to find the right character to chat with, without any interest to other local inhabitants.
 
-<img src="/img/articles/rpg-npc_blocking.gif "/>
+<img src="/img/articles/rpg-npc_blocking.gif"/>
 
 Everyone probably already encountered a couple of NPCs just standing there, doing nothing. When you talk to them, they respond with "hiya stranger". When you talk to them again, they repeat that exact same sentence. After the tenth time of "hiya stranger" you begin to wonder whether the person was on drugs or not. What is the purpose of this NPC? Exactly: a useless object to fill the otherwise void space. Players can enjoy a "guess who holds the quest" puzzle. Things get even worse when each NPC is called "stranger x" or "villager y". This does not give them any personality and give you even less reasons to replay the game since the living world feels artificial and dead. There's a difficult balance to be kept within a city full of NPCs: do you want extreme activity but soulless beings or a less crowded area, where everyone has their own personality and interesting story?
 

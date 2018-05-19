@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-date = "2007-03-30"
+date = "2006-10-05"
 image = "/img/articles/captainclaw.jpg"
 title = "Captain Claw Review"
 tags = ['Captain Claw']

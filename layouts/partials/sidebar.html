@@ -8,7 +8,7 @@
     {{ end }}
 
     <div class="sidebar-header">
-      <span>10 Latest</span>
+      <span>Latest</span>
       <img src="/img/gob_letter.gif"/>
     </div>
     {{ with .Site.GetPage "section" "articles" }}
@@ -17,7 +17,10 @@
         {{ .Date.Format (.Site.Params.dateFormat | default "01/2006") | $.Scratch.Set "subtitle" }}
           <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;
-            <span class="sidebar-date">({{ $.Scratch.Get "subtitle" }})</span>
+            <span class="sidebar-date">
+              <i class='fa fa-calendar'></i>&nbsp;
+              {{ $.Scratch.Get "subtitle" }}
+            </span>
           </li>
       {{ end }}
     </ul>
@@ -62,7 +65,7 @@
           &nbsp;Release year: {{ . }}<br/>
         {{ end }}
         {{ with .Params.game_developer }}
-          &nbsp;Developer: {{ . }}<br/>
+          &nbsp;Developer: <a href="https://en.wikipedia.org/wiki/{{ . }}" target="_blank">{{ . }}</a><br/>
         {{ end }}
         </p>
       </div>

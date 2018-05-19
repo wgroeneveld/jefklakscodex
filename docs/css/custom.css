@@ -103,6 +103,11 @@ a.internal {
 	text-decoration: none;
 }
 
+.content-column-content a:not([href]) {
+	padding-right: 0;
+	background-image: none;
+}
+
 .content-column-content a {
     background-image: url(/img/external.png);
     background-position: center right;
@@ -185,6 +190,10 @@ a:hover, .box-masonry h4 a:hover {
 }
 .box-masonry:hover .box-masonry-hover-center {
   opacity: 1;
+}
+.box-masonry .box-masonry-image {
+	background: none;
+	padding-top: 10px;
 }
 .box-masonry:hover .box-masonry-image.with-hover-overlay:before {
   opacity: 0.3;

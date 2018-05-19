@@ -1,8 +1,8 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/games/BaldursGate2/logo.jpg"
-date = "2007-03-30"
+image = "/img/games/doom2.jpeg"
+date = "2006-11-02"
 title = "Early Shooter Clones"
 tags = ['Doom', 'Wolfenstein 3D', 'Rise of the Triad', 'Quake', 'Duke Nukem 3D']
 weight = 0

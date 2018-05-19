@@ -1,8 +1,8 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/games/BaldursGate2/logo.jpg"
-date = "2007-03-30"
+image = "/img/Guides/cv-harmony.jpg"
+date = "2007-01-12"
 title = "Handheld Castlevanias"
 tags = ['Castlevania', 'Portrait of Ruin', 'Harmony of Dissonance', 'Circle of the Moon', 'Aria of Sorrow', 'Dawn of Sorrow']
 weight = 0

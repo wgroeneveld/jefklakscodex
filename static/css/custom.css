@@ -191,6 +191,10 @@ a:hover, .box-masonry h4 a:hover {
 .box-masonry:hover .box-masonry-hover-center {
   opacity: 1;
 }
+.box-masonry .box-masonry-image {
+	background: none;
+	padding-top: 10px;
+}
 .box-masonry:hover .box-masonry-image.with-hover-overlay:before {
   opacity: 0.3;
 }

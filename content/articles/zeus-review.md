@@ -1,9 +1,13 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/games/BaldursGate2/logo.jpg"
-date = "2007-03-30"
+image = "/img/games/zeus.jpg"
+date = "2006-10-19"
 title = "Zeus Review"
+game_name = 'Zeus: master of olympus'
+game_genre = 'Simulation/RTS'
+game_release_year = '2000'
+game_developer = 'Impressions Games'
 tags = ['Zeus', 'Emperor']
 weight = 0
 +++

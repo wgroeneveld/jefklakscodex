@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "/img/games/BaldursGate2/logo.jpg"
-date = "2007-03-30"
+date = "2006-11-08"
 title = "BG2/Infinity Engine Mods"
 tags = ['Baldurs Gate 2']
 weight = 0

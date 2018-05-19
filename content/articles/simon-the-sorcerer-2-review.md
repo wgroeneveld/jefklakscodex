@@ -1,10 +1,14 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/games/BaldursGate2/logo.jpg"
-date = "2007-03-30"
+image = "/img/games/simon2.jpeg"
+date = "2006-11-14"
 title = "Simon The Sorcerer 2 Review"
 tags = ['Simon the Sorcerer']
+game_name = 'Simon the Sorcerer 2'
+game_genre = 'Point & Click'
+game_release_year = '1995'
+game_developer = 'Adventure Soft'
 weight = 0
 +++
 

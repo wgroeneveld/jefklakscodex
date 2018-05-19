@@ -5,6 +5,12 @@
 .content-column-content ul li:before {
 	margin: 0 !important;	
 }
+h5 {
+	width: 15%;
+}
+ul {
+	width: 80%;
+}
 </style>
 
 <body>
@@ -20,8 +26,17 @@
 				  <div class="row">
 				    <div class="col-lg-8">
 				      <div class="content-column-content">
+
+				      		<h4>By Tag</h4>
 							{{ partial "taglist.html" . }}
-				         <hr/>
+				         	<hr style="clear: both;"/>
+
+				         	<h4>By Article</h4>
+
+						    {{ with .Site.GetPage "section" "articles" }}	
+						    	{{ partial "articlelist.html" . }}
+					      	{{ end }}
+
 				      </div>
 				    </div>
 				  </div>

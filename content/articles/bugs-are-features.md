@@ -1,7 +1,7 @@
 +++
-showonlyimage = false
 draft = false
 date = "2007-03-30"
+image = "/img/BlogPages/fallout3.jpg"
 title = "Bugs Are Features"
 tags = ['Fallout', 'Troika']
 weight = 0

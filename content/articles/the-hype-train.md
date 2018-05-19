@@ -1,8 +1,8 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/games/BaldursGate2/logo.jpg"
-date = "2007-03-30"
+image = "/img/games/hypetrain.jpg"
+date = "2007-06-11"
 title = "The Hype Train"
 tags = ['hype train', 'Oblivion', 'Black and White', 'Fallout 3', 'Might and Magic', 'Deus Ex']
 weight = 0

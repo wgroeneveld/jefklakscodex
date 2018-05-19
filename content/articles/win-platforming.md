@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "/img/articles/captainclaw.jpg"
-date = "2007-03-30"
+date = "2007-03-15"
 title = "Windows 2D Platforming"
 tags = ['2D platforming']
 weight = 0

@@ -1,8 +1,12 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/games/BaldursGate2/logo.jpg"
-date = "2007-03-30"
+image = "/img/games/ja2.jpeg"
+date = "2006-10-23"
+game_name = 'Jagged Alliance 2'
+game_genre = 'Turn-based RPG/RTS'
+game_release_year = '1999'
+game_developer = 'Sir-Tech'
 title = "Jagged Alliance 2 Review"
 tags = ['Jagged Alliance 2']
 weight = 0
