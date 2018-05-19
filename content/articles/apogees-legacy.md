@@ -52,7 +52,7 @@ Watch the first few minutes of well-known Apogee games in these Compilation vide
 - Mystic Towers
 - Raptor
 
-{{< youtube "bQ7-dduMz1E&t=6s" >}}
+{{< youtube "bQ7-dduMz1E" >}}
 
 <br/>
 {{< youtube "MFd7L_cddrQ" >}}

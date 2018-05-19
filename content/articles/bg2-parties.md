@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "/img/games/BaldursGate2/logo.jpg"
 date = "2007-03-30"
-title = "Baldur's Gate 2: Parties"
+title = "Baldur's Gate 2: Party Guide"
 tags = ['Baldurs Gate 2']
 weight = 0
 +++

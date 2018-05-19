@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://jefklakscodex.com/articles/bg2-clericranger/</loc>
+    <lastmod>2008-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/articles/bg2-magetalk/</loc>
     <lastmod>2008-04-30T00:00:00+00:00</lastmod>
   </url>
@@ -108,6 +113,11 @@
   </url>
   
   <url>
+    <loc>https://jefklakscodex.com/articles/gba-rpgs/</loc>
+    <lastmod>2006-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/articles/simon-the-sorcerer-2-review/</loc>
     <lastmod>2006-11-14T00:00:00+00:00</lastmod>
   </url>
@@ -148,8 +158,18 @@
   </url>
   
   <url>
+    <loc>https://jefklakscodex.com/articles/might-and-magic-vii-review/</loc>
+    <lastmod>2006-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/articles/zeus-review/</loc>
     <lastmod>2006-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/articles/gobliins2-review/</loc>
+    <lastmod>2006-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -339,7 +359,31 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/final-fantasy/</loc>
-    <lastmod>2006-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2006-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/final-fantasy-tactics/</loc>
+    <lastmod>2006-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/fire-emblem/</loc>
+    <lastmod>2006-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/gobliins-2/</loc>
+    <lastmod>2006-10-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/golden-sun/</loc>
+    <lastmod>2006-11-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -399,6 +443,12 @@
   <url>
     <loc>https://jefklakscodex.com/tags/might-and-magic/</loc>
     <lastmod>2007-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/might-and-magic-vii/</loc>
+    <lastmod>2006-10-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -465,6 +515,12 @@
   <url>
     <loc>https://jefklakscodex.com/tags/tactics-ogre/</loc>
     <lastmod>2006-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/tatics-ogre/</loc>
+    <lastmod>2006-11-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

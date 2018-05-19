@@ -27,15 +27,16 @@
 				    <div class="col-lg-8">
 				      <div class="content-column-content">
 
-				      		<h4>By Tag</h4>
-							{{ partial "taglist.html" . }}
-				         	<hr style="clear: both;"/>
-
 				         	<h4>By Article</h4>
+				         	<hr style="clear: both;"/>
 
 						    {{ with .Site.GetPage "section" "articles" }}	
 						    	{{ partial "articlelist.html" . }}
 					      	{{ end }}
+
+				      		<h4>By Tag</h4>
+							{{ partial "taglist.html" . }}
+				         	<hr style="clear: both;"/>
 
 				      </div>
 				    </div>

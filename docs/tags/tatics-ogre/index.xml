@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatics Ogre on Jefklak&#39;s Codex</title>
+    <link>https://jefklakscodex.com/tags/tatics-ogre/</link>
+    <description>Recent content in Tatics Ogre on Jefklak&#39;s Codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jefklakscodex.com/tags/tatics-ogre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impressive GBA RPGs</title>
+      <link>https://jefklakscodex.com/articles/gba-rpgs/</link>
+      <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://jefklakscodex.com/articles/gba-rpgs/</guid>
+      <description>Since the Nintendo DS has been released a couple of years ago, many game related websites predicted a quick and painful death for the Gameboy Advance. Thankfully, none of those predictions made it into reality since the GBA library is still steadily growing, although a whole lot slower than in 2002. Nintendo&amp;rsquo;s smart marketing ideas enabled the DS to play GBA cartridges which indirectly prolongs the overall GBA&amp;rsquo;s life. Therefore, a lot of potentially great games have been released but mainly ignored in favor of less entertaining DS games.</description>
+    </item>
+    
+  </channel>
+</rss>

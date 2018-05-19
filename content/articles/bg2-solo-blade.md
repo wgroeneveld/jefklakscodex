@@ -26,7 +26,7 @@ weight = 0
 <a id="intro"></a>
 ### Introduction
 
-With a small group of Forgotten Realms fans at Shrimprefuge, we decided to take on the Baldur's Gate world using only one character (hence "solo"). For most of us, this will be the first solo run so I figured we (and other readers) could use a report writeup as the characters progress through the game.
+With a small group of Forgotten Realms fans at [Shrimprefuge](http://forum.shrimprefuge.be/), we decided to take on the Baldur's Gate world using only one character (hence "solo"). For most of us, this will be the first solo run so I figured we (and other readers) could use a report writeup as the characters progress through the game.
 Before picking the class bard and kit blade, I did some basic research on how to play and which strategy should work - and which won't. The most resourceful report was definatly andijvieschotel 's one from the BioWare forums. Thanks to him, I managed to get through some very otherwise tough portions of the game, especially in the beginning. Let's get on with it, shall we.
 
 <a id="explained"></a>
