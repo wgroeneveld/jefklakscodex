@@ -29,6 +29,8 @@ In essence, this game is a **Metroidvania**. That's right! Not only because of t
 
 Another amazing thing here is the **atmosphere**. There's a day and night cycle and it changes the enemies, the music, the puzzles and therefore the mood of each level. Wario's funny animations (when climbing a ladder or entering a pipe for instance) contribute a lot to this. 
 
+Natural born Mario players will immediately notice the striking absence of **coins**. Well, not really absence. Breaking blocks might net you some: they act as a payment to play the golf mini game. But that's it! No screens full of them, running around like crazy to fill up those pockets. This **reduces clutter** on screen and allows you to focus on what makes these games great: the platforming. I won't waste words on the golfing mini game except that it's frustrating but required for certain areas to progress. Masochists can even unlock the game with certain treasures. 
+
 ### Wario Land II (GB/GBC)
 
 Okay, so I finished Wario 3, let's get back to version 2 and see what's the difference. This cartridge is a black one: it has some colors if you pop it into a GBC/GBA but still plays on your original GB. 
@@ -41,6 +43,8 @@ The first thing you notice when playing in reverse order like I did, is the like
 </center>
 
 In Wario II you still search for hidden treasure to add to your repertoire but here it's in the form of a mini-game. The exit is... simply at the end of each level. It's a lot more linear than Wario 3 but there are still a lot of cool **branching pathways**. For instance, in the first level the enemy throws an alarm clock into Wario's castle. You can simply choose to keep on snoring and the level ends! The lack of an overworld map is a letdown though. Only after finishing the game you can choose which level to play. The game is also finished within 4 hours if you breeze through it: Wario 3 took me 10 hours. 
+
+Something needs to be said about it's bosses. Since you cannot die, bosses instead push you off a platform to force you to retrace your steps for a second try. They're also incredibly **easy**: this game is easier than Wario Land 1. I like easy games more than I did when I was a kid: patience in gaming seems to diminish when you grow up. Boss design is done great: there's even a football match to be won against a bunny (that returns in Wario 3 as a basketball player).
 
 So, Wario Land 3 builds upon Wario Land II and improves every aspect of the game by cleverly introducing a metroidvania-like gameplay in a beautifully atmospheric coat.
 
