@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"progres",
+				"progression"
+			],
+			[
 				"Castleva",
 				"CastlevaniaPoR"
 			],
@@ -503,6 +507,43 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "content/articles/gba-rpgs.md",
+			"settings":
+			{
+				"buffer_size": 10477,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "version=pmwiki-2.2.0-beta16 ordered=1 urlencoded=1"
+			}
+		},
+		{
+			"file": "layouts/_default/terms.html",
+			"settings":
+			{
+				"buffer_size": 1218,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/tags/_index.md",
+			"settings":
+			{
+				"buffer_size": 92,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/about.md",
+			"settings":
+			{
+				"buffer_size": 6249,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -574,6 +615,7 @@
 	[
 		"/Users/jefklak/development/jefklakscodex",
 		"/Users/jefklak/development/jefklakscodex/content",
+		"/Users/jefklak/development/jefklakscodex/content/tags",
 		"/Users/jefklak/development/jefklakscodex/layouts",
 		"/Users/jefklak/development/jefklakscodex/layouts/_default",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials",
@@ -586,47 +628,56 @@
 	],
 	"file_history":
 	[
-		"/Users/jefklak/development/jefklakscodex/static/css/custom.css",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bullfrog-flashback.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-parties.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/gobliins2-review.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/might-and-magic-vii-review.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/apogees-legacy.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-clericranger.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/wizardry8-tips.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-solo-blade.md",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials/sidebar.html",
+		"/Users/jefklak/development/jefklakscodex/content/articles/wizardry8-classes.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/on-killing-a-lich.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-magetalk.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/riviera-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/rpg-concepts-npcs.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/simon-the-sorcerer-2-review.md",
-		"/Users/jefklak/development/jefklakscodex/layouts/partials/portfolio.html",
 		"/Users/jefklak/development/jefklakscodex/content/articles/_index.md",
-		"/Users/jefklak/development/jefklakscodex/layouts/partials/taglist.html",
-		"/Users/jefklak/development/jefklakscodex/content/articles/the-hype-train.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/zeus-review.md",
+		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/partials/head.html",
 		"/Users/jefklak/development/jefklakscodex/layouts/_default/terms.html",
-		"/Users/jefklak/development/jefklakscodex/content/articles/arxfatalis-review.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-spellprotection.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/rpg-concepts-items.md",
 		"/Users/jefklak/development/jefklakscodex/config.toml",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bugs-are-features.md",
+		"/Users/jefklak/development/jefklakscodex/layouts/partials/articlelist.html",
+		"/Users/jefklak/development/jefklakscodex/content/articles/simon-the-sorcerer-2-review.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/the-hype-train.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/win-platforming.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-mods.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/cooperative-arts.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/etrian-oddysey-review.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/arxfatalis-review.md",
+		"/Users/jefklak/development/jefklakscodex/layouts/partials/taglist.html",
+		"/Users/jefklak/development/jefklakscodex/content/articles/rpg-concepts-items.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/handheld-castlevanias.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/zeus-review.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/early-shooter-clones.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/captian-claw-review.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/castlevania-portrait-of-ruin-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/jagged-alliance-2-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/lode-runner-legend-returns-review.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/riviera-review.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/handheld-castlevanias.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/etrian-oddysey-review.md",
+		"/Users/jefklak/development/jefklakscodex/static/css/custom.css",
+		"/Users/jefklak/development/jefklakscodex/layouts/partials/portfolio.html",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-spellprotection.md",
 		"/Users/jefklak/development/jefklakscodex/static/js/codex.js",
 		"/Users/jefklak/development/jefklakscodex/docs/js/codex.js",
 		"/Users/jefklak/development/jefklakscodex/content/articles/arcanum-review.md",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials/scripts.html",
 		"/Users/jefklak/development/jefklakscodex/docs/js/front.js",
 		"/Users/jefklak/development/jefklakscodex/jefklakscodex.sublime-project",
-		"/Users/jefklak/development/jefklakscodex/content/articles/early-shooter-clones.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bugs-are-features.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/castlevania-portrait-of-ruin-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/tags/_index.md",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials/footer.html",
 		"/Users/jefklak/development/jefklakscodex/layouts/_default/baseof.html",
-		"/Users/jefklak/development/jefklakscodex/content/articles/captian-claw-review.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-mods.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-parties.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-solo-blade.md",
 		"/Users/jefklak/development/jefklakscodex/docs/css/custom.css",
 		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/exampleSite/config.toml",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-magetalk.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/win-platforming.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/apogees-legacy.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/arcanum-magick-vs-tech.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/arcanum-parties.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/arcanum-gunslinger.md",
@@ -704,16 +755,7 @@
 		"/Users/jefklak/development/productivity-course/README.md",
 		"/Users/jefklak/development/productivity-course/index.html",
 		"/Users/jefklak/development/brainbaking/content/post/learning-yourself-to-draw.md",
-		"/Users/jefklak/development/brainbaking/layouts/shortcodes/pin.html",
-		"/Users/jefklak/development/brainbaking/content/post/drawing-week-02.md",
-		"/Users/jefklak/development/brainbaking/content/post/drawing-week-03.md",
-		"/Users/jefklak/development/brainbaking/content/wiki/books/inspiraties.md",
-		"/Users/jefklak/development/brainbaking/themes/beautifulbaking/layouts/partials/nav.html",
-		"/Users/jefklak/development/brainbaking/themes/beautifulbaking/layouts/partials/search.html",
-		"/Users/jefklak/development/brainbaking/content/post/custom-webdriver-page-factories.md",
-		"/Users/jefklak/development/brainbaking/docs/css/main.css",
-		"/Users/jefklak/development/hugotest/themes/beautifulbaking/layouts/partials/nav.html",
-		"/Users/jefklak/development/hugotest/themes/beautifulbaking/exampleSite/config.toml"
+		"/Users/jefklak/development/brainbaking/layouts/shortcodes/pin.html"
 	],
 	"find":
 	{
@@ -733,6 +775,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"''",
+			"wizardry8",
 			"videos",
 			"atta",
 			"attach:",
@@ -757,6 +801,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"**",
 			"/img/",
 			""
 		],
@@ -769,8 +814,122 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "content/articles/gba-rpgs.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"auto_name": "version=pmwiki-2.2.0-beta16 ordered=1 urlencoded=1",
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "layouts/_default/terms.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/tags/_index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "content/about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -823,12 +982,136 @@
 		"selected_items":
 		[
 			[
-				"tag",
-				"layouts/partials/taglist.html"
+				"bullf",
+				"content/articles/bullfrog-flashback.md"
+			],
+			[
+				"apo",
+				"content/articles/apogees-legacy.md"
+			],
+			[
+				"bg2",
+				"content/articles/bg2-clericranger.md"
+			],
+			[
+				"solo",
+				"content/articles/bg2-solo-blade.md"
+			],
+			[
+				"side",
+				"layouts/partials/sidebar.html"
+			],
+			[
+				"ri",
+				"content/articles/riviera-review.md"
+			],
+			[
+				"rpg ",
+				"content/articles/rpg-concepts-npcs.md"
+			],
+			[
+				"con",
+				"config.toml"
+			],
+			[
+				"head",
+				"themes/hugo-creative-portfolio-theme/layouts/partials/head.html"
 			],
 			[
 				"arx",
 				"content/articles/arxfatalis-review.md"
+			],
+			[
+				"coop",
+				"content/articles/cooperative-arts.md"
+			],
+			[
+				"apoge",
+				"content/articles/apogees-legacy.md"
+			],
+			[
+				"win",
+				"content/articles/win-platforming.md"
+			],
+			[
+				"hype",
+				"content/articles/the-hype-train.md"
+			],
+			[
+				"simo",
+				"content/articles/simon-the-sorcerer-2-review.md"
+			],
+			[
+				"sideb",
+				"layouts/partials/sidebar.html"
+			],
+			[
+				"tagl",
+				"layouts/partials/taglist.html"
+			],
+			[
+				"bugs",
+				"content/articles/bugs-are-features.md"
+			],
+			[
+				"zeu",
+				"content/articles/zeus-review.md"
+			],
+			[
+				"captain",
+				"content/articles/captian-claw-review.md"
+			],
+			[
+				"early",
+				"content/articles/early-shooter-clones.md"
+			],
+			[
+				"castleva",
+				"content/articles/castlevania-portrait-of-ruin-review.md"
+			],
+			[
+				"handhel",
+				"content/articles/handheld-castlevanias.md"
+			],
+			[
+				"bg2-mo",
+				"content/articles/bg2-mods.md"
+			],
+			[
+				"rpg",
+				"content/articles/rpg-concepts-npcs.md"
+			],
+			[
+				"windo",
+				"content/articles/win-platforming.md"
+			],
+			[
+				"zeus",
+				"content/articles/zeus-review.md"
+			],
+			[
+				"jagg",
+				"content/articles/jagged-alliance-2-review.md"
+			],
+			[
+				"lode",
+				"content/articles/lode-runner-legend-returns-review.md"
+			],
+			[
+				"npc",
+				"content/articles/rpg-concepts-npcs.md"
+			],
+			[
+				"hyp",
+				"content/articles/the-hype-train.md"
+			],
+			[
+				"etr",
+				"content/articles/etrian-oddysey-review.md"
+			],
+			[
+				"tag",
+				"layouts/partials/taglist.html"
 			],
 			[
 				"spell",
@@ -875,10 +1158,6 @@
 				"layouts/partials/scripts.html"
 			],
 			[
-				"con",
-				"themes/hugo-creative-portfolio-theme/exampleSite/config.toml"
-			],
-			[
 				"cust",
 				"static/css/custom.css"
 			],
@@ -891,16 +1170,8 @@
 				"static/css/custom.css"
 			],
 			[
-				"side",
-				"layouts/partials/sidebar.html"
-			],
-			[
 				"port",
 				"layouts/partials/portfolio.html"
-			],
-			[
-				"sideb",
-				"layouts/partials/sidebar.html"
 			],
 			[
 				"vermon",
@@ -977,10 +1248,6 @@
 			[
 				"doos.conf",
 				"domain/doos.conf.php"
-			],
-			[
-				"head",
-				"templates/head.html"
 			],
 			[
 				"index",
@@ -1225,114 +1492,6 @@
 			[
 				"dandel",
 				"build/dandelion-prod.yml"
-			],
-			[
-				"dand",
-				"dandelion.yml"
-			],
-			[
-				".",
-				".htaccess"
-			],
-			[
-				"travi",
-				".travis.yml"
-			],
-			[
-				"selenium2test",
-				"vendor/phpunit/phpunit-selenium/PHPUnit/Extensions/Selenium2TestCase.php"
-			],
-			[
-				"webdrivertestc",
-				"vendor/sauce/sausage/src/Sauce/Sausage/WebDriverTestCase.php"
-			],
-			[
-				"selenium2testc",
-				"vendor/phpunit/phpunit-selenium/PHPUnit/Extensions/Selenium2TestCase.php"
-			],
-			[
-				"testrsul",
-				"vendor/phpunit/phpunit/src/Framework/TestResult.php"
-			],
-			[
-				"smoket",
-				"tests/smokeTest.php"
-			],
-			[
-				"ipn_p",
-				"ipn_paynl.php"
-			],
-			[
-				"readm",
-				"README.md"
-			],
-			[
-				"compos",
-				"composer.json"
-			],
-			[
-				"composer",
-				"composer.json"
-			],
-			[
-				"doos.wp",
-				"css/doos.wp.css"
-			],
-			[
-				"paymen",
-				"log/payment.log"
-			],
-			[
-				"ipn_",
-				"ipn_coinbase.php"
-			],
-			[
-				"wat",
-				"templates/modals/watisdesem.html"
-			],
-			[
-				"bloemuit",
-				"templates/modals/bloemuitleg.html"
-			],
-			[
-				"waarom",
-				"templates/modals/waaromdesem.html"
-			],
-			[
-				"fly",
-				"flyer.php"
-			],
-			[
-				"recept",
-				"recept.php"
-			],
-			[
-				"doos.w",
-				"css/doos.wp.css"
-			],
-			[
-				"kortingsc",
-				"domain/kortingscodes.php"
-			],
-			[
-				"verwerkingte",
-				"tests/verwerkingTest.php"
-			],
-			[
-				"bestelv",
-				"bestelVerwerking.php"
-			],
-			[
-				"doos",
-				"js/doos.js"
-			],
-			[
-				"doo",
-				"js/doos.js"
-			],
-			[
-				"hea",
-				"templates/head.html"
 			]
 		],
 		"width": 0.0
@@ -1345,7 +1504,7 @@
 		[
 			[
 				"",
-				"/Users/jefklak/development/kwispeldoos/css/kwispeldoos.sublime-project"
+				"~/development/brainbaking/brainbaking.sublime-project"
 			]
 		],
 		"width": 380.0

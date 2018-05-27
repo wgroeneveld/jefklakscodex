@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jefklakscodex.com/articles/wario-land-retrospective/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/articles/bg2-solo-blade/</loc>
     <lastmod>2008-04-30T00:00:00+00:00</lastmod>
   </url>
@@ -180,14 +185,6 @@
   <url>
     <loc>https://jefklakscodex.com/articles/animalcrossing-wildworld/</loc>
     <lastmod>2006-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefklakscodex.com/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jefklakscodex.com/tags/</loc>
   </url>
   
   <url>
@@ -413,13 +410,22 @@
   
   <url>
     <loc>https://jefklakscodex.com/</loc>
-    <lastmod>2008-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://jefklakscodex.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/</loc>
+    <lastmod>2007-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/articles/</loc>
-    <lastmod>2008-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -437,6 +443,12 @@
   <url>
     <loc>https://jefklakscodex.com/tags/lode-runner-the-legend-returns/</loc>
     <lastmod>2007-03-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/metroidvania/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -513,6 +525,12 @@
   </url>
   
   <url>
+    <loc>https://jefklakscodex.com/tags/super-mario-land-3-super-wario-land/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/tags/tactics-ogre/</loc>
     <lastmod>2006-10-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -551,6 +569,24 @@
   <url>
     <loc>https://jefklakscodex.com/tags/warcraft-3/</loc>
     <lastmod>2006-10-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/wario-land-3/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/wario-land-4/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/wario-land-ii/</loc>
+    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
