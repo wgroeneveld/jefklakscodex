@@ -12,7 +12,7 @@ The Nintendo Switch has been on active duty here for longer than I can remember 
 
 I've never been a great fan of emulation: playing games on a system that wasn't the target platform. It's great for games that you otherwise would never be able to play like Mother 3 that never makes it's way to the European Union, but otherwise playing a GBA game on the Wii U doesn't include that pure nostalgia rush you'd get while gripping a "real" Gameboy (modified or not). That's not to say that I didn't take part in this: I knew my way well around [https://gbatemp.net/](https://gbatemp.net/). 
 
-That got me thinking, what is it with these old games that make me happy when I play them? Is it purely because of the "retroness", the big buttons on yellowed plastic with short cables that require you to sit close to your TV? No! It's the the difference between the words **retro** and **nostalgic**. "Nostalgic" throws me back in time and make me re-appreciate the goodness of yore. 
+That got me thinking, what is it with these old games that make me happy when I play them? Is it purely because of the "retroness", the big buttons on yellowed plastic with short cables that require you to sit close to your TV? No! It's the difference between the words **retro** and **nostalgic**. "Nostalgic" throws me back in time and make me re-appreciate the goodness of yore. 
 
 There are a lot of amazing new games, for newer consoles, that are still brimming with nostalgia! The reason I'd pick a Switch over any other console that also runs these games is simple: _it's a handheld!_ TV occupied by your wife? No problem. Want to show off during a break at work? No problem. Just want to be comfortable in a chair without a big screen? No problem. It's such a powerful concept that's especially great with 2D games that don't have too much details. The Switch screen is simply perfect for those games. 
 
@@ -105,7 +105,7 @@ Inspired by: **Mario 64**
 - Yooka Laylee (64)
 - Spyro (TBA) (64)
 - Crash Bandicoot Trilogy (64)
-- Super Mario Oddysey
+- Super Mario Odyssey
 
 #### Rogueli(k)(t)e
 
@@ -113,7 +113,6 @@ Another new subgenre that is not quite new but gained a lot of attention the las
 
 - Wizard of Legend
 - Enter the Gungeon
-- Binding of Isaac
 - Crypt of the Necrodancer
 
 ### Strategy "war" games
@@ -144,7 +143,7 @@ Inspired by: **Monkey Island**
 
 <center>
     <img src="/img/articles/octopathtraveller.jpg">
-    Ocotpath Traveller
+    Octopath Traveller
 </center>
 
 #### Strategy RPGs
