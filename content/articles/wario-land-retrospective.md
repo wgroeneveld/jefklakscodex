@@ -6,6 +6,7 @@ imageActive = "/gif/warioland3.gif"
 date = "2018-05-27"
 title = "Wario Land: a retrospective"
 tags = ['Super Mario Land 3: Super Wario Land', 'Wario Land II', 'Wario Land 3', 'Wario Land 4', 'Metroidvania']
+keywords = ['Wario Land gameboy Retrospective', 'wario land gameboy', 'wario land gbc', 'wario land gb', 'wario land gba']
 weight = 0
 +++
 

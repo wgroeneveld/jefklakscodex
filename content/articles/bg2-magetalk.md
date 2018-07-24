@@ -5,6 +5,7 @@ image = "/img/games/BaldursGate2/logo.jpg"
 date = "2008-04-30"
 title = "Baldur's Gate 2: Mage Talk"
 tags = ['Baldurs Gate 2']
+keywords = ['Baldurs Gate 2 mage sound', 'bg2 mage talk', 'bg2 arcane spellcasters', 'bg2 spell schools', 'alteration', 'abjuration', 'illusion', 'necromancy']
 weight = 0
 +++
 

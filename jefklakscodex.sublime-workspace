@@ -518,10 +518,10 @@
 			}
 		},
 		{
-			"file": "content/articles/wario-land-retrospective.md",
+			"file": "content/articles/switching-to-the-definitive-nostalgic-console.md",
 			"settings":
 			{
-				"buffer_size": 10355,
+				"buffer_size": 6234,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -611,6 +611,7 @@
 	],
 	"file_history":
 	[
+		"/Users/jefklak/development/jefklakscodex/content/articles/wario-land-retrospective.md",
 		"/Users/jefklak/development/jefklakscodex/layouts/_default/terms.html",
 		"/Users/jefklak/development/jefklakscodex/content/tags/_index.md",
 		"/Users/jefklak/development/jefklakscodex/content/about.md",
@@ -737,8 +738,7 @@
 		"/Users/jefklak/development/problemsolving-course/talk.md",
 		"/Users/jefklak/development/productivity-course/README.md",
 		"/Users/jefklak/development/productivity-course/index.html",
-		"/Users/jefklak/development/brainbaking/content/post/learning-yourself-to-draw.md",
-		"/Users/jefklak/development/brainbaking/layouts/shortcodes/pin.html"
+		"/Users/jefklak/development/brainbaking/content/post/learning-yourself-to-draw.md"
 	],
 	"find":
 	{
@@ -831,19 +831,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "content/articles/wario-land-retrospective.md",
+					"file": "content/articles/switching-to-the-definitive-nostalgic-console.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10355,
+						"buffer_size": 6234,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3461,
-								3461
+								1260,
+								1260
 							]
 						],
 						"settings":
@@ -852,7 +852,7 @@
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1353.0,
+						"translation.y": 287.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1432,7 +1432,7 @@
 		[
 			[
 				"",
-				"~/development/brainbaking/brainbaking.sublime-project"
+				"~/development/phd/phd.sublime-project"
 			]
 		],
 		"width": 380.0

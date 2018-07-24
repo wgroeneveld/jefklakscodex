@@ -4,6 +4,7 @@ draft = false
 image = "/img/games/BaldursGate2/logo.jpg"
 date = "2007-03-30"
 title = "Baldur's Gate 2: Spell Protection"
+keywords = ['Baldurs Gate 2 spell protection', 'BG2 spell protection', 'bg2 spell guide', 'bg2 pierce magic']
 tags = ['Baldurs Gate 2']
 weight = 0
 +++

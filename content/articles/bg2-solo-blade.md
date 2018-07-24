@@ -5,6 +5,7 @@ image = "/img/games/BaldursGate2/logo.jpg"
 date = "2008-04-30"
 title = "BG2 Solo Blade: A Report"
 tags = ['Baldurs Gate 2']
+keywords = ['Baldurs Gate 2 solo blade', 'BG2 solo blade', 'solo blade', 'blade guide', 'bg2 solo blade guide', 'bg2 blade kit', 'bg2 blade']
 weight = 0
 +++
 

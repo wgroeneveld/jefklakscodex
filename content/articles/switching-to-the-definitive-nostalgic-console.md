@@ -5,6 +5,7 @@ image = "img/articles/curseofthemoon.jpg"
 date = "2018-06-08"
 title = "'Switch'-ing to the definitive nostalgic console"
 tags = ['Switch']
+keywords = ['switch nostalgic retro', 'nintendo virtual console', 'nintendo switch', 'castlevania switch retro']
 weight = 0
 +++
 

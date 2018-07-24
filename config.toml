@@ -1,9 +1,9 @@
 baseurl = "https://jefklakscodex.com/"
-title = "Jefklak's Codex"
+title = "Jefklaks Codex"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-122825031-1"
 publishDir = "docs"
 enableEmoji = true
 
