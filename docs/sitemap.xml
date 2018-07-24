@@ -414,12 +414,6 @@
   </url>
   
   <url>
-    <loc>https://jefklakscodex.com/</loc>
-    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jefklakscodex.com/about/</loc>
   </url>
   
@@ -431,6 +425,12 @@
   <url>
     <loc>https://jefklakscodex.com/articles/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
