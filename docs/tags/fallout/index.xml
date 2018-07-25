@@ -6,6 +6,8 @@
     <description>Recent content in Fallout on Jefklaks Codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
+    <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
     <lastBuildDate>Fri, 30 Mar 2007 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/tags/fallout/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Bugs Are Features</title>
       <link>https://jefklakscodex.com/articles/bugs-are-features/</link>
       <pubDate>Fri, 30 Mar 2007 00:00:00 +0000</pubDate>
-      
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://jefklakscodex.com/articles/bugs-are-features/</guid>
       <description>I&amp;rsquo;m getting fairly tired of defending Arcanum on various cough, console lovers message boards and against friends. Everybody seems to prefer Oblivion-style Roleplaying gameplay mechanics. Fine by me, but don&amp;rsquo;t try to piss RPG Codex members and me off by complaining about the bug fest in Troika&amp;rsquo;s games. During my more than 5 playthroughs (admittedly never got to the finish, fooling around with different characters is even funnier), I never encountered a single &amp;ldquo;bug&amp;rdquo;.</description>
     </item>

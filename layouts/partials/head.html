@@ -39,6 +39,49 @@
 {{ end }}{{ end }}
 <!-- end og -->
 
+<!-- structured data -->
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "{{ .Site.BaseURL }}"
+    },
+    "articleSection" : "{{ .Section }}",
+    "name" : "{{ .Title }}",
+    "headline" : "{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}",
+    "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "inLanguage" : "{{ .Site.LanguageCode }}",
+    {{ if .Params.image }}
+      "image": "{{.Site.BaseURL}}{{ .Params.image }}",
+    {{ end }}
+    "author" : {
+      "@type": "Person",
+      "name": "{{ .Site.Author.name }}"
+  },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Brain Baking",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://brainbaking.com/img/avatar-icon.png"
+      }
+  },
+    "accountablePerson" : "{{ .Site.Author.name }}",
+    "copyrightHolder" : "{{ .Site.Author.name }}",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "datePublished": "{{ .Date }}",
+    "dateModified" : "{{ .Date }}",
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    {{ if .Keywords }}
+      "keywords" : [ {{ range .Keywords }}"{{ . }}",{{ end }}"{{ .Title }}" ]
+    {{ else if .Params.tags }}
+      "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"{{ .Title }}" ]
+    {{ end }}
+}
+</script>
 
 <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">

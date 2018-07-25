@@ -6,6 +6,8 @@
     <description>Recent content in Deus Ex on Jefklaks Codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
+    <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
     <lastBuildDate>Mon, 11 Jun 2007 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/tags/deus-ex/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>The Hype Train</title>
       <link>https://jefklakscodex.com/articles/the-hype-train/</link>
       <pubDate>Mon, 11 Jun 2007 00:00:00 +0000</pubDate>
-      
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://jefklakscodex.com/articles/the-hype-train/</guid>
       <description>I&amp;rsquo;m pretty sure most of you know the feeling. A new game has been recently announced, maybe with some additional gameplay footage or early concept art. You knew from that point on, the game had to be great, no mistake made. A couple of logical reasons could possibly be:
  The title is a sequel to your favourite game all time The title comes from a well known and loved development studio Both title and studio are completely new or unknown, but the genre is to your liking None of the above apply.</description>

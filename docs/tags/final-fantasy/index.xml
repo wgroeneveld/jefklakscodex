@@ -6,6 +6,8 @@
     <description>Recent content in Final Fantasy on Jefklaks Codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
+    <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
     <lastBuildDate>Wed, 15 Nov 2006 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/tags/final-fantasy/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Impressive GBA RPGs</title>
       <link>https://jefklakscodex.com/articles/gba-rpgs/</link>
       <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
-      
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://jefklakscodex.com/articles/gba-rpgs/</guid>
       <description>Since the Nintendo DS has been released a couple of years ago, many game related websites predicted a quick and painful death for the Gameboy Advance. Thankfully, none of those predictions made it into reality since the GBA library is still steadily growing, although a whole lot slower than in 2002. Nintendo&amp;rsquo;s smart marketing ideas enabled the DS to play GBA cartridges which indirectly prolongs the overall GBA&amp;rsquo;s life. Therefore, a lot of potentially great games have been released but mainly ignored in favor of less entertaining DS games.</description>
     </item>
@@ -24,7 +26,7 @@
       <title>On Killing a Lich</title>
       <link>https://jefklakscodex.com/articles/on-killing-a-lich/</link>
       <pubDate>Tue, 24 Oct 2006 00:00:00 +0000</pubDate>
-      
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://jefklakscodex.com/articles/on-killing-a-lich/</guid>
       <description>Both old school and modern roleplaying games feature many times at least one &amp;ldquo;Lich&amp;rdquo; entry. And the evil spellcasting undead creature will almost always kick your butt without proper protection. And why is it that so many big boss battles featuring some kind of super evil incarnation always have to transform into even worse enemies? Even Ganon tricked me in A link to The Past, although he is certainly not classified as Lich.</description>
     </item>

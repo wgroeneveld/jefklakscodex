@@ -7,6 +7,10 @@ googleAnalytics = "UA-122825031-1"
 publishDir = "docs"
 enableEmoji = true
 
+[Author]
+  name = "Wouter Groeneveld"
+  email = "wouter.groeneveld@gmail.com"
+
 [params]
   style = "default"
   description = "Retro game thoughts"

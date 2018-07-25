@@ -6,6 +6,8 @@
     <description>Recent content in Divine Divinity on Jefklaks Codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
+    <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
     <lastBuildDate>Thu, 04 Jan 2007 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/tags/divine-divinity/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>RPG Concepts: Items</title>
       <link>https://jefklakscodex.com/articles/rpg-concepts-items/</link>
       <pubDate>Thu, 04 Jan 2007 00:00:00 +0000</pubDate>
-      
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://jefklakscodex.com/articles/rpg-concepts-items/</guid>
       <description>Items present in the World Did you ever play an RPG, wondering why the world is so empty? Do you ever wonder, while entering a noble house without any real permission, why all closets are empty or not even openable? If you happen to like looting everybody&amp;rsquo;s treasure chests, bepare to be disappointed as some wealthy NPCs keep two single gold pieces in them. Wow! The RPG world &amp;ldquo;contents&amp;rdquo; should also reflect the current neighbourhood you&amp;rsquo;re travelling in.</description>
     </item>

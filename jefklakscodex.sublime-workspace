@@ -508,21 +508,28 @@
 	"buffers":
 	[
 		{
-			"file": "content/articles/gba-rpgs.md",
+			"file": "layouts/partials/head.html",
 			"settings":
 			{
-				"buffer_size": 10477,
+				"buffer_size": 5019,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "version=pmwiki-2.2.0-beta16 ordered=1 urlencoded=1"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "content/articles/switching-to-the-definitive-nostalgic-console.md",
+			"file": "config.toml",
 			"settings":
 			{
-				"buffer_size": 6234,
+				"buffer_size": 926,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/articles/wario-land-retrospective.md",
+			"settings":
+			{
+				"buffer_size": 10478,
 				"line_ending": "Unix"
 			}
 		}
@@ -597,7 +604,6 @@
 	[
 		"/Users/jefklak/development/jefklakscodex",
 		"/Users/jefklak/development/jefklakscodex/content",
-		"/Users/jefklak/development/jefklakscodex/content/articles",
 		"/Users/jefklak/development/jefklakscodex/content/tags",
 		"/Users/jefklak/development/jefklakscodex/layouts",
 		"/Users/jefklak/development/jefklakscodex/layouts/_default",
@@ -607,11 +613,24 @@
 		"/Users/jefklak/development/jefklakscodex/themes",
 		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme",
 		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts",
-		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/_default"
+		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/_default",
+		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/partials"
 	],
 	"file_history":
 	[
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-magetalk.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/wario-land-retrospective.md",
+		"/Users/jefklak/development/jefklakscodex/config.toml",
+		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/partials/head.html",
+		"/Users/jefklak/development/jefklakscodex/layouts/_default/baseof.html",
+		"/Users/jefklak/development/jefklakscodex/layouts/partials/head.html",
+		"/Users/jefklak/development/jefklakscodex/layouts/partials/portfolio.html",
+		"/Users/jefklak/development/jefklakscodex/content/articles/switching-to-the-definitive-nostalgic-console.md",
+		"/Users/jefklak/development/jefklakscodex/layouts/partials/scripts.html",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-solo-blade.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-clericranger.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-spellprotection.md",
+		"/Users/jefklak/development/jefklakscodex/content/articles/gba-rpgs.md",
 		"/Users/jefklak/development/jefklakscodex/layouts/_default/terms.html",
 		"/Users/jefklak/development/jefklakscodex/content/tags/_index.md",
 		"/Users/jefklak/development/jefklakscodex/content/about.md",
@@ -620,18 +639,13 @@
 		"/Users/jefklak/development/jefklakscodex/content/articles/gobliins2-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/might-and-magic-vii-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/apogees-legacy.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-clericranger.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/wizardry8-tips.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-solo-blade.md",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials/sidebar.html",
 		"/Users/jefklak/development/jefklakscodex/content/articles/wizardry8-classes.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/on-killing-a-lich.md",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-magetalk.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/riviera-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/rpg-concepts-npcs.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/_index.md",
-		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/partials/head.html",
-		"/Users/jefklak/development/jefklakscodex/config.toml",
 		"/Users/jefklak/development/jefklakscodex/content/articles/bugs-are-features.md",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials/articlelist.html",
 		"/Users/jefklak/development/jefklakscodex/content/articles/simon-the-sorcerer-2-review.md",
@@ -651,16 +665,12 @@
 		"/Users/jefklak/development/jefklakscodex/content/articles/lode-runner-legend-returns-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/etrian-oddysey-review.md",
 		"/Users/jefklak/development/jefklakscodex/static/css/custom.css",
-		"/Users/jefklak/development/jefklakscodex/layouts/partials/portfolio.html",
-		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-spellprotection.md",
 		"/Users/jefklak/development/jefklakscodex/static/js/codex.js",
 		"/Users/jefklak/development/jefklakscodex/docs/js/codex.js",
 		"/Users/jefklak/development/jefklakscodex/content/articles/arcanum-review.md",
-		"/Users/jefklak/development/jefklakscodex/layouts/partials/scripts.html",
 		"/Users/jefklak/development/jefklakscodex/docs/js/front.js",
 		"/Users/jefklak/development/jefklakscodex/jefklakscodex.sublime-project",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials/footer.html",
-		"/Users/jefklak/development/jefklakscodex/layouts/_default/baseof.html",
 		"/Users/jefklak/development/jefklakscodex/docs/css/custom.css",
 		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/exampleSite/config.toml",
 		"/Users/jefklak/development/jefklakscodex/content/articles/arcanum-magick-vs-tech.md",
@@ -735,20 +745,18 @@
 		"/Users/jefklak/Desktop/test.html",
 		"/Users/jefklak/development/PratoGame/public/src/Robby.js",
 		"/Users/jefklak/development/PratoGame/public/src/Preloader.js",
-		"/Users/jefklak/development/problemsolving-course/talk.md",
-		"/Users/jefklak/development/productivity-course/README.md",
-		"/Users/jefklak/development/productivity-course/index.html",
-		"/Users/jefklak/development/brainbaking/content/post/learning-yourself-to-draw.md"
+		"/Users/jefklak/development/problemsolving-course/talk.md"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
 		"height": 124.0,
 		"where_history":
 		[
+			"*.html",
 			"/img/",
 			""
 		]
@@ -758,6 +766,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<meta ",
+			"meta name=\"descr",
+			"baseurl",
+			"tag",
 			"''",
 			"wizardry8",
 			"videos",
@@ -802,28 +814,38 @@
 			[
 				{
 					"buffer": 0,
-					"file": "content/articles/gba-rpgs.md",
+					"file": "layouts/partials/head.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10477,
+						"buffer_size": 5019,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								71,
-								71
+								3402,
+								3402
 							]
 						],
 						"settings":
 						{
-							"auto_name": "version=pmwiki-2.2.0-beta16 ordered=1 urlencoded=1",
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+							"WordCount":
+							{
+								"changes": 115,
+								"count": 110,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1287.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -831,31 +853,78 @@
 				},
 				{
 					"buffer": 1,
-					"file": "content/articles/switching-to-the-definitive-nostalgic-console.md",
+					"file": "config.toml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6234,
+						"buffer_size": 926,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1260,
-								1260
+								222,
+								222
 							]
 						],
 						"settings":
 						{
-							"spell_check": true,
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 83,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 287.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/articles/wario-land-retrospective.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 1791,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -910,16 +979,40 @@
 		"selected_items":
 		[
 			[
+				"confi",
+				"config.toml"
+			],
+			[
+				"wario",
+				"content/articles/wario-land-retrospective.md"
+			],
+			[
+				"bg2",
+				"content/articles/bg2-magetalk.md"
+			],
+			[
+				"con",
+				"config.toml"
+			],
+			[
+				"wario ",
+				"content/articles/wario-land-retrospective.md"
+			],
+			[
+				"head.h",
+				"themes/hugo-creative-portfolio-theme/layouts/partials/head.html"
+			],
+			[
+				"swit",
+				"content/articles/switching-to-the-definitive-nostalgic-console.md"
+			],
+			[
 				"bullf",
 				"content/articles/bullfrog-flashback.md"
 			],
 			[
 				"apo",
 				"content/articles/apogees-legacy.md"
-			],
-			[
-				"bg2",
-				"content/articles/bg2-clericranger.md"
 			],
 			[
 				"solo",
@@ -936,10 +1029,6 @@
 			[
 				"rpg ",
 				"content/articles/rpg-concepts-npcs.md"
-			],
-			[
-				"con",
-				"config.toml"
 			],
 			[
 				"head",
@@ -1400,26 +1489,6 @@
 			[
 				"reposi",
 				"domain/repository.php"
-			],
-			[
-				"sauceconfig",
-				"vendor/sauce/sausage/src/Sauce/Sausage/SauceConfig.php"
-			],
-			[
-				"sauceap",
-				"vendor/sauce/sausage/src/Sauce/Sausage/SauceAPI.php"
-			],
-			[
-				"dandeli",
-				"build/dandelion-staging.yml"
-			],
-			[
-				"smok",
-				"tests_acceptance/smokeTest.php"
-			],
-			[
-				"dandel",
-				"build/dandelion-prod.yml"
 			]
 		],
 		"width": 0.0
@@ -1432,7 +1501,7 @@
 		[
 			[
 				"",
-				"~/development/phd/phd.sublime-project"
+				"~/development/brainbaking/brainbaking.sublime-project"
 			]
 		],
 		"width": 380.0

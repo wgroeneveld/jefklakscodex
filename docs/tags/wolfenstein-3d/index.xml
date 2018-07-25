@@ -6,6 +6,8 @@
     <description>Recent content in Wolfenstein 3d on Jefklaks Codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
+    <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
     <lastBuildDate>Thu, 02 Nov 2006 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/tags/wolfenstein-3d/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Early Shooter Clones</title>
       <link>https://jefklakscodex.com/articles/early-shooter-clones/</link>
       <pubDate>Thu, 02 Nov 2006 00:00:00 +0000</pubDate>
-      
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://jefklakscodex.com/articles/early-shooter-clones/</guid>
       <description>People feeling nostalgic can play enhanced versions the games: For Quake, you&amp;rsquo;ll need:
  ezQuake Win32 Installer (Just install in a directory) Pak0.pak Quake Demo version (Or copy pak0 and pak1 from your original Qake) Create a new dir in the ezQuake install dir called &amp;ldquo;id1&amp;rdquo; and Unzip pak0.pak Play! (start with ezstart, press ESC in the console!)  For Duke3D, you&amp;rsquo;ll need:

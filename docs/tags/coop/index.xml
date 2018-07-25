@@ -6,6 +6,8 @@
     <description>Recent content in Coop on Jefklaks Codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
+    <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
     <lastBuildDate>Sat, 28 Oct 2006 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/tags/coop/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>The Art of Cooperative (PC) Gaming</title>
       <link>https://jefklakscodex.com/articles/cooperative-arts/</link>
       <pubDate>Sat, 28 Oct 2006 00:00:00 +0000</pubDate>
-      
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://jefklakscodex.com/articles/cooperative-arts/</guid>
       <description>What could possibly more fun than playing a PC game on your own? Why, cooperative gameplay mechanics of course! Every modern released game nowadays features at least one cooperative (co-op) game mode where you can play with your friends, mostly against the computer AI. Since this is part I, let&amp;rsquo;s talk about Strategy games on the PC and its coopeartive capabilities. I can&amp;rsquo;t possibly imagine a strategy game without multiplayer options available, even games from 1998 came with some (limited) multiplayer modes, mostly using the IPX protocol.</description>
     </item>
