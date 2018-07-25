@@ -511,7 +511,7 @@
 			"file": "layouts/partials/head.html",
 			"settings":
 			{
-				"buffer_size": 5019,
+				"buffer_size": 5012,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -520,7 +520,7 @@
 			"file": "config.toml",
 			"settings":
 			{
-				"buffer_size": 926,
+				"buffer_size": 1005,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -618,6 +618,7 @@
 	],
 	"file_history":
 	[
+		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html",
 		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-magetalk.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/wario-land-retrospective.md",
 		"/Users/jefklak/development/jefklakscodex/config.toml",
@@ -744,8 +745,7 @@
 		"/Users/jefklak/development/PratoGame/gulpfile.js",
 		"/Users/jefklak/Desktop/test.html",
 		"/Users/jefklak/development/PratoGame/public/src/Robby.js",
-		"/Users/jefklak/development/PratoGame/public/src/Preloader.js",
-		"/Users/jefklak/development/problemsolving-course/talk.md"
+		"/Users/jefklak/development/PratoGame/public/src/Preloader.js"
 	],
 	"find":
 	{
@@ -766,6 +766,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"languageCode",
 			"<meta ",
 			"meta name=\"descr",
 			"baseurl",
@@ -809,7 +810,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -818,22 +819,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5019,
+						"buffer_size": 5012,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3402,
-								3402
+								371,
+								2014
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 115,
+								"changes": 0,
 								"count": 110,
 								"modified": false,
 								"selection": false,
@@ -845,10 +846,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1287.0,
+						"translation.y": 114.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -857,23 +858,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 926,
+						"buffer_size": 1005,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								222,
-								222
+								104,
+								116
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 0,
-								"count": 83,
+								"changes": 4,
+								"count": 88,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -887,7 +888,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1501,7 +1502,7 @@
 		[
 			[
 				"",
-				"~/development/brainbaking/brainbaking.sublime-project"
+				"~/development/redzuurdesem/redzuurdesem.sublime-project"
 			]
 		],
 		"width": 380.0
