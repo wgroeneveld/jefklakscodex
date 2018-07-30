@@ -74,13 +74,15 @@
     "copyrightHolder" : "{{ .Site.Author.name }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "datePublished": "{{ .Date }}",
-    "dateModified" : "{{ .Date }}",
+    "dateModified" : "{{ .Lastmod }}",
     "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
     {{ if .Keywords }}
       "keywords" : [ {{ range .Keywords }}"{{ . }}",{{ end }}"{{ .Title }}" ]
     {{ else if .Params.tags }}
       "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"{{ .Title }}" ]
+    {{ else }}
+      "keywords": [ "{{ .Title }}" ]
     {{ end }}
 }
 </script>
