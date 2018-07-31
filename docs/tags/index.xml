@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
     <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
-    <lastBuildDate>Thu, 15 Mar 2007 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 May 2018 15:51:11 +0200</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -61,7 +61,7 @@
     <item>
       <title>Aria of Sorrow</title>
       <link>https://jefklakscodex.com/tags/aria-of-sorrow/</link>
-      <pubDate>Fri, 12 Jan 2007 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://jefklakscodex.com/tags/aria-of-sorrow/</guid>
       <description></description>
@@ -124,9 +124,36 @@
     <item>
       <title>Castlevania</title>
       <link>https://jefklakscodex.com/tags/castlevania/</link>
-      <pubDate>Fri, 12 Jan 2007 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://jefklakscodex.com/tags/castlevania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Castlevania Aos</title>
+      <link>https://jefklakscodex.com/tags/castlevania-aos/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://jefklakscodex.com/tags/castlevania-aos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Castlevania Aria of Sorrow</title>
+      <link>https://jefklakscodex.com/tags/castlevania-aria-of-sorrow/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://jefklakscodex.com/tags/castlevania-aria-of-sorrow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Castlevania Gba</title>
+      <link>https://jefklakscodex.com/tags/castlevania-gba/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://jefklakscodex.com/tags/castlevania-gba/</guid>
       <description></description>
     </item>
     
