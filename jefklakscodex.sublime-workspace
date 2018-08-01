@@ -511,7 +511,7 @@
 			"file": "layouts/partials/head.html",
 			"settings":
 			{
-				"buffer_size": 5012,
+				"buffer_size": 5061,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -819,23 +819,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5012,
+						"buffer_size": 5061,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								371,
-								2014
+								3043,
+								3043
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 0,
-								"count": 110,
+								"changes": 36,
+								"count": 114,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -846,7 +846,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 114.0,
+						"translation.y": 863.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1502,7 +1502,7 @@
 		[
 			[
 				"",
-				"~/development/redzuurdesem/redzuurdesem.sublime-project"
+				"~/development/brainbaking/brainbaking.sublime-project"
 			]
 		],
 		"width": 380.0
