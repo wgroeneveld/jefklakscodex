@@ -7,12 +7,21 @@
 
 /* hugo theme custom stuff */
 
+img.full {
+	width: 100% !important;
+}
+
 html, body {
 	height: 100%;
 }
 
 body {
 	background-color: #f1f4dd;
+	line-height: 1.7;
+}
+
+.content-column-content {
+	font-size: 14pt;
 }
 
 footer {
@@ -40,8 +49,8 @@ footer .img-responsive {
 
 .sidebar-content {
 	/** haxx!! overflowww **/
-    margin-bottom: -9000px;
-    padding-bottom: 9000px;
+    margin-bottom: -90000px;
+    padding-bottom: 90000px;
     position: relative;
     width: 100%;
 

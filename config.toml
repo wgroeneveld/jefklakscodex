@@ -15,6 +15,7 @@ enableGitInfo = true
 
 [params]
   style = "default"
+  font = "PT Sans"
   description = "Retro game thoughts"
   copyright = "No &copy; reserved - sharing is caring. <a href='https://github.com/wgroeneveld/jefklakscodex' target='_blank'>Hack away!</a><br/>An integral part of <a href='https://brainbaking.com/' target='_blank'>Brain Baking</a>."
   sidebarAbout = [

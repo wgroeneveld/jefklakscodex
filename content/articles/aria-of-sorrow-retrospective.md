@@ -21,7 +21,7 @@ Bringing up this argument might sound weird coming from someone who hates certai
 
 I want to grind when I feel like it, not when the game tells me I haven't encountered enough enemies yet to progress through that part of the map. That indicates a design flaw to me - or a way to artificially lengthen the game, as it did in the NES days. The Dragon Quest formula hasn't really changed since then. I don't mind: I'm a retro gamer. But as McGonigal points out: we need to be **intrinsically motivated** to do anything well, from playing a game to doing chores in real life. 
 
-<img src="/img/articles/aos_stats.jpg"/>
+<img src="/img/articles/aos_stats.jpg" class="full" />
 <center>
     Yay, stats!
 </center>
@@ -39,7 +39,7 @@ Getting to the end boss does net you a scrolling stage select screen that also g
 
 Without #2, Diablo wouldn't exist. Why would anyone be motivated to do Nightmare or Hell runs in Diablo 2? To gain experience quickly, and to find nice items in the form of monster drops. Aria of Sorrow enemies also drop items and it's also a rarity that could be increased with the right soul or support items. Another reason why backtracking isn't bad here. 
 
-<img src="/img/articles/aos_top.png"/>
+<img src="/img/articles/aos_top.png" class="full" />
 <center>
     Almost to the Throne Room, again...
 </center>
@@ -58,7 +58,7 @@ The last piece of the puzzle why Aria of Sorrow is one of the best Metroidvania'
 
 Aria of Sorrow's [Soundtrack](https://www.youtube.com/watch?v=t6i-D60cxt0&list=PL5312754A0D082327) is a masterpiece that still sounds amazing, 15 years later, ripped from the Gameboy Advance. The opening song, "Castle Corridor", sends shivers down my spine every single time I hear it. To be fair, all the Castlevania DS soundtracks are at least as good, as is of course the Playstation instance. 
 
-<img src="/img/articles/aos_map.jpg"/>
+<img src="/img/articles/aos_map.jpg" class="full" />
 <center>
     Aria of Sorrow's map: lot's to discover!
 </center>

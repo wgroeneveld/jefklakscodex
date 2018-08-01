@@ -20,7 +20,7 @@ Let the excitement (re-)begin!
 
 Wario is amazing. That about sums up this whole article. He's the lazy, dirty, rude and greedy antagonist of Mario and takes on the single lead role in these 2D platforming games. What is so unique about Wario Land 3? Well, Wario can transform into a dozen different shapes to conquer the different puzzle elements and unravel secrets stashed away within each level. Snowball Wario, Bat Wario, Drunken Wario, Wario-On-Fire, Zombie Wario, you name it. Each shape lets you progress further into the game by overcoming obstacles in the form of blocks that can only be broken by being fat or being on fire, or by falling through thin platforms that only can be achieved as a zombie. 
 
-<img src="/img/articles/wario3.png"/>
+<img src="/img/articles/wario3.png" class="full" />
 <center>
     I'm about to go invisible!<br/>
     Don't you just love his grin?
@@ -38,7 +38,7 @@ Okay, so I finished Wario 3, let's get back to version 2 and see what's the diff
 
 The first thing you notice when playing in reverse order like I did, is the likeness in terms of those **Wario shapes**. Wario II introduced this concept. You can't jump while in Zombie mode here and there are less forms but they still work more or less the same. Getting hit means **losing coins**, not losing hearts. You simply cannot die (something you can't either in v3). This is extremely refreshing and feels like a big relief: I can fuck around in a level and uncover stuff without worrying about my health. I love this and don't understand the criticism it got for introducing that. 
 
-<img src="/img/articles/wario2.png"/>
+<img src="/img/articles/wario2.png" class="full" />
 <center>
     Crushed by a weight... But not dead?
 </center>
@@ -55,7 +55,7 @@ Time to play the first Wario game. Going back from 3 to 1, you can clearly see w
 
 Super Wario Land plays a lot like Super Mario Land 2: Six Golden Coins for the Gameboy. Wario collects power ups in the form of "suits" (even a bunny one where he can fly). When you're hit by an enemy, you shrink in size and can die. Collecting hearts can net you a "one-up", a very Mario-like concept that was thankfully dropped in the later games. Jumps are a lot more floaty. That means it's a **slower game** than the more snappy sequels. 
 
-<img src="/img/articles/wario1.jpg"/>
+<img src="/img/articles/wario1.jpg" class="full" />
 <center>
     Small and fragile Wario.<br/>
     Does that status bar remind you of something?
@@ -71,7 +71,7 @@ When Nintendo released Wario Land 4 in 2001, things got a lit more **weirder**. 
 
 That said, Wario moves smoother, the animations are amazing and the world is very colorful. But there is no equipment to be found and the powerful feeling of Wario 2-3 is diminished. For instance, pounding into the ground - once you could do that in Wario 3 - shook the screen heavily. That's been reduced, but Wario says something "cool" like "hehey" or "here-I-go". Why did he need to have his own **voice** instead of grunts? It feels a bit out-of-place to me. The dashing is extremely fluid and feels natural to use, but a bit washed out compared to the powerful BUMP you've got in the previous installments. 
 
-<img src="/img/articles/wario4.jpg"/>
+<img src="/img/articles/wario4.jpg" clas="full" />
 <center>
     A colorful amount of WTF!<br/>
     Includes a free time limit. 

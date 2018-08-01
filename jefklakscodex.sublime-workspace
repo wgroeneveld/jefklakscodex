@@ -508,10 +508,18 @@
 	"buffers":
 	[
 		{
-			"file": "layouts/partials/head.html",
+			"file": "content/articles/wario-land-retrospective.md",
 			"settings":
 			{
-				"buffer_size": 5061,
+				"buffer_size": 10478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/articles/aria-of-sorrow-retrospective.md",
+			"settings":
+			{
+				"buffer_size": 9000,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -520,16 +528,35 @@
 			"file": "config.toml",
 			"settings":
 			{
-				"buffer_size": 1005,
+				"buffer_size": 1139,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "content/articles/wario-land-retrospective.md",
+			"contents": "Searching 10 files for \"robot\"\n\n/Users/jefklak/development/jefklakscodex/layouts/partials/head.html:\n    4  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    5  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    6: <meta name=\"robots\" content=\"all,follow\">\n    7  <meta name=\"googlebot\" content=\"index,follow,snippet,archive\">\n    8  \n    .\n   89  \n   90  <link rel=\"stylesheet\" href=\"{{ \"css/bootstrap.min.css\" | absURL }}\">\n   91: <link rel=\"stylesheet\" href=\"//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic\">\n   92  <link rel=\"stylesheet\" href=\"{{ \"css/font-awesome.min.css\" | absURL }}\">\n   93  <link rel=\"stylesheet\" href=\"{{ \"css/owl.carousel.css\" | absURL }}\">\n\n2 matches in 1 file\n",
 			"settings":
 			{
-				"buffer_size": 10478,
+				"buffer_size": 750,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "layouts/partials/head.html",
+			"settings":
+			{
+				"buffer_size": 5116,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 3134,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -618,13 +645,16 @@
 	],
 	"file_history":
 	[
+		"/Users/jefklak/development/jefklakscodex/static/css/custom.css",
+		"/Users/jefklak/development/jefklakscodex/docs/css/custom.css",
+		"/Users/jefklak/.bash_profile",
+		"/Users/jefklak/development/jefklakscodex/config.toml",
+		"/Users/jefklak/development/jefklakscodex/layouts/partials/head.html",
 		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html",
 		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-magetalk.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/wario-land-retrospective.md",
-		"/Users/jefklak/development/jefklakscodex/config.toml",
 		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/partials/head.html",
 		"/Users/jefklak/development/jefklakscodex/layouts/_default/baseof.html",
-		"/Users/jefklak/development/jefklakscodex/layouts/partials/head.html",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials/portfolio.html",
 		"/Users/jefklak/development/jefklakscodex/content/articles/switching-to-the-definitive-nostalgic-console.md",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials/scripts.html",
@@ -665,14 +695,12 @@
 		"/Users/jefklak/development/jefklakscodex/content/articles/jagged-alliance-2-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/lode-runner-legend-returns-review.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/etrian-oddysey-review.md",
-		"/Users/jefklak/development/jefklakscodex/static/css/custom.css",
 		"/Users/jefklak/development/jefklakscodex/static/js/codex.js",
 		"/Users/jefklak/development/jefklakscodex/docs/js/codex.js",
 		"/Users/jefklak/development/jefklakscodex/content/articles/arcanum-review.md",
 		"/Users/jefklak/development/jefklakscodex/docs/js/front.js",
 		"/Users/jefklak/development/jefklakscodex/jefklakscodex.sublime-project",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials/footer.html",
-		"/Users/jefklak/development/jefklakscodex/docs/css/custom.css",
 		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/exampleSite/config.toml",
 		"/Users/jefklak/development/jefklakscodex/content/articles/arcanum-magick-vs-tech.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/arcanum-parties.md",
@@ -744,8 +772,7 @@
 		"/Users/jefklak/development/PratoGame/public/src/Game.js",
 		"/Users/jefklak/development/PratoGame/gulpfile.js",
 		"/Users/jefklak/Desktop/test.html",
-		"/Users/jefklak/development/PratoGame/public/src/Robby.js",
-		"/Users/jefklak/development/PratoGame/public/src/Preloader.js"
+		"/Users/jefklak/development/PratoGame/public/src/Robby.js"
 	],
 	"find":
 	{
@@ -756,6 +783,9 @@
 		"height": 124.0,
 		"where_history":
 		[
+			"/Users/jefklak/development/jefklakscodex/layouts",
+			"-*/docs/*.html",
+			"-*docs/",
 			"*.html",
 			"/img/",
 			""
@@ -766,6 +796,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"robot",
+			"fonts.",
 			"languageCode",
 			"<meta ",
 			"meta name=\"descr",
@@ -810,89 +842,11 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "layouts/partials/head.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5061,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3043,
-								3043
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 36,
-								"count": 114,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 863.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "config.toml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1005,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								104,
-								116
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 4,
-								"count": 88,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "content/articles/wario-land-retrospective.md",
 					"semi_transient": false,
 					"settings":
@@ -925,7 +879,217 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/articles/aria-of-sorrow-retrospective.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								630,
+								630
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 28,
+								"count": 1443,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 26,
+								"count": 101,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										273,
+										278
+									],
+									[
+										542,
+										547
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 3,
+								"count": 28,
+								"modified": true,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "layouts/partials/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3811,
+								3811
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 117,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "static/css/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1125,
+								1127
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "css"
+							},
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -982,6 +1146,18 @@
 			[
 				"confi",
 				"config.toml"
+			],
+			[
+				"custom.css",
+				"static/css/custom.css"
+			],
+			[
+				"css",
+				"docs/css/custom.css"
+			],
+			[
+				"ari",
+				"content/articles/aria-of-sorrow-retrospective.md"
 			],
 			[
 				"wario",
@@ -1478,18 +1654,6 @@
 			[
 				"sauceapi",
 				"vendor/sauce/sausage/src/Sauce/Sausage/SauceAPI.php"
-			],
-			[
-				".tra",
-				".travis.yml"
-			],
-			[
-				"bestellingent",
-				"tests/bestellingenTest.php"
-			],
-			[
-				"reposi",
-				"domain/repository.php"
 			]
 		],
 		"width": 0.0
