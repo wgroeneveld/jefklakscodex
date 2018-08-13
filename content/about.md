@@ -4,7 +4,7 @@ title = "Jefklak's Codex: About"
 
 # About the Codex
 
-Hi, I'm Jefklak/[Wouter](https://brainbaking.com/about/) and you're looking at "Jefklak's Codex", a dedicated and highly opinionated website about nostalgic games. The word **nostalgic** should be emphasized here. I grew up with a Gameboy between my hands and PC RPG games burnt into my retina. That healthy cocktail left a lasting impression - and netted me the Codex (and glasses).
+Hi, I'm Jefklak/[Wouter](https://brainbaking.com/about/) and you're looking at "Jefklak's Codex", a dedicated and highly opinionated website[^1] about nostalgic games. The word **nostalgic** should be emphasized here. I grew up with a Gameboy between my hands and PC RPG games burnt into my retina. That healthy cocktail left a lasting impression - and netted me the Codex (and glasses).
 
 The Codex has a long history, I've always felt the need to proclaim my definitive game of each generation. If you want to have some fun (you should have got some by now), try archive.org's wayback machine:
 
@@ -60,3 +60,5 @@ The Jefklak's Codex theme icons come from the game **Gobliins 2**, an old DOS po
 This site was built using [Hugo](http://gohugo.io/). Heavily modified template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
 <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
 &amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>.
+
+[^1]: This website uses an [anonymized IP](https://support.google.com/analytics/answer/2763052?hl=en) form of Google Analytics for the sole purpose of tracking website traffic. 

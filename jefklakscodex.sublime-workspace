@@ -511,7 +511,8 @@
 			"file": "content/articles/wario-land-retrospective.md",
 			"settings":
 			{
-				"buffer_size": 10478,
+				"buffer_size": 10533,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -519,25 +520,16 @@
 			"file": "content/articles/aria-of-sorrow-retrospective.md",
 			"settings":
 			{
-				"buffer_size": 9000,
+				"buffer_size": 9042,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "config.toml",
+			"contents": "Searching 10 files for \"analytics\"\n\n/Users/jefklak/development/jefklakscodex/layouts/partials/head.html:\n  121    <link href=\"{{ .RSSLink }}\" rel=\"feed\" type=\"application/rss+xml\" title=\"{{ .Site.Title }}\" />\n  122  {{ end }}\n  123: {{ template \"_internal/google_analytics_async.html\" . }}\n  124  \n\n1 match in 1 file\n\n\nSearching 148 files for \"_internal/\"\n\n/Users/jefklak/development/jefklakscodex/layouts/_default/single.html:\n    8           <h1>{{ .Title }}</h1>\n    9           {{ .Content }}\n   10:          {{ template \"_internal/disqus.html\" . }}\n   11  \n   12           <hr/>\n\n/Users/jefklak/development/jefklakscodex/layouts/partials/head.html:\n  121    <link href=\"{{ .RSSLink }}\" rel=\"feed\" type=\"application/rss+xml\" title=\"{{ .Site.Title }}\" />\n  122  {{ end }}\n  123: {{ template \"_internal/google_analytics_async.html\" . }}\n  124  \n\n/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/_default/single.html:\n    7           <h1>{{ .Title }}</h1>\n    8           {{ .Content }}\n    9:          {{ template \"_internal/disqus.html\" . }}\n   10        </div>\n   11      </div>\n\n/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/partials/head.html:\n   33    <link href=\"{{ .RSSLink }}\" rel=\"feed\" type=\"application/rss+xml\" title=\"{{ .Site.Title }}\" />\n   34  {{ end }}\n   35: {{ template \"_internal/google_analytics_async.html\" . }}\n   36  \n\n4 matches across 4 files\n",
 			"settings":
 			{
-				"buffer_size": 1139,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "Searching 10 files for \"robot\"\n\n/Users/jefklak/development/jefklakscodex/layouts/partials/head.html:\n    4  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    5  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    6: <meta name=\"robots\" content=\"all,follow\">\n    7  <meta name=\"googlebot\" content=\"index,follow,snippet,archive\">\n    8  \n    .\n   89  \n   90  <link rel=\"stylesheet\" href=\"{{ \"css/bootstrap.min.css\" | absURL }}\">\n   91: <link rel=\"stylesheet\" href=\"//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic\">\n   92  <link rel=\"stylesheet\" href=\"{{ \"css/font-awesome.min.css\" | absURL }}\">\n   93  <link rel=\"stylesheet\" href=\"{{ \"css/owl.carousel.css\" | absURL }}\">\n\n2 matches in 1 file\n",
-			"settings":
-			{
-				"buffer_size": 750,
+				"buffer_size": 1446,
 				"line_ending": "Unix",
 				"name": "Find Results",
 				"scratch": true
@@ -547,15 +539,27 @@
 			"file": "layouts/partials/head.html",
 			"settings":
 			{
-				"buffer_size": 5116,
+				"buffer_size": 5281,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "static/css/custom.css",
+			"contents": "+++\ntitle = \"Jefklak's Codex: About\"\n+++\n\n# About the Codex\n\nHi, I'm Jefklak/[Wouter](https://brainbaking.com/about/) and you're looking at \"Jefklak's Codex\", a dedicated and highly opinionated website[^1] about nostalgic games. The word **nostalgic** should be emphasized here. I grew up with a Gameboy between my hands and PC RPG games burnt into my retina. That healthy cocktail left a lasting impression - and netted me the Codex (and glasses).\n\nThe Codex has a long history, I've always felt the need to proclaim my definitive game of each generation. If you want to have some fun (you should have got some by now), try archive.org's wayback machine:\n\n- 2001: [UnionVault.net](https://web.archive.org/web/20020529210353/http://www.unionvault.net:80/)\n- 2003: [GamingClones](https://web.archive.org/web/20030420061718/http://gamingclones.com:80/)\n- 2004: [Jefklak's Tux 'n Games](https://web.archive.org/web/20041206113458/http://jefklak.suidzer0.org:80/)\n- 2007: [Jefklak.com](https://web.archive.org/web/20070512212547/http://www.jefklak.com:80/Main/HomePage) using pmWiki\n- 2011: [Jefklak.be](https://web.archive.org/web/20110107221804/http://jefklak.be) using Wordpress\n- 2018: [Jefklak's Codex.com](https://jefklakscodex.com)\n\nThe number of attempts to constantly reinvent the site dropped dramatically when I got a job (in 2007). The Wordpress migration didn't see much new content and the Codex gradually faded out of my mind. For some strange reason Jefklak.com now is a place where one can buy hunting rifles. \n\nAs an integral part of my main 'think tank', [Brain Baking](https://brainbaking.com/), I felt the need to revive the (carefully or carelessly) written articles on the games I still love so much. I might even waste a few more sentences on them in the near future. \n\nYou can read my intentions from 2005 down below. I don't really care if it's still relevant. Let's just preserve that text as a part of the nostalgic feel. \n\n### Why this website?\n\nThis website offers RPG players some in-depth guides and walktroughs on certain character/class choices in both old and new PC roleplaying games. The first purpose of the website is to inform players who are already familiar with those games about techniques or special ways to play trough the games. People who are unsure which class to pick, which path to choose, could check the guides and read my personal experiences with the game. All articles are based upon my personal experience with the games! This means some information may or may not be accurate. Please contact me if you notice any odds. Some tips have been copied over from other persons, with their permission. If you feel I've ruthly copied something without your knowledge, please let me know!\n\nThe second purpose of the website is to encourage players who are new to the cRPG genre to enjoy one of the finest, best told and greatest experiences I've ever had with these games. The game reviews mostly include a lot of screenshots and even gameplay movies to further encourage players to pick up the game and actually try it instead of ignoring them. Most games by Troika Games and Sir-Tech did not generally sell well and both companies ended up broke. Those not-so-popular games do not get the wanted attention, and I'll try to change that by adding a few more articles about them.\n\n### Why those sucky games and not l33t game x?\n\nLike I said before, most nowadays 'l33t' games (too popular shooters) are published by gigantic companies like EA with enough budget to fully advertise the games. Game development studios who produce smaller budget 'kult' roleplaying games, generally more disliked games, mostly end up dead because of the poor sales rates. Add to that list New World Computing and Black Isle Studios. Blame Interplay... \nHow many of the games in this list are familiar to you? How many of those did you actually try to play?\n\n- Jagged Alliance 2\n- Fallout\n- Icewind Dale\n- Baldurs Gate 2\n- Might & Magic VII\n- Arcanum\n- Wizardry 8\n- Lionheart\n- Wizards & Warriors\n- ...\n\nMost gamers who tried to play the demo (the bad part of the full game, mostly) despise them because of the 'sucky graphics' and too complicated design. For example, in Arcanum you'll be instantly overwhelmed by the character creation choices. That is, again, one of the reasons why you are here, I hope. By all means, check out my tips & tricks, and hopefully they'll be helpful. If it was not, check out the Links section for a comprehensive list of similar websites and specific game help.\n\n### Contact Info\n\nFeel free to [contact me](https://brainbaking.com/about/) if you notice any spell faults, guide errors or other wrong or misplaced information. You can also mail additional information which is not stated in any of the articles (yet), I'll add it as soon as possible. If you played several times trough a cRPG or Gameboy game and created some articles and/or a guide but do not own webspace yourself, let me know and I will upload all your gathered information to the Codex, among with your name on the site as a reward of course. If you own a dedicated RPG website yourself and would like to cross-link to this website, Im totally up for that too. \n\nWe retro fans have to stick together you know!\n\n### Material used on this site\n\nAll screenshots and images related to games are copyrighted by their legal owner. Since most older games aren't that popular anymore, I took the liberty to rely upon Google Images to grab screenshots when I was not able to provide my own. \n\nThe Jefklak's Codex theme icons come from the game **Gobliins 2**, an old DOS point-and-click adventure game made by [Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision). The French studio has been bought by Vivendi and parts of it gone bankrupt in 2004, so I have no idea if I'm free to use their sprites. The legal \"abandonware\" rights have always been a bit shady. \n\nThis site was built using [Hugo](http://gohugo.io/). Heavily modified template by <a href=\"https://bootstrapious.com/free-templates\" class=\"external\">Bootstrapious.com</a>\n<!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->\n&amp; ported to Hugo by <a href=\"https://github.com/kishaningithub\">Kishan B</a>.\n\n[^1]: This website uses an [anonymized IP](https://support.google.com/analytics/answer/2763052?hl=en) form of Google Analytics for the sole purpose of tracking website traffic.    ",
+			"file": "content/about.md",
+			"file_size": 6431,
+			"file_write_time": 131786373040000000,
 			"settings":
 			{
-				"buffer_size": 3134,
+				"buffer_size": 6434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "layouts/_default/single.html",
+			"settings":
+			{
+				"buffer_size": 792,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -631,7 +635,6 @@
 	[
 		"/Users/jefklak/development/jefklakscodex",
 		"/Users/jefklak/development/jefklakscodex/content",
-		"/Users/jefklak/development/jefklakscodex/content/tags",
 		"/Users/jefklak/development/jefklakscodex/layouts",
 		"/Users/jefklak/development/jefklakscodex/layouts/_default",
 		"/Users/jefklak/development/jefklakscodex/layouts/partials",
@@ -645,11 +648,12 @@
 	],
 	"file_history":
 	[
+		"/Users/jefklak/development/jefklakscodex/config.toml",
+		"/Users/jefklak/development/jefklakscodex/layouts/partials/google-analytics-anonymous.html",
+		"/Users/jefklak/development/jefklakscodex/layouts/partials/head.html",
+		"/Users/jefklak/.bash_profile",
 		"/Users/jefklak/development/jefklakscodex/static/css/custom.css",
 		"/Users/jefklak/development/jefklakscodex/docs/css/custom.css",
-		"/Users/jefklak/.bash_profile",
-		"/Users/jefklak/development/jefklakscodex/config.toml",
-		"/Users/jefklak/development/jefklakscodex/layouts/partials/head.html",
 		"/Users/jefklak/development/jefklakscodex/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html",
 		"/Users/jefklak/development/jefklakscodex/content/articles/bg2-magetalk.md",
 		"/Users/jefklak/development/jefklakscodex/content/articles/wario-land-retrospective.md",
@@ -771,8 +775,7 @@
 		"/Users/jefklak/development/PratoGame/index.js",
 		"/Users/jefklak/development/PratoGame/public/src/Game.js",
 		"/Users/jefklak/development/PratoGame/gulpfile.js",
-		"/Users/jefklak/Desktop/test.html",
-		"/Users/jefklak/development/PratoGame/public/src/Robby.js"
+		"/Users/jefklak/Desktop/test.html"
 	],
 	"find":
 	{
@@ -783,6 +786,9 @@
 		"height": 124.0,
 		"where_history":
 		[
+			"*.html",
+			"*.html,/Users/jefklak/development/jefklakscodex/layouts",
+			"*.html",
 			"/Users/jefklak/development/jefklakscodex/layouts",
 			"-*/docs/*.html",
 			"-*docs/",
@@ -796,6 +802,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"_internal/",
+			"analytics",
 			"robot",
 			"fonts.",
 			"languageCode",
@@ -842,7 +850,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -851,22 +859,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10478,
+						"buffer_size": 10533,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8945,
+								8945
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 0,
+								"changes": 71,
 								"count": 1791,
 								"modified": false,
 								"selection": false,
@@ -876,7 +884,7 @@
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3783.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 5,
@@ -888,28 +896,103 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9000,
+						"buffer_size": 9042,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								630,
-								630
+								8089,
+								8089
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 28,
+								"changes": 45,
 								"count": 1443,
 								"modified": false,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
 							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -921,49 +1004,10 @@
 				},
 				{
 					"buffer": 2,
-					"file": "config.toml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1139,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								463,
-								463
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 26,
-								"count": 101,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 750,
+						"buffer_size": 1446,
 						"regions":
 						{
 							"match":
@@ -972,12 +1016,24 @@
 								"regions":
 								[
 									[
-										273,
-										278
+										263,
+										272
 									],
 									[
-										542,
-										547
+										526,
+										536
+									],
+									[
+										795,
+										805
+									],
+									[
+										1054,
+										1064
+									],
+									[
+										1368,
+										1378
 									]
 								],
 								"scope": ""
@@ -986,24 +1042,115 @@
 						"selection":
 						[
 							[
-								288,
-								288
+								814,
+								814
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 3,
-								"count": 28,
+								"changes": 7,
+								"count": 50,
 								"modified": true,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
 							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										836,
+										837
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										783,
+										784
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
 							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
 							"line_numbers": false,
-							"output_tag": 1,
+							"output_tag": 2,
 							"result_base_dir": "",
 							"result_file_regex": "^([^ \t].*):$",
 							"result_line_regex": "^ +([0-9]+):",
@@ -1011,7 +1158,210 @@
 							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "layouts/partials/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5281,
+								5281
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 22,
+								"count": 140,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "html"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5286,
+										5287
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5231,
+										5232
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1676.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -1019,38 +1369,112 @@
 				},
 				{
 					"buffer": 4,
-					"file": "layouts/partials/head.html",
+					"file": "content/about.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5116,
+						"buffer_size": 6434,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3811,
-								3811
+								6434,
+								6434
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 0,
-								"count": 117,
-								"modified": false,
+								"changes": 16,
+								"count": 945,
+								"modified": true,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
 							},
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1456.0,
+						"translation.y": 2241.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1058,38 +1482,205 @@
 				},
 				{
 					"buffer": 5,
-					"file": "static/css/custom.css",
+					"file": "layouts/_default/single.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3134,
+						"buffer_size": 792,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1125,
-								1127
+								628,
+								628
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
+								"changes": 53,
+								"count": 19,
+								"modified": false,
+								"selection": false,
 								"status": -1,
-								"syntax": "css"
+								"syntax": "plain text"
 							},
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										638,
+										640
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										605,
+										607
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1148,6 +1739,22 @@
 				"config.toml"
 			],
 			[
+				"abou",
+				"content/about.md"
+			],
+			[
+				"wario",
+				"content/articles/wario-land-retrospective.md"
+			],
+			[
+				"custom",
+				"static/css/custom.css"
+			],
+			[
+				"conf",
+				"config.toml"
+			],
+			[
 				"custom.css",
 				"static/css/custom.css"
 			],
@@ -1158,10 +1765,6 @@
 			[
 				"ari",
 				"content/articles/aria-of-sorrow-retrospective.md"
-			],
-			[
-				"wario",
-				"content/articles/wario-land-retrospective.md"
 			],
 			[
 				"bg2",
@@ -1344,10 +1947,6 @@
 				"static/css/custom.css"
 			],
 			[
-				"conf",
-				"config.toml"
-			],
-			[
 				"scripts",
 				"layouts/partials/scripts.html"
 			],
@@ -1382,10 +1981,6 @@
 			[
 				"",
 				"content/post/take-your-time.md"
-			],
-			[
-				"abou",
-				"content/about.md"
 			],
 			[
 				"inv",
@@ -1650,10 +2245,6 @@
 			[
 				"verzon",
 				"domain/mail/verzonden.html"
-			],
-			[
-				"sauceapi",
-				"vendor/sauce/sausage/src/Sauce/Sausage/SauceAPI.php"
 			]
 		],
 		"width": 0.0
