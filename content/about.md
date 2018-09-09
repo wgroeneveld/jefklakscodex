@@ -61,4 +61,4 @@ This site was built using [Hugo](http://gohugo.io/). Heavily modified template b
 <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
 &amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>.
 
-[^1]: This website uses an [anonymized IP](https://support.google.com/analytics/answer/2763052?hl=en) form of Google Analytics for the sole purpose of tracking website traffic. 
+[^1]: This website uses an [anonymized IP](https://support.google.com/analytics/answer/2763052?hl=en) form of Google Analytics for the sole purpose of tracking website traffic.    

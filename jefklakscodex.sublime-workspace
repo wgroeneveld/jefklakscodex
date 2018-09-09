@@ -559,7 +559,7 @@
 			"file": "layouts/_default/single.html",
 			"settings":
 			{
-				"buffer_size": 792,
+				"buffer_size": 1325,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1486,23 +1486,23 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 792,
+						"buffer_size": 1325,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								628,
-								628
+								788,
+								788
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 53,
-								"count": 19,
+								"changes": 68,
+								"count": 29,
 								"modified": false,
 								"selection": false,
 								"status": -1,
@@ -1514,12 +1514,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										638,
+										640
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										605,
+										607
+									]
 								},
 								"unmatched":
 								{
@@ -1589,8 +1604,8 @@
 								{
 									"1":
 									[
-										638,
-										640
+										786,
+										788
 									]
 								},
 								"icon":
@@ -1605,8 +1620,8 @@
 								{
 									"1":
 									[
-										605,
-										607
+										786,
+										788
 									]
 								},
 								"unmatched":
@@ -2257,7 +2272,7 @@
 		[
 			[
 				"",
-				"~/development/brainbaking/brainbaking.sublime-project"
+				"~/development/redzuurdesem/redzuurdesem.sublime-project"
 			]
 		],
 		"width": 380.0

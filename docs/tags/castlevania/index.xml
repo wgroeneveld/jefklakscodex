@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
     <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
-    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/tags/castlevania/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Castlevania Circle of the Moon: a retrospective</title>
+      <link>https://jefklakscodex.com/articles/circle-of-the-moon-retrospective/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://jefklakscodex.com/articles/circle-of-the-moon-retrospective/</guid>
+      <description>As the hunt continues, from Aria of Sorrow to the beginning of Castlevania&amp;rsquo;s appearance on the GBA, Circle of the Moon, I have the uneasy feeling that my whip offers less solace in this scarier version of the castle. The encounter with an earth demon in the very first minutes acts as a warning for the rest of the game: be prepared to see YOU DIED a lot! Nathan Graves has to free his master from the clutches of - you guessed it - Dracula and partners, on the way avoiding the increasingly jealous Hugh Baldwin, the son of his master.</description>
+    </item>
     
     <item>
       <title>Castlevania Aria of Sorrow: a retrospective</title>
