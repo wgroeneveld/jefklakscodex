@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jefklakscodex.com/articles/diablo-for-kids/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/articles/circle-of-the-moon-retrospective/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-09T12:48:12+02:00</lastmod>
   </url>
   
   <url>
@@ -276,7 +281,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/castlevania/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-09T12:48:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -294,19 +299,19 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/castlevania-circle-of-the-moon/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-09T12:48:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jefklakscodex.com/tags/castlevania-cotm/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-09T12:48:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jefklakscodex.com/tags/castlevania-gba/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-09T12:48:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -317,7 +322,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/circle-of-the-moon/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-09T12:48:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -342,6 +347,18 @@
   <url>
     <loc>https://jefklakscodex.com/tags/deus-ex/</loc>
     <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/diablo/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jefklakscodex.com/tags/diablo-iii/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -430,6 +447,12 @@
   </url>
   
   <url>
+    <loc>https://jefklakscodex.com/tags/hack--slash/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/tags/harmony-of-dissonance/</loc>
     <lastmod>2018-05-19T12:05:41+02:00</lastmod>
     <priority>0</priority>
@@ -455,7 +478,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/about/</loc>
-    <lastmod>2018-08-13T14:42:20+02:00</lastmod>
+    <lastmod>2018-09-09T12:48:12+02:00</lastmod>
   </url>
   
   <url>
@@ -470,7 +493,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
