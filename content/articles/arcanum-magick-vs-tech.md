@@ -8,7 +8,7 @@ tags = ['Arcanum']
 weight = 0
 +++
 
-First things first: you are not reading this wrong, it's magick and not magic. In the world of Arcanum, that is. There's also no such thing as mana or spellbooks. Every single spell you learn comes trough {+SPs+) (Skill Points) which you'll have to invest into several magickal realms. A little bit like Diablo 2, except the fact that once you've put 1 point into it, you can't raise it furter ot increase the power. If you know Spell #1 in the Meta realm, you'll be able to "purchase" spell #2 from the same realm, if 1) you have a CP 2) your INT is at a minimum level to cast and 3) your WP is sufficient (each level differs).
+First things first: you are not reading this wrong, it's magick and not magic. In the world of Arcanum, that is. There's also no such thing as mana or spellbooks. Every single spell you learn comes trough {+SPs+) (Skill Points) which you'll have to invest into several magickal realms. A little bit like Diablo 2, except the fact that once you've put 1 point into it, you can't raise it further to increase the power. If you know Spell #1 in the Meta realm, you'll be able to "purchase" spell #2 from the same realm, if 1) you have a CP 2) your INT is at a minimum level to cast and 3) your WP is sufficient (each level differs).
 
 ## Magick: advantages & realms
 
@@ -18,12 +18,12 @@ Of course you won't be able to select more than 4 realms, simply because you won
 <img src="/img/games/Arcanum/magickuse.jpg"/>
 <center>Magick Usage in Arcanum</center>
 
-Every single character troughout the whole game has a Magick/Tech Meter. If you invest points into schematics, which are technology, you'll align yourself more with all technological people by the values of the meter. If you can cast a lot of different spells, you'll have a magick meter. This way, a magick user with a high meter (usually a powerfull creature) won't be able to use any technological items, and vice versa. So, another advantage of magick-aligned users: you'll be able to wear magickal Armor/weapons!
+Every single character throughout the whole game has a Magick/Tech Meter. If you invest points into schematics, which are technology, you'll align yourself more with all technological people by the values of the meter. If you can cast a lot of different spells, you'll have a magick meter. This way, a magick user with a high meter (usually a powerful creature) won't be able to use any technological items, and vice versa. So, another advantage of magick-aligned users: you'll be able to wear magickal Armor/weapons!
 
 ## Technology: advantages & schematics
 
-When your meter is fully tech-aligned, you'll encounter little problems which are quite annoying. Some examples: Virgil, the magickal aligned NPC which casts heal, will not be able to heal you anymore since those spells don't affect you at all. Very nice armor e.d. which have greatly increased AC for magickal users, will be as good as useless to you. Magickal smiths won't sell anything to you anymore. Not bad you think, you won't be able to use his stuff anyway? Wrong; you'll encounter a lot of magickal platemals which are useless but you NEED money and magickal smiths are the only ones who actually buy that stuff.
-Conclusion: tech makes the game more difficult troughout 1) equipment and 2) money. The Third thing is damage.
+When your meter is fully tech-aligned, you'll encounter little problems which are quite annoying. Some examples: Virgil, the magickal aligned NPC which casts heal, will not be able to heal you anymore since those spells don't affect you at all. Very nice armor e.d. which have greatly increased AC for magickal users, will be as good as useless to you. Magickal smiths won't sell anything to you anymore. Not bad you think, you won't be able to use his stuff anyway? Wrong; you'll encounter a lot of magickal platemails which are useless but you NEED money and magickal smiths are the only ones who actually buy that stuff.
+Conclusion: tech makes the game more difficult throughout 1) equipment and 2) money. The Third thing is damage.
 Yes indeed, damage. There aren't many technological weapons, and if there are any good ones, they won't be enchanted because enchanting is magick. So, the only option you'll have left are guns. And that means carrying a LOT of bullets which cost a LOT of money and not being able to damage a lot per round in combat.
 
 <img src="/img/games/Arcanum/techuse.jpg"/>
