@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
     <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
-    <lastBuildDate>Wed, 30 Apr 2008 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/tags/baldurs-gate-2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Experiencing the Enhanced Baldur&#39;s Gate</title>
+      <link>https://jefklakscodex.com/articles/bg1-ee/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://jefklakscodex.com/articles/bg1-ee/</guid>
+      <description>We move from one tree to the other, carefully glancing towards the ever so black fog of war. Imoen investigates things for us, while we prepare for the inevitable. Then, a sudden scream. Our friend is in sudden need of help! To battle! Or, as the more evil aligned main protagonist would say, &amp;lsquo;Oh well. Imoen had it coming. At least she can stop saying &amp;ldquo;good on you if you save the day&amp;rdquo; now.</description>
+    </item>
     
     <item>
       <title>BG2 Solo Blade: A Report</title>

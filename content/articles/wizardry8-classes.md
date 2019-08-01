@@ -19,7 +19,7 @@ Best Races:
 - Elf: good INT, PIE & DEX. Downside: less than fairies but you'll be able to use better armor & weapons (use staffs, maces & shield - you need AC - or throwing)
 - Other good races: gnome, human. Mook for SEN + DEX.
 
-#### Controlling attriubutes:
+#### Controlling attributes:
 
 - Intelligence (max ASAP for power cast & keep on pumping this power skill!)
 - Piety (handy Iron Will power skill, but not necessary. You'll need this for priest spells e.d.)

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jefklakscodex.com/articles/bg1-ee/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/articles/diablo-for-kids/</loc>
     <lastmod>2018-11-09T14:21:26+01:00</lastmod>
   </url>
@@ -54,7 +59,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/articles/wizardry8-tips/</loc>
-    <lastmod>2018-05-19T13:04:47+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
   </url>
   
   <url>
@@ -64,7 +69,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/articles/arcanum-magick-vs-tech/</loc>
-    <lastmod>2018-05-14T22:32:52+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
   </url>
   
   <url>
@@ -129,17 +134,17 @@
   
   <url>
     <loc>https://jefklakscodex.com/articles/rpg-concepts-items/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://jefklakscodex.com/articles/rpg-concepts-npcs/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://jefklakscodex.com/articles/gba-rpgs/</loc>
-    <lastmod>2018-05-19T15:07:53+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
   </url>
   
   <url>
@@ -199,7 +204,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/articles/captian-claw-review/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
   </url>
   
   <url>
@@ -233,7 +238,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/arcanum/</loc>
-    <lastmod>2018-05-14T22:32:52+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -250,8 +255,14 @@
   </url>
   
   <url>
+    <loc>https://jefklakscodex.com/tags/baldurs-gate-1/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jefklakscodex.com/tags/baldurs-gate-2/</loc>
-    <lastmod>2018-07-24T21:35:52+02:00</lastmod>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,7 +274,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/blue-dragon/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -275,7 +286,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/captain-claw/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -370,7 +381,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/divine-divinity/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -418,19 +429,19 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/final-fantasy/</loc>
-    <lastmod>2018-05-19T15:07:53+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jefklakscodex.com/tags/final-fantasy-tactics/</loc>
-    <lastmod>2018-05-19T15:07:53+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jefklakscodex.com/tags/fire-emblem/</loc>
-    <lastmod>2018-05-19T15:07:53+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -442,7 +453,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/golden-sun/</loc>
-    <lastmod>2018-05-19T15:07:53+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -493,13 +504,13 @@
   
   <url>
     <loc>https://jefklakscodex.com/</loc>
-    <lastmod>2018-11-09T14:21:26+01:00</lastmod>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jefklakscodex.com/tags/knights-of-the-old-republic/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -541,7 +552,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/neverwinter-nights/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -577,7 +588,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/rpg-concepts/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -613,13 +624,13 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/tatics-ogre/</loc>
-    <lastmod>2018-05-19T15:07:53+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jefklakscodex.com/tags/temple-of-the-elemental-evil/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -637,7 +648,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/ultima/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -667,7 +678,7 @@
   
   <url>
     <loc>https://jefklakscodex.com/tags/wizardry7/</loc>
-    <lastmod>2018-05-19T12:05:41+02:00</lastmod>
+    <lastmod>2019-07-31T09:07:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
