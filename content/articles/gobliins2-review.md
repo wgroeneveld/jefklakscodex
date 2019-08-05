@@ -33,7 +33,7 @@ Let's talk a bit about the story. The **Prince Buffoon** has sadly been kidnappe
 ### Kind of stuck here, a little help?
 
 <img src="/img/games/Gobliins2/screens/3_reus.jpg">
-<center>A gaint, a dog and a Chicken. Hmm...</center>
+<center>A giant, a dog and a Chicken. Hmm...</center>
 
 There is always the cheesy and easy way to finish adventure games: scan the whole scene with your mouse cursor and pick up anything you are able to use. Combine everything with everything and try to interact with every usable object lying around. Should you think 'aha, I will try to match logical objects with each other', think again. Goblins is a whacky game and the puzzles are sometimes too wacky for it's own good. Ever tried catching a fairy with honey sirup? Or getting matches via a big bear carpet? The right or wrong animations are very well done, but it will get frustrating after a dozen tries. 
 

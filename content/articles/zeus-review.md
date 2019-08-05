@@ -14,7 +14,7 @@ weight = 0
 
 <img src="/img/Guides/Zeus.jpg"/>
 
-Argh, my temple, all messed up! Poseidon likes to destroy all buildings I carefully planted down on the coast line because he's cranky in the morning. Acually I did not do him a favour in the past few years and instead joined forces with one of the other major Greek Gods. What choice would you make? A couple of free superman-like heroes fighting side by side with your gaint army, or a couple of free boats to roam and rule the sea? Before we move on I should really collect more taxes. Thank you rich people! - oh, I heard a reply: "No, thank you - ruler of this wonderful wealthy city!"
+Argh, my temple, all messed up! Poseidon likes to destroy all buildings I carefully planted down on the coast line because he's cranky in the morning. Acually I did not do him a favour in the past few years and instead joined forces with one of the other major Greek Gods. What choice would you make? A couple of free superman-like heroes fighting side by side with your giant army, or a couple of free boats to roam and rule the sea? Before we move on I should really collect more taxes. Thank you rich people! - oh, I heard a reply: "No, thank you - ruler of this wonderful wealthy city!"
 Yes, I'm getting hooked. All hooked up. Zeus: Master of Olympus is in fact the fifth time something like this happened - thanks a lot Impressions Games! Is this sad coincidence this company also had to close due to bad sell records? 
 Without further delays, let's head straight into the building fest, because Zeus is (subjectively) simply the best city building game to date.
 
