@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jefklaks Codex</title>
@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
     <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
-    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jefklakscodex.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Animal Crossing: New Horizons Adventure Blog</title>
+      <link>https://jefklakscodex.com/articles/animalcrossing-newhorizons/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://jefklakscodex.com/articles/animalcrossing-newhorizons/</guid>
+      <description>Remember the Animal Crossing: Wild World Adventure Blog post? Well, after a very long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the AC adventure blog, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island.</description>
+    </item>
     
     <item>
       <title>Experiencing the Enhanced Baldur&#39;s Gate</title>
@@ -68,6 +77,15 @@
     </item>
     
     <item>
+      <title>Baldur&#39;s Gate 2: Mage Talk</title>
+      <link>https://jefklakscodex.com/articles/bg2-magetalk/</link>
+      <pubDate>Wed, 30 Apr 2008 00:00:00 +0000</pubDate>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://jefklakscodex.com/articles/bg2-magetalk/</guid>
+      <description>Ever wondered whatever the heck those crazy Arcane spellcasters say every time they unleash one of their spells upon you? It&#39;s actually very simple and stands for the chosen spell&#39;s spell school (abjuration, evocation, ...). Male and female voices are of course different, and the pronunciations vary too sometimes (Vita Mortis [Carero]/[Calia]?). All formulaes are actually Latin, and Latin is often pronounced differently depending on the dialect. Here is a quick overview:  1.</description>
+    </item>
+    
+    <item>
       <title>BG2 Solo Blade: A Report</title>
       <link>https://jefklakscodex.com/articles/bg2-solo-blade/</link>
       <pubDate>Wed, 30 Apr 2008 00:00:00 +0000</pubDate>
@@ -84,15 +102,6 @@
       <guid>https://jefklakscodex.com/articles/bg2-clericranger/</guid>
       <description>Guide Content  Introduction to the cleric/ranger Basic progression guide Picking your equipment The cleric/ranger&amp;rsquo;s spell picks  
 Introduction to the cleric/ranger Since little non-playable and joinable characters are as good in healing as Viconia is, you might end up creating your own cleric. Especially if you intend to play as a neutral or good party. Remember Viconia and Keldorn both at the same time in your party is asking for trouble: either one of the two will leave or they might even fight in later stages.</description>
-    </item>
-    
-    <item>
-      <title>Baldur&#39;s Gate 2: Mage Talk</title>
-      <link>https://jefklakscodex.com/articles/bg2-magetalk/</link>
-      <pubDate>Wed, 30 Apr 2008 00:00:00 +0000</pubDate>
-      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
-      <guid>https://jefklakscodex.com/articles/bg2-magetalk/</guid>
-      <description>Ever wondered whatever the heck those crazy Arcane spellcasters say every time they unleash one of their spells upon you? It&#39;s actually very simple and stands for the chosen spell&#39;s spell school (abjuration, evocation, ...). Male and female voices are of course different, and the pronunciations vary too sometimes (Vita Mortis [Carero]/[Calia]?). All formulaes are actually Latin, and Latin is often pronounced differently depending on the dialect. Here is a quick overview:  1.</description>
     </item>
     
     <item>
