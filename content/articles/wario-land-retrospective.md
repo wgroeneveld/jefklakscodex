@@ -7,6 +7,10 @@ date = "2018-05-27"
 title = "Wario Land: a retrospective"
 tags = ['Super Mario Land 3: Super Wario Land', 'Wario Land II', 'Wario Land 3', 'Wario Land 4', 'Metroidvania']
 keywords = ['Wario Land gameboy Retrospective', 'wario land gameboy', 'wario land gbc', 'wario land gb', 'wario land gba']
+game_platform = 'gbc'
+game_genre = 'Platformer'
+game_release_year = '2000'
+game_developer = 'Nintendo'
 weight = 0
 +++
 

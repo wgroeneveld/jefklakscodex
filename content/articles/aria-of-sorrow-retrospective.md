@@ -6,6 +6,10 @@ imageActive = "/gif/aria-of-sorrow.gif"
 date = "2018-07-31"
 title = "Castlevania Aria of Sorrow: a retrospective"
 tags = ['Castlevania aria of sorrow', 'Castlevania', 'Castlevania gba', 'Aria of sorrow', 'Castlevania aos']
+game_platform = 'gba'
+game_genre = 'Metroidvania'
+game_release_year = '2002'
+game_developer = 'Nintendo'
 weight = 0
 +++
 

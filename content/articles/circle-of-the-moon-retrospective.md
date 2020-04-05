@@ -6,6 +6,10 @@ imageActive = "/img/articles/cotm_boss.jpg"
 date = "2018-09-09"
 title = "Castlevania Circle of the Moon: a retrospective"
 tags = ['Castlevania Circle of the Moon', 'Castlevania', 'Castlevania gba', 'Circle of the Moon', 'Castlevania cotm']
+game_platform = 'gba'
+game_genre = 'Metroidvania'
+game_release_year = '2001'
+game_developer = 'Nintendo'
 weight = 0
 +++
 
