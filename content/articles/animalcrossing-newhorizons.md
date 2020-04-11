@@ -17,6 +17,16 @@ weight = 0
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 
 
+### The town square is _finally_ finished!
+
+<div style="text-align: right;">[ Date: 09/04/2020 | <a href="#top">top</a> ]</div>
+
+I do not believe they call it the Major's house or the Town Hall this time, but rather Nook's Resident Services 'building'. In any case, gone are the pesky tent and the wooden planks that hurt the eyes. Instead, a nice paved square welcomes weekly visitors, such as Kicks, the guy who sells shoes. I wonder whether he will also settle down some day, like the clothing sisters did. I had to place their shop, and we're still out of bridges to build, which is higly annoying.
+
+![](/img/games/ac/nhfeast.jpg)
+
+Five residents and counting! I managed to convince a dog to stay - he stopped by the place where peeps can set up their tent to visit Poezista. Now let's get rid of easter so I can dig up materials with confidence again, instead of finding eggs (that do bring in a nice amount of bells).
+
 ### Easter is (almost) upon us...
 
 <div style="text-align: right;">[ Date: 05/04/2020 | <a href="#top">top</a> ]</div>
