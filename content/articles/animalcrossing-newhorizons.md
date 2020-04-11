@@ -25,7 +25,7 @@ I do not believe they call it the Major's house or the Town Hall this time, but 
 
 ![](/img/games/ac/nhfeast.jpg)
 
-Five residents and counting! I managed to convince a dog to stay - he stopped by the place where peeps can set up their tent to visit Poezista. Now let's get rid of easter so I can dig up materials with confidence again, instead of finding eggs (that do bring in a nice amount of bells).
+Five residents and counting! I managed to convince a dog to stay - he stopped by the place where peeps can set up their tent to visit Poezista. Now let's get rid of easter so I can dig up materials with confidence again, instead of finding eggs (that do bring in a nice amount of bells). I also wonder what to do with all those cherry blossom petals...
 
 ### Easter is (almost) upon us...
 
