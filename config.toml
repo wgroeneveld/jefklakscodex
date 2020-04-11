@@ -13,6 +13,9 @@ enableGitInfo = true
   name = "Wouter Groeneveld"
   email = "wouter.groeneveld@gmail.com"
 
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
 [params]
   style = "default"
   twitter = "woutergroenev"
