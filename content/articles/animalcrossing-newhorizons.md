@@ -17,6 +17,16 @@ weight = 0
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 
 
+### Boing, boing - Bunny Day is upon us.
+
+<div style="text-align: right;">[ Date: 12/04/2020 | <a href="#top">top</a> ]</div>
+
+It's yellow and it bursts with energy! A tennis ball? A yellow bird? Nope, it's Zipper, the personal Bunny Day representative. He loves to trade eggs (and I was short on water and air ones) so naturally, we kindly exchanged foodstuffs. **Boingity boing!** _Let's trade eggs!_
+
+![](/img/games/ac/nhpasen2.jpg)
+
+Zipper told me I was only 1 recipe away from completing the limited edition Bunny Day seasonal DIY recipes. I have no idea what I missed, but I'm glad it is finally over. Now I can ditch those clothes and go buy a decent hat. Do notice that awesome backpack - you can even wear backpacks in New Horizons, it's crazy. When I go to sleep at night (in real life), I cannot _unhear_ the whooshing sound of a balloon present passing by...
+
 ### The town square is _finally_ finished!
 
 <div style="text-align: right;">[ Date: 09/04/2020 | <a href="#top">top</a> ]</div>
