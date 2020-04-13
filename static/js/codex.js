@@ -69,4 +69,7 @@ $(function() {
 	enableLightboxOnClickImgInContent();
 	disableResponsiveImagesForInlineLis();
 
+	const height = document.querySelector('.content-column').clientHeight;
+	$('.sidebar-content').css('height', (height + 50) + 'px');
+
 });

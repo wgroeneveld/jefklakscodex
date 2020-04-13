@@ -1,3 +1,57 @@
+:root {
+    --accent: #a6a57c;
+}
+
+/** commento specific **/
+.commento-root .commento-round-check input[type=checkbox]:checked+label:before,
+.commento-root .commento-round-check input[type=radio]:checked+label:before {
+  background: var(--accent) !important;
+  border: 1px solid var(--accent) !important;
+}
+
+.commento-root .commento-markdown-help tr td pre {
+  padding: 0 !important;
+}
+
+.commento-button {
+  color: white !important;
+  background: var(--accent) !important;
+}
+
+.commento-twitter-button:before {
+   font-family: FontAwesome;
+   content: "\f099";
+   display: inline-block;
+   padding-right: 3px;
+   vertical-align: middle;
+}
+
+.commento-twitter-button {
+  width: auto !important;
+}
+
+.commento-root a,
+.commento-email-button {
+  color: var(--accent) !important;
+}
+
+.commento-root .commento-card .commento-body p,
+.commento-root textarea,
+.commento-name {
+  font-size: 14pt !important;  
+}
+
+.commento-root *,
+.commento-root-font * {
+  line-height: 1.7 !important;
+  color: #333;
+  text-align: left !important;
+}
+
+.commento-root .commento-card .commento-name {
+  font-size: 14pt !important;
+}
+
 
 /* pm wiki conversion styles */
 
@@ -41,20 +95,6 @@ footer {
 
 footer .img-responsive {
 	margin: 0;
-}
-
-.container-fluid {
-	overflow: hidden;
-}
-
-.sidebar-content {
-	/** haxx!! overflowww **/
-    margin-bottom: -90000px;
-    padding-bottom: 90000px;
-    position: relative;
-    width: 100%;
-
-	border-right: 5px solid #a6a57c;
 }
 
 .content-column, .sidebar-content {
@@ -146,15 +186,28 @@ a:hover, .box-masonry h4 a:hover {
 
 .container-fluid {
 	padding-left: 0;
+	height: 100%;
+}
+
+.sidebar-content {
+	border-right: 5px solid #a6a57c;
+	position: unset;
+	width: 100%;
 }
 
 #sidebar {
 	padding: 0;
+	height: 100%;
+	overflow: auto;
+	vertical-align: top;
+	display: inline-block;
 	padding-left: 10px;
 }
 
 .content-column.white-background {
-	min-height: 100vh;
+	height: 100%;
+	display: inline-block;
+	overflow: auto;
 	background: none;
 }
 
