@@ -69,7 +69,7 @@ $(function() {
 
 	var hijackAppendChildToExecuteAfter = function(afterFn) {
 		const _appendChild = Node.prototype.appendChild;
-		const _insertBefore = Node.prototype.insertBefore;
+		const _replaceChild = Node.prototype.replaceChild;
 		
 		Node.prototype.appendChild = function(el) {
 			_appendChild.apply(this, arguments);
@@ -77,9 +77,9 @@ $(function() {
 			afterFn();
 		}
 
-		Node.prototype.insertBefore = function(el) {
-			_insertBefore.apply(this, arguments);
-			console.log('inserting before ' + el);
+		Node.prototype.replaceChild = function(el) {
+			_replaceChild.apply(this, arguments);
+			console.log('replacing ' + el);
 			afterFn();
 		}
 	}
