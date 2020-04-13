@@ -75,9 +75,7 @@ $(function() {
 	disableResponsiveImagesForInlineLis();
 	resizeSidebar();
 
-	$(document).bind("ajaxComplete", function() {
-		// this sucks... But commento is still editing HTML. 
-		setTimeout(resizeSidebar, 1000);
-	});
+	// this sucks... But commento is still editing HTML. 
+	setTimeout(resizeSidebar, 2000);
 
 });
