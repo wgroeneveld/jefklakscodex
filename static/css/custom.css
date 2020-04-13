@@ -34,10 +34,7 @@
    display: inline-block;
    padding-right: 3px;
    vertical-align: middle;
-}
-
-.commento-twitter-button {
-  width: auto !important;
+   width: auto !important;
 }
 
 .commento-root a,
