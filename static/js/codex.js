@@ -67,20 +67,14 @@ $(function() {
 		$('.sidebar-content').css('height', (height + 50) + 'px');
 	};
 
-	var hijackAppendChildToExecuteAfter = function(afterFn) {
+	var hijackAppendChildToExecuteAfter = function(afterFn, elId) {
 		const _appendChild = Node.prototype.appendChild;
-		const _replaceChild = Node.prototype.replaceChild;
 		
 		Node.prototype.appendChild = function(el) {
 			_appendChild.apply(this, arguments);
-			console.log('appending ' + el);
-			afterFn();
-		}
-
-		Node.prototype.replaceChild = function(el) {
-			_replaceChild.apply(this, arguments);
-			console.log('replacing ' + el);
-			afterFn();
+			if(el.id === elId) {
+				setTimeout(afterFn, 100);
+			}
 		}
 	}
 
@@ -93,6 +87,6 @@ $(function() {
 	resizeSidebar();
 
 	// needed for Commento, no 'official' callback when done provided.
-	hijackAppendChildToExecuteAfter(resizeSidebar);
+	hijackAppendChildToExecuteAfter(resizeSidebar, 'commento-footer');
 
 });
