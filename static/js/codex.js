@@ -67,6 +67,14 @@ $(function() {
 		$('.sidebar-content').css('height', (height + 50) + 'px');
 	};
 
+	var hijackAppendChildToExecuteAfter = function(afterFn) {
+		const _appendChild = Node.prototype.appendChild;
+		Node.prototype.appendChild = function() {
+			_appendChild.apply(this, arguments);
+			afterFn();
+		}
+	}
+
 	animateActiveGameImagesIfFound();
 	setSideBarPlatformHeight();
 	addRandomImageToSideBarMenus();
@@ -75,7 +83,7 @@ $(function() {
 	disableResponsiveImagesForInlineLis();
 	resizeSidebar();
 
-	// this sucks... But commento is still editing HTML. 
-	setTimeout(resizeSidebar, 2000);
+	// needed for Commento, no 'official' callback when done provided.
+	hijackAppendChildToExecuteAfter(resizeSidebar);
 
 });
