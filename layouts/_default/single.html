@@ -14,7 +14,10 @@
                   </span>&nbsp;|&nbsp;
                   <span title="Last Modified Date">
                       <i class='fa fa-calendar-check-o'></i>&nbsp;{{ .Lastmod.Format (.Site.Params.dateFormat | default "2 January 2006") }}
-                  </span>
+                  </span>&nbsp;|&nbsp;
+                  <span title="Comments">
+                    <i class="fa fa-comments-o"></i>&nbsp;<a href="{{ .Permalink }}#commento"></a>
+                </span>
           </span>
         </h5>
         <hr/>
@@ -24,14 +27,13 @@
          <hr/>
 
         {{ if (not .Params.disableComments) }}
-        
-            {{ if .Site.DisqusShortname }}
-              <h4 class="page-header"><i class="fa fa-comments-o"></i>&nbsp;
+          <h4 class="page-header"><i class="fa fa-comments-o"></i>&nbsp;
+              Join the Discussion
+          </h4>        
 
-                <h4 class="page-header">Comments</h4>
-                {{ template "_internal/disqus.html" . }}
-
-            {{ end }}
+          <script defer src="https://commento.brainbaking.com/js/commento.js"></script>
+          <script src="https://commento.brainbaking.com/js/count.js"></script>
+          <div id="commento"></div>
 
         {{ end }}
 
