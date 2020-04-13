@@ -62,14 +62,19 @@ $(function() {
 		$('.sidebar-game-info').mouseenter(animate).mouseleave(inanimate);
 	};
 
+	var resizeSidebar = function() {
+		const height = document.querySelector('.content-column').clientHeight;
+		$('.sidebar-content').css('height', (height + 50) + 'px');
+	};
+
 	animateActiveGameImagesIfFound();
 	setSideBarPlatformHeight();
 	addRandomImageToSideBarMenus();
 	enableScrollToTopOnInternalLinks();
 	enableLightboxOnClickImgInContent();
 	disableResponsiveImagesForInlineLis();
+	resizeSidebar();
 
-	const height = document.querySelector('.content-column').clientHeight;
-	$('.sidebar-content').css('height', (height + 50) + 'px');
+	$(document).bind("ajaxComplete", resizeSidebar);
 
 });
