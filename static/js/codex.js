@@ -71,10 +71,11 @@ $(function() {
 		const _appendChild = Node.prototype.appendChild;
 		
 		Node.prototype.appendChild = function(el) {
-			_appendChild.apply(this, arguments);
+			const result = _appendChild.apply(this, arguments);
 			if(el.id === elId) {
 				setTimeout(afterFn, 100);
 			}
+			return result;
 		}
 	}
 

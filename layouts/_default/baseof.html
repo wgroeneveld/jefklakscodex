@@ -5,6 +5,12 @@
 </head>
 <body>
   <a name="top" id="top"></a>
+
+  {{ with .OutputFormats.Get "RSS" }}
+    <a href="{{ .RelPermalink }}" id="csslink" target="_blank">
+      <img src="/img/rss.png" />
+    </a>
+  {{ end }}
   <div id="all">
       <div class="container-fluid">
           <div class="row row-offcanvas row-offcanvas-left">

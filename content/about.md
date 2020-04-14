@@ -1,5 +1,6 @@
 +++
 title = "Jefklak's Codex: About"
+disableComments = true
 +++
 
 # About the Codex

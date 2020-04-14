@@ -49,10 +49,13 @@
   color: var(--accent) !important;
 }
 
-.commento-root .commento-card .commento-body p,
-.commento-root textarea,
 .commento-name {
-  font-size: 14pt !important;  
+  font-size: 14pt !important;    
+}
+
+.commento-root .commento-card .commento-body p,
+.commento-root textarea {
+  font-size: 12pt !important;  
 }
 
 .commento-root *,
@@ -92,6 +95,13 @@ body {
 	font-size: 14pt;
 }
 
+#csslink {
+	position: absolute;
+	right: 0;
+	z-index: 99;
+	visibility: hidden;
+}
+
 footer {
 	position: absolute;
     bottom: 0;
@@ -102,7 +112,7 @@ footer {
 }
 
 @media only screen and (min-width: 1200px) {
-	footer {
+	footer, #csslink {
 		visibility: visible;
 	}
 }
