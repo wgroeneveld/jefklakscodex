@@ -17,6 +17,16 @@ weight = 0
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 
 
+### Yes! There's still tuna in Poezista
+
+<div style="text-align: right;">[ Date: 15/04/2020 | <a href="#top">top</a> ]</div>
+
+So the wheather is beautiful today. That means a lot of bugs, such as butterflies in the air and stinkbugs on flowers - like floating bags of bells, happily chirping until I catch them with my net to trade for hard cash. That also means some fish are easier to catch. I made some fish bait and tried my luck at the ocean.
+
+![](/img/games/ac/nhfish.jpg)
+
+This tuna is almost bigger than myself, and Blathers from the museum was very happy with it. No bells for me, better luck next time. I always try to prioritize on the expansion of the museum exhibits. After gathering around 100.000 bells today, I have enough to put up a few more ramps and open spaces to invite others to live in Poezista. We're expanding!
+
 ### Boing, boing - Bunny Day is upon us.
 
 <div style="text-align: right;">[ Date: 12/04/2020 | <a href="#top">top</a> ]</div>
@@ -49,7 +59,7 @@ After decorating my head, my door, and all other inhabitants by forcing gifts up
 
 The most frustrating thing about the upcoming easter festivities is that my precious _clay_ resource does not appear as often as I would have liked because of those pesky stone eggs. Now I have to visit islands (thus gathering Nook Miles) to hit even more rocks. Yay!
 
-### Even Guilliver is on Tech now
+### Even Gulliver is on Tech now
 
 <div style="text-align: right;">[ Date: 03/04/2020 | <a href="#top">top</a> ]</div>
 
