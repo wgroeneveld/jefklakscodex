@@ -78,6 +78,21 @@
 
 /* hugo theme custom stuff */
 
+ul, ol {
+	margin-bottom: 2rem;
+}
+
+blockquote {
+	font-size: inherit;
+	font-style: italic;
+	border-left: 5px solid #c7532d;
+}
+
+h3 {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
 img.full {
 	width: 100% !important;
 }

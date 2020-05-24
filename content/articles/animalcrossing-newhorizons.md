@@ -17,6 +17,18 @@ weight = 0
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 
 
+### After twelve visits to mystery islands...
+
+<div style="text-align: right;">[ Date: 10/05/2020 | <a href="#top">top</a> ]</div>
+
+What to do with all those special Nookinton points? Exchange them for tickets to mystery islands - who knows we might get lucky. One of the things I dislike about the new Animal Crossing is the lack of getting new fruit or anything related without having to buy a Nintendo Online account to connect to (forum) friends. My wife and I used to play the (3)DS version a lot, and we loved visiting each others' town. After a while, our fruit orchard was flourishing. 
+
+![](/img/games/ac/nhbamboo.jpg)
+
+Now, the mystery island tours look like shit. The islands are small, and the only reason to go there is if you have a vacant spot, to 'pick' the neighbor you want instead of letting fate decide. Oh, and bamboo - you know, the ultra-fast growing annoyance you now can plant safely onto the higher plateaus - you can only get it on one of the random islands. Actually, that's not true: after I finally managed to get there, the turnip seller sent me some bamboo shoots through mail! 
+
+I do miss the vacation island of New Leaf. Cutting all trees, catching those rare bugs on stumps, ah, bell farming... Also, there seems to be no lemon, no persimmon and no durian fruit? Why? According to most sites, only apples, cherries, coconuts, oranges, pears and peaches are present up until now (version 1.2b). I highly suspect a lot of features were left out to release earlier (they were running behind schedule), only to be added later in the form of these free patch updates. Hopefully...
+
 ### Yes! There's still tuna in Poezista
 
 <div style="text-align: right;">[ Date: 15/04/2020 | <a href="#top">top</a> ]</div>
