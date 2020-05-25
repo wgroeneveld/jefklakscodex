@@ -1,6 +1,6 @@
 baseurl = "https://jefklakscodex.com/"
 title = "Jefklaks Codex"
-theme = "hugo-creative-portfolio-theme"
+theme = "jefklak-creative-portfolio"
 languageCode = "en-us"
 disqusShortname = ""
 googleAnalytics = "UA-122825031-1"
@@ -19,8 +19,6 @@ summaryLength = 20
   defaultMarkdownHandler = "blackfriday"
 
 [params]
-  style = "default"
-  twitter = "woutergroenev"
   font = "PT Sans"
   description = "Retro game thoughts"
   copyright = "No &copy; reserved - sharing is caring. <a href='https://github.com/wgroeneveld/jefklakscodex' target='_blank'>Hack away!</a><br/>An integral part of <a href='https://brainbaking.com/' target='_blank'>Brain Baking</a>."

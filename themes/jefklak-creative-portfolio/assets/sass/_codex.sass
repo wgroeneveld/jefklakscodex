@@ -1,0 +1,263 @@
+
+html
+	font-size: 1.0rem
+	@media (min-width: 960px)
+		font-size: 1.15rem
+	height: 100%
+
+
+body, h1, h2, h3, h4, .content-column-content p, .content-column-content li, .box-masonry .box-masonry-text p
+	color: var(--textcolor)
+
+body
+	background-color: var(--bglight)
+	line-height: 1.7
+	height: 100%
+
+	@media (min-width: 960px)
+		font-size: inherit
+
+
+.commento-root
+	.commento-round-check input[type=checkbox]:checked+label:before,
+	.commento-round-check input[type=radio]:checked+label:before
+		background: var(--accent) !important
+		border: 1px solid var(--accent) !important
+
+	.commento-markdown-help tr td pre
+		padding: 0 !important
+
+
+	.commento-card .commento-body p, textarea 
+		font-size: 0.9rem !important
+
+.commento-root *,
+.commento-root-font * 
+	line-height: 1.7 !important
+	color: #333
+	text-align: left !important
+
+
+.commento-root .commento-card .commento-name, .commento-name 
+	font-size: inherit !important
+
+
+.commento-button
+	color: white !important
+	background: var(--accent) !important
+
+.commento-google-button:before
+	content: "\f1a0"
+	font-family: FontAwesome
+	display: inline-block
+	padding-right: 3px
+	vertical-align: middle
+
+.commento-github-button:before
+	content: "\f09b"
+	font-family: FontAwesome
+	display: inline-block
+	padding-right: 3px
+	vertical-align: middle
+
+.commento-twitter-button:before 
+	content: "\f099"
+	font-family: FontAwesome
+	display: inline-block
+	padding-right: 3px
+	vertical-align: middle
+
+
+.commento-oauth-buttons button 
+	width: auto !important
+
+
+.commento-root a,
+.commento-email-button 
+	color: var(--accent) !important
+
+
+.rfloat 
+	float: right
+
+h1, .h1 
+	font-size: 2.5rem
+	font-weight: 700
+	margin-bottom: 2rem
+
+h2, .h2 
+	font-size: 2rem
+	font-weight: 700
+	margin-top: 2rem
+	margin-bottom: 2rem
+
+h3, .h3 
+	font-size: 1.7rem
+	font-weight: 700
+	margin-top: 2rem
+	margin-bottom: 2rem
+
+h4, .h4 
+	font-size: 1.4rem
+	font-weight: 700
+
+ul, ol 
+	margin-bottom: 2rem
+
+
+blockquote 
+	font-size: inherit
+	font-style: italic
+	border-left: 5px solid var(--accent)
+
+
+button 
+	background-color: var(--accent) !important
+	color: white !important
+	border-color: darkgrey !important
+
+
+.small-navbar button 
+	position: fixed
+	z-index: 99
+	margin-top: -1rem
+	margin-left: 1rem
+
+
+hr 
+	border-top: 1px solid var(--accent)
+
+a.internal 
+	cursor: pointer
+
+
+img.full 
+	width: 100% !important
+
+
+#csslink 
+	position: absolute
+	right: 0
+	z-index: 99
+
+	visibility: hidden
+	@media only screen and (min-width: 1200px)
+		visibility: visible
+
+footer 
+	position: fixed
+	bottom: 0
+	right: 0
+	margin: 0
+	height: 140px
+
+	.img-responsive
+		margin: 0
+
+	visibility: hidden
+	@media only screen and (min-width: 1200px)
+		visibility: visible
+
+
+.content-column 
+	padding-left: 30px
+	padding-right: 30px
+	padding-top: 30px
+
+	@media (min-width: 1200px)
+		padding-left: 5rem
+	
+	&-content
+		@media (min-width: 1200px)
+			padding: 0
+
+
+.col-lg-8
+	@media (min-width: 1200px) 
+		width: 72%
+	
+
+.content-column-content
+	img 
+		cursor: pointer
+		border: 1px solid black
+
+	a:hover 
+		text-decoration: none
+
+	a:not([href]) 
+		padding-right: 0
+		background-image: none
+
+	a 
+		background-image: url(/img/external.png)
+		background-position: center right
+		background-repeat: no-repeat
+		padding-right: 13px
+		border-bottom: 1px dotted #526A43
+
+	p, li 
+		text-align: justify !important
+
+
+.modal-header 
+	display: none
+
+
+a, .box-masonry h4 a 
+	color: var(--textlink)
+	text-decoration: none
+
+
+
+a:hover, .box-masonry h4 a:hover 
+	color: var(--textlink)
+	background-color: #d1d3bd
+ 
+
+.container-fluid 
+	padding-left: 0
+	height: 100%
+
+
+
+
+.content-column.white-background 
+	height: 100%
+	display: inline-block
+	overflow: auto
+	background: none
+
+
+.content-column div.row 
+	padding-bottom: 14px
+
+
+.box-masonry 
+	background-color: #d9e7ac
+	border: 1px solid var(--accent)
+
+	&:hover
+		box-shadow: 0 0 5px black
+		.box-masonry-hover-text-header, .box-masonry-hover-center
+			opacity: 1
+		.box-masonry-image.with-hover-overlay:before
+			opacity: 0.3
+		.box-masonry-image.with-hover-icon:after
+			opacity: 1
+
+	.box-masonry-image 
+		background: none
+		padding-top: 10px
+
+
+.img-inactive 
+	display: block
+	width: 100%
+
+
+.img-active 
+	display: none
+	width: 100%
+
+

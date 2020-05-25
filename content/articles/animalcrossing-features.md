@@ -10,7 +10,7 @@ game_name = 'Animal Crossing'
 description = 'Which features from previous Animal Crossing games do you wish were present in the Switch one? Some features never made the jump to a new iteration. Let us take a closer look.'
 game_platform = 'gc'
 game_genre = 'Life sim'
-game_release_year = '2020'
+game_release_year = '2001'
 game_developer = 'Nintendo'
 weight = 0
 +++
