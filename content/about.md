@@ -1,9 +1,7 @@
 +++
-title = "Jefklak's Codex: About"
+title = "About the Codex"
 disableComments = true
 +++
-
-# About the Codex
 
 Hi, I'm Jefklak/[Wouter](https://brainbaking.com/about/) and you're looking at "Jefklak's Codex", a dedicated and highly opinionated website[^1] about nostalgic games. The word **nostalgic** should be emphasized here. I grew up with a Gameboy between my hands and PC RPG games burnt into my retina. That healthy cocktail left a lasting impression - and netted me the Codex (and glasses).
 
@@ -56,10 +54,10 @@ We retro fans have to stick together you know!
 
 All screenshots and images related to games are copyrighted by their legal owner. Since most older games aren't that popular anymore, I took the liberty to rely upon Google Images to grab screenshots when I was not able to provide my own. 
 
-The Jefklak's Codex theme icons come from the game **Gobliins 2**, an old DOS point-and-click adventure game made by [Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision). The French studio has been bought by Vivendi and parts of it gone bankrupt in 2004, so I have no idea if I'm free to use their sprites. The legal "abandonware" rights have always been a bit shady. 
+The Jefklak's Codex theme icons come from the game **[Gobliins 2](/articles/gobliins2-review)**, an old DOS point-and-click adventure game made by [Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision). The French studio has been bought by Vivendi and parts of it gone bankrupt in 2004, so I have no idea if I'm free to use their sprites. The legal "abandonware" rights have always been a bit shady. 
 
 This site was built using [Hugo](http://gohugo.io/). Heavily modified template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
 <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
 &amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>.
 
-[^1]: This website uses an [anonymized IP](https://support.google.com/analytics/answer/2763052?hl=en) form of Google Analytics for the sole purpose of tracking website traffic.    
+[^1]: This website uses an [anonymized IP](https://support.google.com/analytics/answer/2763052?hl=en) form of Google Analytics for the sole purpose of tracking website traffic. Embedded YouTube videos run in privacy mode, with cookies disabled. 

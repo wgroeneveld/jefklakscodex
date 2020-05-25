@@ -15,7 +15,8 @@ weight = 0
 
 Ever wanted to play a _real_ dungeon crawler but got held back by the possibility of a carpel tunnel syndrome? Did Diablo 2's skill tree make you dizzy and the hard decisions on where to dump attribute points net you an increased blood pressure? No more, with Diablo III: Diablo for Kids! Cruising through the killing fields by the press of a single button. Forget health potions, character builds and scouring dungeons for loot. It's all made much more accessible and _fun_ to play. At least, for those who didn't know what Diablo really was like, before version 3. With Diablo III's Eternal Collection arriving this week on the Nintendo Switch (what? A Blizzard game on a Nintendo Console? That's right!), I take a look at my all-time favorite _clickedy-click_ game genre and try to bring back some fond memories. 
 
-I failed. Miserably.<br/>
+I failed. Miserably.
+
 There is of course no clicking involved in a console version of Diablo, and let's start with the good parts: it runs extremely smoothly, even with a bunch of stuff happening on screen (like, say, exploding bodies on lightning-enhanced enemies). The revamped inventory screen and UI to match a console button layout is overall well-done. It's easy to walk through the world and through the screens, and it gets the job done. I of course prefer a full inventory screen instead of a list I need to scroll through but I understand the limitations of two analog knobs. Skills are assigned to face buttons and I never felt the need to use a shortcut to quickly switch between them, as you had to do in D2. There are more buttons than the 2 skills you had back then, so that might explain something. 
 
 <img src="/img/articles/d3-1.jpg">

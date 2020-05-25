@@ -1,8 +1,8 @@
 +++
 showonlyimage = false
 draft = false
-imageActive = "/img/games/ac/acgc.jpg"
-image = "/img/games/ac/acgc.jpg"
+imageActive = "gif/acgc.gif"
+image = "gif/acgc_still.gif"
 date = "2020-05-24"
 title = "31 Animal Crossing GCN Features that (never?) returned"
 tags = ['Animal Crossing']

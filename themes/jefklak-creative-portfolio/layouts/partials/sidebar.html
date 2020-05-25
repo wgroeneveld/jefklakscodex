@@ -35,7 +35,7 @@
           &nbsp;Release year: {{ . }}<br/>
         {{ end }}
         {{ with .Params.game_developer }}
-          &nbsp;Developer: <a href="https://en.wikipedia.org/wiki/{{ . }}" target="_blank">{{ . }}</a><br/>
+          &nbsp;Developer: <a href="https://en.wikipedia.org/wiki/{{ . }}" target="_blank" class="external">{{ . }}</a><br/>
         {{ end }}
         </p>
       </div>
@@ -53,11 +53,11 @@
 
         <ul class="sidebar-menu">
         {{ range $related }}
-          {{ .Date.Format (.Site.Params.dateFormat | default "2 January") | $.Scratch.Set "subtitle" }}
+          {{ .Date.Format (.Site.Params.dateFormat | default "01/2006") | $.Scratch.Set "subtitle" }}
           {{ with .Description }} {{ $.Scratch.Set "subtitle" . }} {{ end }}              
           <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;
-            <span class="sidebar-date">({{ $.Scratch.Get "subtitle" }})</span>
+            <span class="sidebar-date"><i class='fa fa-calendar'></i>&nbsp;{{ $.Scratch.Get "subtitle" }}</span>
           </li>
         {{ end }}
       </ul>
