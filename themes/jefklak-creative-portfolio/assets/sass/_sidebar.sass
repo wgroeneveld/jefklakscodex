@@ -14,9 +14,12 @@
 	&-fixed 
 		position: fixed
 		bottom: 0px
-		width: calc(33.33% - 5px)
+		width: 50%
 
-		@media (min-width: 960px) 
+		@media (min-width: 768px)
+			width: calc(33.33% - 5px)
+
+		@media (min-width: 960px)
 			width: calc(25% - 5px)
 
 	&-menu
