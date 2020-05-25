@@ -1,7 +1,9 @@
 +++
 title = "Jefklak's Codex: Appendix"
 +++
-<img src="/img/logo.png"/>
 
-### Codex Appendix
+![logo](/img/logo.png)
 
+## Codex Appendix
+
+Browse [by article](#byarticle) or [by tag](#bytag) (game).

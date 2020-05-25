@@ -9,6 +9,8 @@ enableEmoji = true
 # for .Lastmod to work with .GitInfo: --enableGitInfo https://gohugo.io/variables/git/
 enableGitInfo = true
 
+summaryLength = 20
+
 [Author]
   name = "Wouter Groeneveld"
   email = "wouter.groeneveld@gmail.com"
@@ -23,7 +25,7 @@ enableGitInfo = true
   description = "Retro game thoughts"
   copyright = "No &copy; reserved - sharing is caring. <a href='https://github.com/wgroeneveld/jefklakscodex' target='_blank'>Hack away!</a><br/>An integral part of <a href='https://brainbaking.com/' target='_blank'>Brain Baking</a>."
   sidebarAbout = [
-    "You’re looking at “The Codex”, a dedicated and highly opinionated website about nostalgic games that left a lasting impression on me."
+    "You’re browsing “The Codex”, a dedicated and highly opinionated website about nostalgic games that left a lasting impression on me."
   ]
 
   # Nav links in the side bar
@@ -40,3 +42,12 @@ enableGitInfo = true
   name = "About the Codex"
   url = "about/"
 
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true

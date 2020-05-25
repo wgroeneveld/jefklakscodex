@@ -1,11 +1,55 @@
 $(function() {
 
+	var addResponsiveTagToContentImages = function() {
+		$("img").addClass("img-responsive");
+	};
 	var disableResponsiveImagesForInlineLis = function() {
 		$('li img.img-responsive').each(function() {
 			$(this).removeClass('img-responsive');
 			$(this).css('border', 'none');
 		});
 	};
+	addResponsiveTagToContentImages();
+	disableResponsiveImagesForInlineLis();
+
+	function lightbox() {
+	    $(document).delegate('*[data-toggle="lightbox"]', 'click', function (event) {
+	        event.preventDefault();
+	        $(this).ekkoLightbox();
+	    });
+	};
+	lightbox();
+
+	function offCanvas() {
+        $('[data-toggle="offcanvas"]').click(function () {
+            $('.row-offcanvas').toggleClass('active')
+        });
+	}
+	offCanvas();
+
+	function scrollThenFixSidebar() {
+		var maxHeight = $('.sidebar-content').height() - $(window).height() + 40;
+		$(document).on('scroll', function(e) {
+			if($(document).scrollTop() > maxHeight) {
+				$('.sidebar-content').addClass('sidebar-fixed').removeClass('sidebar-scrolling');
+			} else {
+				$('.sidebar-content').addClass('sidebar-scrolling').removeClass('sidebar-fixed');
+			}
+		})
+	}
+	scrollThenFixSidebar();
+
+	var addTargetBlankToExternalLinks = function() {
+		var host = (new URL(window.location.href)).hostname;
+		$('.content-column-content a').each(function() {
+			var me = $(this);
+			var url = me.attr('href');
+			if(url.startsWith('http') && url.indexOf(host) === -1) {
+				me.attr('target', '_blank');
+			}
+		})
+	};
+	addTargetBlankToExternalLinks();
 
 	var enableLightboxOnClickImgInContent = function() {
 		$('.content-column-content img').click(function(e) {
@@ -18,11 +62,11 @@ $(function() {
 
 	var enableScrollToTopOnInternalLinks = function() {
 		$('#totop').click(function() {
-			$.scrollTo($('#top'), 1000);
+		    $("html, body").animate({ scrollTop: 0 }, "slow");
 		});
 
 		$('a.internal').click(function() {
-			$.scrollTo($($(this).data('to')), 1000);
+			$($(this).data('to')).animate({ scrollTop: 0 }, "slow");
 		});
 	};
 
@@ -62,32 +106,9 @@ $(function() {
 		$('.sidebar-game-info').mouseenter(animate).mouseleave(inanimate);
 	};
 
-	var resizeSidebar = function() {
-		const height = document.querySelector('.content-column').clientHeight;
-		$('.sidebar-content').css('height', (height + 50) + 'px');
-	};
-
-	var hijackAppendChildToExecuteAfter = function(afterFn, elId) {
-		const _appendChild = Node.prototype.appendChild;
-		
-		Node.prototype.appendChild = function(el) {
-			const result = _appendChild.apply(this, arguments);
-			if(el.id === elId) {
-				setTimeout(afterFn, 100);
-			}
-			return result;
-		}
-	}
-
 	animateActiveGameImagesIfFound();
 	setSideBarPlatformHeight();
 	addRandomImageToSideBarMenus();
 	enableScrollToTopOnInternalLinks();
 	enableLightboxOnClickImgInContent();
-	disableResponsiveImagesForInlineLis();
-	resizeSidebar();
-
-	// needed for Commento, no 'official' callback when done provided.
-	hijackAppendChildToExecuteAfter(resizeSidebar, 'commento-footer');
-
 });

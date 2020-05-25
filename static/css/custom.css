@@ -1,8 +1,45 @@
+/***
+* root changes
+***/
+
 :root {
     --accent: #a6a57c;
+    --bglight: #f1f4dd;
+    --bgdarker: #e6ecb2;
+    --bgdark: #d7d7a3;
+    --textcolor: #363636;
+    --textlink: #c7532d;
 }
 
-/** commento specific **/
+html {
+	font-size: 1.0rem
+	height: 100%;
+}
+
+body, h1, h2, h3, h4, 
+.content-column-content p, .content-column-content li, .box-masonry .box-masonry-text p {
+	color: var(--textcolor);
+}
+
+body {
+	background-color: var(--bglight);
+	line-height: 1.7;
+	height: 100%;
+}
+
+@media (min-width: 960px) {
+	body {
+		font-size: inherit;
+	}
+	html {
+    	font-size: 1.15rem
+    }
+}
+
+
+/***
+* commento specific
+***/
 .commento-root .commento-round-check input[type=checkbox]:checked+label:before,
 .commento-root .commento-round-check input[type=radio]:checked+label:before {
   background: var(--accent) !important;
@@ -49,13 +86,10 @@
   color: var(--accent) !important;
 }
 
-.commento-name {
-  font-size: 14pt !important;    
-}
 
 .commento-root .commento-card .commento-body p,
 .commento-root textarea {
-  font-size: 12pt !important;  
+  font-size: 0.9rem !important;  
 }
 
 .commento-root *,
@@ -65,18 +99,47 @@
   text-align: left !important;
 }
 
-.commento-root .commento-card .commento-name {
-  font-size: 14pt !important;
+.commento-root .commento-card .commento-name, .commento-name {
+  font-size: inherit !important;
 }
 
 
-/* pm wiki conversion styles */
-
+/***
+* pmwiki conversion styles
+***/
 .rfloat {
 	float: right;
 }
 
-/* hugo theme custom stuff */
+
+/***
+* hugo theme custom stuff
+***/
+h1,
+.h1 {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-bottom: 2rem;
+}
+h2,
+.h2 {
+	font-size: 2rem;
+	font-weight: 700;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+h3,
+.h3 {
+	font-size: 1.7rem;
+	font-weight: 700;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+h4,
+.h4 {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
 
 ul, ol {
 	margin-bottom: 2rem;
@@ -85,29 +148,28 @@ ul, ol {
 blockquote {
 	font-size: inherit;
 	font-style: italic;
-	border-left: 5px solid #c7532d;
+	border-left: 5px solid var(--accent);
 }
 
-h3 {
-	margin-top: 2rem;
-	margin-bottom: 2rem;
+button {
+	background-color: var(--accent) !important;
+	color: white !important;
+	border-color: darkgrey !important;
+}
+
+.small-navbar button {
+	position: fixed;
+	z-index: 99;
+	margin-top: -1rem;
+	margin-left: 1rem;
+}
+
+hr {
+	border-top: 1px solid var(--accent);
 }
 
 img.full {
 	width: 100% !important;
-}
-
-html, body {
-	height: 100%;
-}
-
-body {
-	background-color: #f1f4dd;
-	line-height: 1.7;
-}
-
-.content-column-content {
-	font-size: 14pt;
 }
 
 #csslink {
@@ -118,7 +180,7 @@ body {
 }
 
 footer {
-	position: absolute;
+	position: fixed;
     bottom: 0;
     right: 0;
     margin: 0;
@@ -126,9 +188,24 @@ footer {
     visibility: hidden;
 }
 
+.content-column {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
 @media only screen and (min-width: 1200px) {
 	footer, #csslink {
 		visibility: visible;
+	}
+
+	.content-column {
+		padding-left: 5rem;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.row-offcanvas-left .sidebar-offcanvas {
+		left: -46%;
 	}
 }
 
@@ -140,14 +217,21 @@ footer .img-responsive {
 	padding-top: 30px;
 }
 
-body, .content-column-content p, .content-column-content li, .box-masonry .box-masonry-text p {
-	color: #363636;
+@media (min-width: 1200px) {
+	.content-column-content {
+		padding: 0;
+	}
+
+	.col-lg-8 {
+		width: 72%;
+	}
 }
 
 .sidebar-menu li {
+	font-size: 0.8rem;
 	padding-top: 8px;
 	padding-bottom: 8px;
-	border: 1px solid #d7d7a3;
+	border: 1px solid var(--bgdark);
 	padding-left: 20px;
 	margin: 0;
 	cursor: pointer;
@@ -159,7 +243,7 @@ a.internal {
 
 .sidebar-menu li:hover {
 	/* background randomly set in script */
-	border: 1px solid #a6a57c;
+	border: 1px solid var(--accent);
 }
 
 .sidebar-game-platform {
@@ -168,10 +252,11 @@ a.internal {
 	border: 1px solid black;
 }
 
-.sidebar-header {
+.sidebar-heading {
 	font-weight: bold;
 	padding-top: 10px;
 	padding-left: 10px;
+	margin-top: 0;
 }
 
 .sidebar-date {
@@ -209,17 +294,21 @@ a.internal {
 	display: none;
 }
 
-.content-column-content p {
+.content-column-content p, .content-column-content li {
 	text-align: justify !important;
 }
 
 a, .box-masonry h4 a {
-    color:#c7532d;
+    color: var(--textlink);
     text-decoration: none;
 }
 
+.sidebar-menu li:hover:before, .sidebar-menu li:hover a {
+	color: var(--textlink);
+}
+
 a:hover, .box-masonry h4 a:hover {
-    color:#c7532d;
+    color: var(--textlink);
     background-color: #d1d3bd;
 } 
 
@@ -229,9 +318,24 @@ a:hover, .box-masonry h4 a:hover {
 }
 
 .sidebar-content {
-	border-right: 5px solid #a6a57c;
-	position: unset;
+	border-right: 5px solid var(--accent);
+}
+
+.sidebar-scrolling {
 	width: 100%;
+	position: unset;
+}
+
+.sidebar-fixed {
+	position: fixed;
+	bottom: 0px;
+	width: calc(33.33% - 5px);
+}
+
+@media (min-width: 960px) {
+	.sidebar-fixed {
+		width: calc(25% - 5px);
+	}
 }
 
 #sidebar {
@@ -250,38 +354,37 @@ a:hover, .box-masonry h4 a:hover {
 	background: none;
 }
 
-.content-column {
-	padding-left: 30px;
-}
-
 .content-column div.row {
 	padding-bottom: 14px;
 }
 
 #sidebar, .sidebar-content {
-	background-color: #d7d7a3;
+	background-color: var(--bgdark);
 }
 
 #sidebar hr {
-	border-top: 1px solid #a6a57c;
+	border-top: 1px solid var(--accent);
 }
 
 .sidebar-game-info {
-	background-color: #e6ecb2;
-	border: 1px solid #a6a57c;
+	background-color: var(--bgdarker);
+	border: 1px solid var(--accent);
+	margin-bottom: 1rem;
 }
 
 .box-masonry {
 	background-color: #d9e7ac;
-	border: 1px solid #a6a57c;
+	border: 1px solid var(--accent);
 }
 
 .img-inactive {
 	display: block;
+	width: 100%;
 }
 
 .img-active {
 	display: none;
+	width: 100%;
 }
 
 .box-masonry:hover {

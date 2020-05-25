@@ -1,43 +1,13 @@
 {{ $url := .Site.BaseURL }}
 
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
-  <div class="sidebar-content">
+  <div class="sidebar-content sidebar-scrolling">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
 
-    <div class="sidebar-header">
-      <span>Latest</span>
-      <img src="/img/gob_letter.gif"/>
-    </div>
-    {{ with .Site.GetPage "section" "articles" }}
-    <ul class="sidebar-menu">
-      {{ range first 10 .Data.Pages.ByDate.Reverse }}
-        {{ .Date.Format (.Site.Params.dateFormat | default "01/2006") | $.Scratch.Set "subtitle" }}
-          <li>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;
-            <span class="sidebar-date">
-              <i class='fa fa-calendar'></i>&nbsp;
-              {{ $.Scratch.Get "subtitle" }}
-            </span>
-          </li>
-      {{ end }}
-    </ul>
-    {{ end }}
-
-    <div class="sidebar-header">
-      <span>Browsing</span>
-      <img src="/img/gob_waypoint.gif"/>
-    </div>
-    <ul class="sidebar-menu">
-      {{ range .Site.Params.navlinks }}
-        <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
-      {{ end }}
-    </ul>
-
     {{ if and (isset .Params "image") .Params.image }}
-      <hr/>
       <div class="sidebar-game-info">
         <div class="sidebar-header">&nbsp;&nbsp;
           {{ with .Params.game_name }}
@@ -69,11 +39,10 @@
         {{ end }}
         </p>
       </div>
-      <hr/>
     {{ end }}
 
     <!-- ripped from BB's minimal theme -->
-    {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "articles") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+    {{ $related := first 4 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "articles") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
 
     {{ if $related }}
 
@@ -92,8 +61,38 @@
           </li>
         {{ end }}
       </ul>
+      <hr/>
 
     {{ end }}
+
+    <div class="sidebar-header">
+      <span>Latest</span>
+      <img src="/img/gob_letter.gif"/>
+    </div>
+    {{ with .Site.GetPage "section" "articles" }}
+    <ul class="sidebar-menu">
+      {{ range first 10 .Data.Pages.ByDate.Reverse }}
+        {{ .Date.Format (.Site.Params.dateFormat | default "01/2006") | $.Scratch.Set "subtitle" }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;
+            <span class="sidebar-date">
+              <i class='fa fa-calendar'></i>&nbsp;
+              {{ $.Scratch.Get "subtitle" }}
+            </span>
+          </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    <div class="sidebar-header">
+      <span>Browsing</span>
+      <img src="/img/gob_waypoint.gif"/>
+    </div>
+    <ul class="sidebar-menu">
+      {{ range .Site.Params.navlinks }}
+        <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
 
 
     <div class="copyright">

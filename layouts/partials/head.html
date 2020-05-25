@@ -120,4 +120,6 @@ body, .content-column-content, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, 
   <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="Jefklak's Codex" />
   <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="Jefklak's Codex" />
   {{ end }}
-{{ partial "google-analytics-anonymous.html" . }}
+{{- if (ne hugo.Environment "development") }}
+    {{ template "_internal/google_analytics.html" . }}
+{{- end }}

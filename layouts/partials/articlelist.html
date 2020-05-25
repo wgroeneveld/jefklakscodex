@@ -10,10 +10,17 @@
 	    	<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 	    	{{ with .Params.archived }}
 				<kbd class="item-tag">Archived</kbd>
-	    	{{ end }}		    
-		    {{ with .Description }} 
-		    	<br/>{{ . }}
-		    {{ end }}
+	    	{{ end }}
+	    	<br/>
+	    	{{- if isset .Params "description" }}
+		    	{{ with .Description }} 
+		    		{{ . }}
+		    	{{ end }}
+			{{- else }}		    	
+		    	{{ with .Summary }} 
+		    		{{ . }}
+		    	{{ end }}
+	    	{{- end }}
 		</li>
 	    {{ end }}
 	</ul>

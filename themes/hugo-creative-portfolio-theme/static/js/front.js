@@ -1,8 +1,8 @@
-masonry();
+//masonry();
 $(function () {
     offCanvas();
     lightbox();
-    carousels();
+    //carousels();
     utils();
     highlightCurrentPage();
     makeImagesResponsive();

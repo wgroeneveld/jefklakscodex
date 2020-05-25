@@ -1,14 +1,14 @@
 +++
 showonlyimage = false
 draft = false
-imageActive = "gif/acnh.gif"
-image = "gif/acnh_still.gif"
+imageActive = "/img/games/ac/acgc.jpg"
+image = "/img/games/ac/acgc.jpg"
 date = "2020-05-24"
 title = "31 Animal Crossing GCN Features that (never?) returned"
 tags = ['Animal Crossing']
-game_name = 'Animal Crossing: New Horizons'
-Description = 'It is a fresh breeze indeed as the Island unfolds, buildings appear, and I sweat my ass off trying to collect enough lumber and clay to satisfy even the most grumpy of Tom Nooks. Welcome to the latest installment of Animal Crossing!'
-game_platform = 'switch'
+game_name = 'Animal Crossing'
+description = 'Which features from previous Animal Crossing games do you wish were present in the Switch one? Some features never made the jump to a new iteration. Let us take a closer look.'
+game_platform = 'gc'
 game_genre = 'Life sim'
 game_release_year = '2020'
 game_developer = 'Nintendo'
@@ -30,7 +30,7 @@ Jeff is still playing the original Gamecube version of Animal Crossing - anno 20
 - 12. **Cherry blossom festival** - Yes! It just passed in April. 
 - 24. **Catching Wisp's spirits**. He's grateful and gives an item in exchange, but I can't remember which one it was... I might have sold it. Whoops.
 
-[![golden statue](https://www.jvgs.net/acblog/wp-content/uploads/2018/05/ac-statue-31.jpg)](https://www.jvgs.net/acblog/2018/05/25/31-features/#comment-7281)
+[![golden statue](/img/games/ac/ac-statue.jpg)](https://www.jvgs.net/acblog/2018/05/25/31-features/#comment-7281)
 
 Too bad no statue will be built in New Horizons... 
 
