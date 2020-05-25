@@ -29,7 +29,7 @@ $(function() {
 
 	function scrollThenFixSidebar() {
 		var maxHeight = $('.sidebar-content').height() - $(window).height() + 40;
-		$('body').on('scroll', function(e) {
+		$(document).on('scroll', function(e) {
 		    var s = document.scrollingElement.scrollTop || $('html').scrollTop() || $('body').scrollTop();
 			if(s > maxHeight) {
 				$('.sidebar-content').addClass('sidebar-fixed').removeClass('sidebar-scrolling');
