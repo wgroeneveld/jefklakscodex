@@ -4,6 +4,12 @@ html
 	@media (min-width: 960px)
 		font-size: 1.15rem
 
+%fa
+	font-family: FontAwesome
+	display: inline-block
+	padding-right: 3px
+	vertical-align: middle
+
 
 body, h1, h2, h3, h4, .content-column-content p, .content-column-content li, .box-masonry .box-masonry-text p
 	color: var(--textcolor)
@@ -46,26 +52,16 @@ body
 	background: var(--accent) !important
 
 .commento-google-button:before
+	@extend %fa
 	content: "\f1a0"
-	font-family: FontAwesome
-	display: inline-block
-	padding-right: 3px
-	vertical-align: middle
 
 .commento-github-button:before
+	@extend %fa
 	content: "\f09b"
-	font-family: FontAwesome
-	display: inline-block
-	padding-right: 3px
-	vertical-align: middle
 
 .commento-twitter-button:before 
+	@extend %fa
 	content: "\f099"
-	font-family: FontAwesome
-	display: inline-block
-	padding-right: 3px
-	vertical-align: middle
-
 
 .commento-oauth-buttons button 
 	width: auto !important
@@ -170,6 +166,9 @@ footer
 		@media (min-width: 1200px)
 			padding: 0
 
+	div.row 
+		padding-bottom: 14px
+
 
 .col-lg-8
 	@media (min-width: 1200px) 
@@ -214,8 +213,6 @@ a, .box-masonry h4 a
 	color: var(--textlink)
 	text-decoration: none
 
-
-
 a:hover, .box-masonry h4 a:hover 
 	color: var(--textlink)
 	background-color: #d1d3bd
@@ -224,17 +221,6 @@ a:hover, .box-masonry h4 a:hover
 .container-fluid 
 	padding-left: 0
 	height: 100%
-
-
-.content-column.white-background 
-	height: 100%
-	display: inline-block
-	overflow: auto
-	background: none
-
-
-.content-column div.row 
-	padding-bottom: 14px
 
 
 .box-masonry 
