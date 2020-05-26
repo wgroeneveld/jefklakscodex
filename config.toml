@@ -2,8 +2,6 @@ baseurl = "https://jefklakscodex.com/"
 title = "Jefklaks Codex"
 theme = "jefklak-creative-portfolio"
 languageCode = "en-us"
-disqusShortname = ""
-googleAnalytics = "UA-122825031-1"
 publishDir = "docs"
 enableEmoji = true
 # for .Lastmod to work with .GitInfo: --enableGitInfo https://gohugo.io/variables/git/
@@ -19,6 +17,8 @@ summaryLength = 20
   defaultMarkdownHandler = "blackfriday"
 
 [params]
+  fathomid = "YFJHP"
+  
   font = "PT Sans"
   description = "Retro game thoughts"
   copyright = "No &copy; reserved - sharing is caring. <a href='https://github.com/wgroeneveld/jefklakscodex' target='_blank'>Hack away!</a><br/>An integral part of <a href='https://brainbaking.com/' target='_blank'>Brain Baking</a>."
