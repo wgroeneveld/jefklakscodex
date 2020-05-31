@@ -17,6 +17,26 @@ weight = 0
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 
 
+### My villagers seem to be industrial bakers
+
+<div style="text-align: right;">[ Date: 01/06/2020 | <a href="#top">top</a> ]</div>
+
+Vesta and Antonio are chatting away, talking about _industrial baking_ nonetheless. They seem to be under the impression that whipping up a ton of dough can easily be done using a set of big mixers. Little did they know that the eavesdropping Villager (me) is a [professional baker](https://redzuurdesem.be/)! I have to say I disapprove of their method.
+
+![a chat between villagers](/img/games/ac/nhbaking.jpg)
+
+I can't remember what the conversation actually was about - Vesta likes to make silly analogies. I like her, never a dull (haha) moment with the black sheep of the family. Antonio, on the other hand, is mostly interested in pumping iron, running around and yelling "MUSCLE MADNESS". I did see a lot of other neighbours doing heavy lifting workouts, which are not that personality type. Something new in New Horizons?
+
+### My bathroom is done!
+
+<div style="text-align: right;">[ Date: 20/05/2020 | <a href="#top">top</a> ]</div>
+
+Sort of.
+
+![bathroom screenshot](/img/games/ac/nhbathroom.jpg)
+
+I really like the combination of the floor with the rustic woody wallpaper. That Greek bath cost me a fair amount of bells, but not as much as the outdoor whirlpool (90.000) or the 50 inch flatscreen TV (89.000). The bathroom also counts as a secret stash for turnips - these netted me around 450.000 on a lucky day. Bought at 91 bells a piece, sold at 500. I've never seen a price that high in my own town! Bingo!
+
 ### After twelve visits to mystery islands...
 
 <div style="text-align: right;">[ Date: 10/05/2020 | <a href="#top">top</a> ]</div>
