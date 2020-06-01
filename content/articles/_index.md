@@ -10,5 +10,5 @@ That healthy cocktail left a lasting impression - and netted me the Codex (and g
 
 > Stay Awhile and Listen!
 
-#### Looking for something specific? [Browse the Appendix](/tags).
+**Looking for something specific?** [Browse the Appendix](/tags).
 

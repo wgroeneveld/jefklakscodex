@@ -42,7 +42,7 @@
     {{ end }}
 
     <!-- ripped from BB's minimal theme -->
-    {{ $related := first 4 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "articles") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+    {{ $related := first 4 (where (where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
 
     {{ if $related }}
 

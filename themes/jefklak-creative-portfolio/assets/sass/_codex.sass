@@ -16,6 +16,7 @@ body
 	@media (min-width: 960px)
 		font-size: inherit
 
+
 .rfloat 
 	float: right
 
@@ -137,6 +138,13 @@ a.external
 	img 
 		cursor: pointer
 		border: 1px solid black
+		border-radius: 5px
+	.video-mask
+		padding-top: 1rem
+		padding-bottom: 1rem
+	    width: 100%
+	    border-radius: 5px
+	    overflow: hidden
 
 	a:hover 
 		text-decoration: none
@@ -195,3 +203,26 @@ a:hover, .box-masonry h4 a:hover
 	width: 100%
 
 
+.pages
+	color: var(--accent)
+
+.pagination > .disabled > span
+	background-color: var(--bgdarker)
+
+.pagination > li > a, .pagination > li > span
+	background-color: var(--bgdark)
+	border: 1px solid var(--bgdarker)
+	color: #333
+
+.pagination > .active > a
+	background-color: var(--bglight)
+	color: #333
+
+
+.categories
+	color: var(--accent)
+
+	kbd
+		padding: 0.2rem 0.5rem 0.2rem 0.5rem
+		background-color: var(--bgdark)
+		color: var(--accent)

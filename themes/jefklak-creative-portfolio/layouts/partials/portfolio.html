@@ -3,13 +3,17 @@
 
         <div class="col-lg-8">
           <img src="/img/logo.png"/>
-          <div class="content-column-content">
-            {{ .Content }}
-          </div>
+          {{ if eq .Paginator.PageNumber 1 }}
+            <div class="content-column-content">
+              {{ .Content }}
+            </div>
+          {{ end }}
 
-        <h3>Featured Codex Articles</h3>
+          <h3>Featured Codex Articles
+            <span class='pages'>({{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }})</span> &raquo;
+          </h3>
 
-          {{ range first 10 .Data.Pages }}
+          {{ range (.Paginate .Pages).Pages }}
             <div class="row box-masonry" style="margin-right: 10px">
               <div class="col-md-4">                  
                   <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
@@ -40,6 +44,10 @@
               </div>
             </div><!-- row -->
           {{ end }}
+
+          <div style="text-align: center;">
+          {{- template "_internal/pagination.html" . }}
+          </div>
 
         <hr/>
 </div>

@@ -19,9 +19,8 @@ summaryLength = 20
 [params]
   fathomid = "YFJHP"
   
-  font = "PT Sans"
   description = "Retro game thoughts"
-  copyright = "No &copy; reserved - sharing is caring. <a href='https://github.com/wgroeneveld/jefklakscodex' target='_blank'>Hack away!</a><br/>An integral part of <a href='https://brainbaking.com/' target='_blank'>Brain Baking</a>."
+  copyright = "<a href='/no-copyright'>No &copy; reserved - sharing is caring</a>. <br/>An integral part of <a href='https://brainbaking.com/' target='_blank'>Brain Baking</a>."
   sidebarAbout = [
     "You’re browsing “The Codex”, a dedicated and highly opinionated website about nostalgic games that left a lasting impression on me."
   ]

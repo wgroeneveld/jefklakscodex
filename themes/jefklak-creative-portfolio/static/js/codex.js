@@ -45,7 +45,7 @@ $(function() {
 		$('.content-column-content a').each(function() {
 			var me = $(this);
 			var url = me.attr('href');
-			if(url.startsWith('http') && url.indexOf(host) === -1) {
+			if(url && url.startsWith('http') && url.indexOf(host) === -1) {
 				me.attr('target', '_blank').addClass('external');
 			}
 		})

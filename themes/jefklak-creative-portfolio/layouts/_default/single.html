@@ -28,6 +28,15 @@
 
          {{ .Content }}
 
+         {{ if isset $.Params "tags" }}
+          <div class="categories">
+          Categorized under: 
+          {{ range .Params.tags }}
+              <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a>
+          {{ end }}
+         {{ end }}
+         </div>
+
          <hr/>
 
         {{ if (not .Params.disableComments) }}
@@ -35,8 +44,12 @@
               Join the Discussion
           </h4>        
 
+        {{- if (ne hugo.Environment "development") }}
           <script defer src="https://commento.jefklakscodex.com/js/commento.js"></script>
           <script src="https://commento.jefklakscodex.com/js/count.js"></script>
+        {{- else }}
+          (localhost, commento not loaded)
+        {{- end }}
           <div id="commento"></div>
 
         {{ end }}
