@@ -4,7 +4,9 @@
 {{ partial "head.html" . }}
 </head>
 <body>
-  <a name="top" id="top"></a>
+  <div id="skiptocontent">
+      <a href="#top">skip to main content</a>
+  </div>
 
   {{ with .OutputFormats.Get "RSS" }}
     <a href="{{ .RelPermalink }}" id="csslink" target="_blank">
@@ -15,8 +17,11 @@
       <div class="container-fluid">
           <div class="row row-offcanvas row-offcanvas-left">
               {{ partial "sidebar.html" . }}
-              {{ block "main" . }}
-              {{ end }}
+              <a name="top" id="top"></a>
+              <main>
+                {{ block "main" . }}
+                {{ end }}
+              </main>
           </div>
       </div>
   </div>

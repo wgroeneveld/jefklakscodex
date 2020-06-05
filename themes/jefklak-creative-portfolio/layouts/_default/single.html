@@ -4,8 +4,9 @@
   {{ partial "mobile_nav_toggle.html" . }}
   <div class="row">
     <div class="col-lg-8">
-      <div class="content-column-content">
+      <article>
 
+        <header>
          <h1>{{ .Title }}</h1>
           <h5>
             <span style="color: grey;">
@@ -25,6 +26,7 @@
           </span>
         </h5>
         <hr/>
+        </header>
 
          {{ .Content }}
 
@@ -37,9 +39,9 @@
          {{ end }}
          </div>
 
-         <hr/>
 
         {{ if (not .Params.disableComments) }}
+          <hr/>
           <h4 class="page-header"><i class="fa fa-comments-o"></i>&nbsp;
               Join the Discussion
           </h4>        
@@ -54,7 +56,7 @@
 
         {{ end }}
 
-      </div>
+      </article>
     </div>
   </div>
 </div>

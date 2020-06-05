@@ -1,6 +1,6 @@
 {{ $url := .Site.BaseURL }}
 
-<div class="sidebar col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+<nav class="sidebar col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content sidebar-scrolling">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
     {{ range .Site.Params.sidebarAbout }}
@@ -18,9 +18,9 @@
         </div>
 
         <p style="position: relative;">
-        <img src="{{ $url }}{{ .Params.image }}" alt="" class="img-responsive img-inactive" style="border: 1px solid black"/>
+        <img src="{{ $url }}{{ .Params.image }}" alt="game cover image" class="img-responsive img-inactive" style="border: 1px solid black"/>
         {{ with .Params.imageActive }}
-          <img src="{{ $url }}{{ . }}" alt="" class="img-responsive img-active" style="border: 1px solid black"/>
+          <img src="{{ $url }}{{ . }}" alt="game cover image active" class="img-responsive img-active" style="border: 1px solid black"/>
         {{ end }}
 
         {{ with .Params.game_platform }}
@@ -48,7 +48,7 @@
 
       <div class="sidebar-header">
         <span>Related</span>
-        <img src="/img/gob_purse.gif"/>
+        <img src="/img/gob_purse.gif" alt="related articles" />
       </div>
 
         <ul class="sidebar-menu">
@@ -67,7 +67,7 @@
 
     <div class="sidebar-header">
       <span>Latest</span>
-      <img src="/img/gob_letter.gif"/>
+      <img src="/img/gob_letter.gif" alt="latest articles" />
     </div>
     {{ with .Site.GetPage "section" "articles" }}
     <ul class="sidebar-menu">
@@ -86,7 +86,7 @@
 
     <div class="sidebar-header">
       <span>Browsing</span>
-      <img src="/img/gob_waypoint.gif"/>
+      <img src="/img/gob_waypoint.gif" alt="More information" />
     </div>
     <ul class="sidebar-menu">
       {{ range .Site.Params.navlinks }}
@@ -103,5 +103,5 @@
       </p>
     </div>
   </div>
-</div>
+</nav>
 

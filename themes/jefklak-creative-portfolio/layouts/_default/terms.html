@@ -2,13 +2,13 @@
 <html lang="{{ .Site.LanguageCode }}">
 <head>{{ partial "head.html" . }}</head>
 <style>
-.content-column-content ul li:before {
+article ul li:before {
 	margin: 0 !important;	
 }
-.content-column-content h5 {
+article h5 {
 	width: 15%;
 }
-.content-column-content ul {
+article ul {
 	width: 80%;
 }
 </style>
@@ -24,8 +24,10 @@
 				  {{ partial "mobile_nav_toggle.html" . }}
 				  <div class="row">
 				    <div class="col-lg-8">
-		  			{{ .Content }}
-				      <div class="content-column-content">
+				    	<article>
+		  					{{ .Content }}
+		  				</article>
+				      	<article>
 
 				         	<h3><a name="byarticle"></a>By Article</h3>
 				         	<hr style="clear: both;"/>
@@ -38,7 +40,7 @@
 							{{ partial "taglist.html" . }}
 				         	<hr style="clear: both;"/>
 
-				      </div>
+				      	</article>
 				    </div>
 				  </div>
 			  </div>

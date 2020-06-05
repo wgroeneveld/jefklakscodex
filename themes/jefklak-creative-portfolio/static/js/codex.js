@@ -28,7 +28,7 @@ $(function() {
 	offCanvas();
 
 	function scrollThenFixSidebar() {
-		var maxHeight = $('.sidebar-content').height() - $(window).height() + 40;
+		var maxHeight = $('.sidebar-content').height() - $(window).height();
 		$(document).on('scroll', function(e) {
 		    var s = document.scrollingElement.scrollTop || $('html').scrollTop() || $('body').scrollTop();
 			if(s > maxHeight) {
@@ -42,7 +42,7 @@ $(function() {
 
 	var addTargetBlankToExternalLinks = function() {
 		var host = (new URL(window.location.href)).hostname;
-		$('.content-column-content a').each(function() {
+		$('article a').each(function() {
 			var me = $(this);
 			var url = me.attr('href');
 			if(url && url.startsWith('http') && url.indexOf(host) === -1) {
@@ -53,7 +53,7 @@ $(function() {
 	addTargetBlankToExternalLinks();
 
 	var enableLightboxOnClickImgInContent = function() {
-		$('.content-column-content img').click(function(e) {
+		$('article img').click(function(e) {
 			var me = $(this);
 			e.preventDefault();
 			me.data('remote', me.attr('src'));

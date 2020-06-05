@@ -4,9 +4,9 @@
         <div class="col-lg-8">
           <img src="/img/logo.png"/>
           {{ if eq .Paginator.PageNumber 1 }}
-            <div class="content-column-content">
+            <article>
               {{ .Content }}
-            </div>
+            </article>
           {{ end }}
 
           <h3>Featured Codex Articles
