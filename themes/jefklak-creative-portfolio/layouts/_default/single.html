@@ -12,9 +12,6 @@
             <span style="color: grey;">
               <span title="Created Date">
                       <i class='fa fa-calendar'></i>&nbsp;{{ .Date.Format (.Site.Params.dateFormat | default "2 January 2006") }}
-                  </span>&nbsp;|&nbsp;
-                  <span title="Last Modified Date">
-                      <i class='fa fa-calendar-check-o'></i>&nbsp;{{ .Lastmod.Format (.Site.Params.dateFormat | default "2 January 2006") }}
                   </span>
 
                 {{ if (not .Params.disableComments) }}

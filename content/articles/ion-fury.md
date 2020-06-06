@@ -1,16 +1,19 @@
-+++
-imageActive = "gif/ionfury.gif"
-image = "gif/ionfury_still.gif"
-date = "2020-06-01"
-title = "Ion Fury: the Spiritual Successor of Duke3D?"
-tags = ['Apogee', 'Ion Fury', "90's shooter"]
-game_name = 'Ion Fury'
-description = "Time to kick ass again - and don't forget to chew bubblegum! Does Shelly and the Build engine stand a chance anno 2020?"
-game_platform = 'switch'
-game_genre = 'Shooter'
-game_release_year = '2020'
-game_developer = 'Voidpoint'
-+++
+---
+imageActive: "gif/ionfury.gif"
+image: "gif/ionfury_still.gif"
+date: "2020-06-01"
+title: "Ion Fury: the Spiritual Successor of Duke3D?"
+tags:
+    - 'retro shooters'
+    - 'Apogee'
+    - 'Ion Fury'
+game_name: 'Ion Fury'
+description: "Time to kick ass again - and don't forget to chew bubblegum! Does Shelly and the Build engine stand a chance anno 2020?"
+game_platform: 'switch'
+game_genre: 'Shooter'
+game_release_year: '2020'
+game_developer: 'Voidpoint'
+---
 
 ### In search of 90's shooters
 
