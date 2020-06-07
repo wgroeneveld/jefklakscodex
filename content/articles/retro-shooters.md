@@ -1,7 +1,7 @@
 ---
 image: "/img/games/doom2.jpeg"
 date: "2020-06-06"
-title: "A Quick Look At Retro Shooters and Their Engines"
+title: "A Look At the Evolution of Retro Shooters and Their Engines"
 tags:
     - 'retro shooters'
     - 'doom'
@@ -68,7 +68,7 @@ Playing Hexen, the medieval shooter running on the Doom engine, boiled down to m
 
 ![](/img/games/ut.jpg "Unreal Tournament")
 
-1999 - Quake III Arena, powered by **id Tech revision 3**, revolutionized (team) deathmatches and multiplayer FPS games. It is also one of the most common used game engines of the early 2000s: Return to Castle Wolfenstein, Medal of Honor: Allied Assault, Star Wars Jedi Knight II, Soldier of Fortune II, Call of Duty - you name it, they use it. I played all of these and have to say that they all ran smoothly, even with my then mid-range desktop computer. 
+1999 - Quake III Arena, powered by **id Tech 3**, revolutionized (team) deathmatches and multiplayer FPS games. It is also one of the most common used game engines of the early 2000s: Return to Castle Wolfenstein, Medal of Honor: Allied Assault, Star Wars Jedi Knight II, Soldier of Fortune II, Call of Duty - you name it, they use it. I played all of these and have to say that they all ran smoothly, even with my then mid-range desktop computer. 
 
 > The Quake III: Arena source code is released [on Github](https://github.com/id-Software/Quake-III-Arena).
 
