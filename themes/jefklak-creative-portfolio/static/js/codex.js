@@ -12,13 +12,7 @@ $(function() {
 	addResponsiveTagToContentImages();
 	disableResponsiveImagesForInlineLis();
 
-	function lightbox() {
-	    $(document).delegate('*[data-toggle="lightbox"]', 'click', function (event) {
-	        event.preventDefault();
-	        $(this).ekkoLightbox();
-	    });
-	};
-	lightbox();
+	const box = new SimpleLightbox('.lbox', { /* options */ });
 
 	function offCanvas() {
         $('[data-toggle="offcanvas"]').click(function () {
@@ -51,15 +45,6 @@ $(function() {
 		})
 	};
 	addTargetBlankToExternalLinks();
-
-	var enableLightboxOnClickImgInContent = function() {
-		$('article img').click(function(e) {
-			var me = $(this);
-			e.preventDefault();
-			me.data('remote', me.attr('src'));
-	        me.ekkoLightbox();
-		});
-	};
 
 	var enableScrollToTopOnInternalLinks = function() {
 		$('#totop').click(function() {
@@ -111,5 +96,4 @@ $(function() {
 	setSideBarPlatformHeight();
 	addRandomImageToSideBarMenus();
 	enableScrollToTopOnInternalLinks();
-	enableLightboxOnClickImgInContent();
 });

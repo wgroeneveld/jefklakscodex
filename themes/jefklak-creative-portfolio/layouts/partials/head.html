@@ -95,6 +95,7 @@ body, article, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
 <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
+<link rel="stylesheet" href="{{ "css/simple-lightbox.min.css" | absURL }}">
 <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
 {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
 {{- $styles := resources.Get "sass/main.sass" | resources.ExecuteAsTemplate "main.sass" . | resources.ToCSS $options | resources.Fingerprint "sha512" }}

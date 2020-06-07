@@ -17,15 +17,7 @@ game_developer: 'Voidpoint'
 
 ### In search of 90's shooters
 
-Do you remember the nineties? You know, big CRT screens, laptops of 10 kg and lots of floppy drives? Magnetic things that regularly fail to read data? How about a bit later, Windows 95? That era produced so many good (and _extremely gory_) PC shooters that I don't even know where to start if I wanted to list them:
-
-- **1998**: Unreal<br/>_The start of OpenGL wars between Quake and Unreal_
-- **1997**: Redneck Rampage<br/>_Using the Build engine to shoot at chickens?_
-- **1996**: Quake, Duke Nukem 3D<br/>_Complex level design, "real" 3D_
-- **1995**: Rise of the Triad<br/>_Huge levels, flying bodyparts_
-- **1994**: Heretic<br/>_Doom engine mixed with medieval magic_
-- **1993**: Doom<br/>_Great atmosphere and music, a sense of verticality_
-- **1992**: Wolfenstein 3D<br/>_Hugging walls and pressing spacebar!_
+Do you remember the nineties? You know, big CRT screens, laptops of 10 kg and lots of floppy drives? Magnetic things that regularly fail to read data? How about a bit later, Windows 95? That era produced so many good (and _extremely gory_) PC shooters that I don't even know where to start if I wanted to list them. I did try to list them in this [quick look at retro shooters](/articles/retro-shootesr/) and their engines. 
 
 Every single game was a big step forward and had me completely hooked during my childhood. Since Jefklak's Codex is a retro codex, and since retro gaming is becoming more and more popular, I thought, "_hey, why not cover the resurgence of nineties shooters?_" 
 

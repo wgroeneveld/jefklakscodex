@@ -1,6 +1,4 @@
 ---
-showonlyimage: false
-draft: false
 image: "/img/games/doom2.jpeg"
 date: "2006-11-02"
 title: "Early Shooter Clones"
