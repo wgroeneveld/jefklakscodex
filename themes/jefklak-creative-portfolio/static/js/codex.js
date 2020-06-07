@@ -1,15 +1,11 @@
 $(function() {
 
-	var addResponsiveTagToContentImages = function() {
-		$("img").addClass("img-responsive");
-	};
 	var disableResponsiveImagesForInlineLis = function() {
 		$('li img.img-responsive').each(function() {
 			$(this).removeClass('img-responsive');
 			$(this).css('border', 'none');
 		});
 	};
-	addResponsiveTagToContentImages();
 	disableResponsiveImagesForInlineLis();
 
 	const box = new SimpleLightbox('.lbox', { /* options */ });
