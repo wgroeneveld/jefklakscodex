@@ -1,12 +1,9 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/BaldursGate2/logo.jpg"
 date = "2008-04-30"
 title = "Baldur's Gate 2: Mage Talk"
 tags = ['Baldurs Gate 2']
 keywords = ['Baldurs Gate 2 mage sound', 'bg2 mage talk', 'bg2 arcane spellcasters', 'bg2 spell schools', 'alteration', 'abjuration', 'illusion', 'necromancy']
-weight = 0
 +++
 
 <p class='vspace'>Ever wondered whatever the heck those crazy Arcane spellcasters say every time they unleash one of their spells upon you? It's actually very simple and stands for the chosen spell's spell school (abjuration, evocation, ...). Male and female voices are of course different, and the pronunciations vary too sometimes (<em>Vita Mortis [Carero]/[Calia]</em>?). All formulaes are actually Latin, and Latin is often pronounced differently depending on the dialect. Here is a quick overview:

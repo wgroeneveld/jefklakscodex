@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 imageActive = "gif/acww.gif"
 image = "gif/acww_still.gif"
 date = "2006-10-01"
@@ -12,7 +10,6 @@ game_platform = 'ds'
 game_genre = 'Life sim'
 game_release_year = '2005'
 game_developer = 'Nintendo'
-weight = 0
 +++
 
 <h3>The Cornimer is Here!</h3>

@@ -1,16 +1,14 @@
 +++
-showonlyimage = false
-draft = false
 image = "gif/aria-of-sorrow_still.gif"
 imageActive = "/gif/aria-of-sorrow.gif"
 date = "2018-07-31"
 title = "Castlevania Aria of Sorrow: a retrospective"
+aliases = ['/articles/aria-of-sorrow-retrospective/']
 tags = ['Castlevania aria of sorrow', 'Castlevania', 'Castlevania gba', 'Aria of sorrow', 'Castlevania aos']
 game_platform = 'gba'
 game_genre = 'Metroidvania'
 game_release_year = '2002'
 game_developer = 'Nintendo'
-weight = 0
 +++
 
 Calling Aria of Sorrow the best handheld Castlevania is quite a bold statement: they're all great in their own way. But after replaying this again (and again...) I've made up my mind: it is **the best** Castlevania - period. It's the second best Gameboy Advance title of all times according to IGN. Yes, I am insinuating it's better than Symphony of the night. And yes, I know of the inverted castle's greatness and the rip-off in Harmony of Dissonance. Soma's gameplay mechanics: the soul system, is simply more engaging to me. 
@@ -25,10 +23,7 @@ Bringing up this argument might sound weird coming from someone who hates certai
 
 I want to grind when I feel like it, not when the game tells me I haven't encountered enough enemies yet to progress through that part of the map. That indicates a design flaw to me - or a way to artificially lengthen the game, as it did in the NES days. The Dragon Quest formula hasn't really changed since then. I don't mind: I'm a retro gamer. But as McGonigal points out: we need to be **intrinsically motivated** to do anything well, from playing a game to doing chores in real life. 
 
-<img src="/img/articles/aos_stats.jpg" class="full" />
-<center>
-    Yay, stats!
-</center>
+![](/img/articles/aos_stats.jpg "Yay, stats!")
 
 Running around to reach new places can become boring if the world is empty or if it takes a long time to go from point A to B. Aria of Sorrow has neither. Even without Black Panther to dash, a quick travel system allows you to jump from one area to the next and even those aren't too far away if you decide to do things on foot. Hollow Knight, a great and highly acclaimed modern Metroidvania, doesn't offer quite the same: there are a lot less but more dangerous enemies and it's a bit too large to reach one of the edges for my liking. Souls aren't readily harvested so punching the same monsters in the face again and again will net you something interesting instead of simply gold. 
 
@@ -43,10 +38,7 @@ Getting to the end boss does net you a scrolling stage select screen that also g
 
 Without #2, Diablo wouldn't exist. Why would anyone be motivated to do Nightmare or Hell runs in Diablo 2? To gain experience quickly, and to find nice items in the form of monster drops. Aria of Sorrow enemies also drop items and it's also a rarity that could be increased with the right soul or support items. Another reason why backtracking isn't bad here. 
 
-<img src="/img/articles/aos_top.png" class="full" />
-<center>
-    Almost to the Throne Room, again...
-</center>
+![](/img/articles/aos_top.png "Almost to the Throne Room, again...")
 
 "Getting better" also means getting more flexible: unlocking a double jump, or being able to fly with the Giant Bat soul. Soma literally strengthens on the screen, separate from the statistics only visible in the character screen or in the health bar number. The implementation of all those things combined yet to be matched in my mind. 
 
@@ -62,11 +54,7 @@ The last piece of the puzzle why Aria of Sorrow is one of the best Metroidvania'
 
 Aria of Sorrow's [Soundtrack](https://www.youtube.com/watch?v=t6i-D60cxt0&list=PL5312754A0D082327) is a masterpiece that still sounds amazing, 15 years later, ripped from the Gameboy Advance. The opening song, "Castle Corridor", sends shivers down my spine every single time I hear it. To be fair, all the Castlevania DS soundtracks are at least as good, as is of course the Playstation instance. 
 
-<img src="/img/articles/aos_map.jpg" class="full" />
-<center>
-    Aria of Sorrow's map: lot's to discover!
-</center>
-
+![](/img/articles/aos_map.jpg "Aria of Sorrow's map: lot's to discover!")
 
 So, would I burn through this game again anytime soon? It can be over in 5 hours, with the map reporting "97,5%" explored. I neglected to mention the map! Another great piece of the puzzle that is required in games like this. The castle map that slowly becomes more and more visible also serves as an immediate graphical feedback on the feeling of progress. Games like [Etrian Odyssey](/articles/etrian-odyssey-review/) add another dimension to this mechanic by making you draw the map edges yourself, but the core concept remains: each "block" is slowly automatically discovered when you enter that particular area. 
 

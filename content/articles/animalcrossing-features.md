@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 imageActive = "gif/acgc.gif"
 image = "gif/acgc_still.gif"
 date = "2020-05-24"
@@ -12,7 +10,6 @@ game_platform = 'gc'
 game_genre = 'Life sim'
 game_release_year = '2001'
 game_developer = 'Nintendo'
-weight = 0
 +++
 
 While stumbling about on the internet, looking for hidden Animal Crossing New Horizons features, I found [Jeff's Animal Crossing (GCN) blog](https://www.jvgs.net/acblog/). The guy is taking things seriously: he also has [Jeff's New Leaf blog](https://www.jvgs.net/newleafblog/), [Jeff's ACWW blog](https://www.jvgs.net/acwwblog/), and [Jeff's ACCF blog](https://www.jvgs.net/accfblog/) - who played City Folk anyway? 

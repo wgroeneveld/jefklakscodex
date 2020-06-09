@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/Gobliins2.jpg"
 date = "2006-10-16"
 title = "Gobliins 2: the Review"
@@ -9,7 +7,6 @@ game_name = 'Gobliins 2'
 game_genre = 'Point&Click adventure'
 game_release_year = '1992'
 game_developer = 'Coktel Vision'
-weight = 0
 +++
 
 ### Goblin Princes are Ugly

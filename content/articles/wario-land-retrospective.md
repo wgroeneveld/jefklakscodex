@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 image = "gif/warioland3_still.gif"
 imageActive = "/gif/warioland3.gif"
 date = "2018-05-27"
@@ -11,7 +9,6 @@ game_platform = 'gbc'
 game_genre = 'Platformer'
 game_release_year = '2000'
 game_developer = 'Nintendo'
-weight = 0
 +++
 
 It's been over 20 years since I last touched any of the Wario Land games. I vaguely remember them being one of the most exciting platformers I've ever played as a kid. However, thanks to my manic tidying itches, I sold most if not all Gameboy games I've ever owned. Thanks to a recent resurgence in retro game interest, I came across a Wario game for the Gameboy. The shopkeeper sold them all 4 and raised his brow when I wanted to pay. "You must be a big Wario fan eh?". Indeed. It turns out that I am. 
@@ -24,11 +21,7 @@ Let the excitement (re-)begin!
 
 Wario is amazing. That about sums up this whole article. He's the lazy, dirty, rude and greedy antagonist of Mario and takes on the single lead role in these 2D platforming games. What is so unique about Wario Land 3? Well, Wario can transform into a dozen different shapes to conquer the different puzzle elements and unravel secrets stashed away within each level. Snowball Wario, Bat Wario, Drunken Wario, Wario-On-Fire, Zombie Wario, you name it. Each shape lets you progress further into the game by overcoming obstacles in the form of blocks that can only be broken by being fat or being on fire, or by falling through thin platforms that only can be achieved as a zombie. 
 
-<img src="/img/articles/wario3.png" class="full" />
-<center>
-    I'm about to go invisible!<br/>
-    Don't you just love his grin?
-</center>
+![](/img/articles/wario3.png "I'm about to go invisible! Don't you just love his grin?")
 
 In essence, this game is a **Metroidvania**. That's right! Not only because of the different Wario forms, but mainly because in the beginning of the game, Wario's moves are quite limited. He can perform a simple dash, but it's not very effective. Collecting permanent power ups in the form of equipment lets Wario dash through certain otherwise unbreakable blocks and perform pounds into the floor. Swimming is also something that has to be learned. Revisiting area's after gaining some power is the core of this game. There are four different treasures to be found in each level (not everything is required to finish the game).
 
@@ -42,10 +35,7 @@ Okay, so I finished Wario 3, let's get back to version 2 and see what's the diff
 
 The first thing you notice when playing in reverse order like I did, is the likeness in terms of those **Wario shapes**. Wario II introduced this concept. You can't jump while in Zombie mode here and there are less forms but they still work more or less the same. Getting hit means **losing coins**, not losing hearts. You simply cannot die (something you can't either in v3). This is extremely refreshing and feels like a big relief: I can fuck around in a level and uncover stuff without worrying about my health. I love this and don't understand the criticism it got for introducing that. 
 
-<img src="/img/articles/wario2.png" class="full" />
-<center>
-    Crushed by a weight... But not dead?
-</center>
+![](/img/articles/wario2.png "Crushed by a weight... But not dead yet?")
 
 In Wario II you still search for hidden treasure to add to your repertoire but here it's in the form of a mini-game. The exit is... simply at the end of each level. It's a lot more linear than Wario 3 but there are still a lot of cool **branching pathways**. For instance, in the first level the enemy throws an alarm clock into Wario's castle. You can simply choose to keep on snoring and the level ends! The lack of an overworld map is a letdown though. Only after finishing the game you can choose which level to play. The game is also finished within 4 hours if you breeze through it: Wario 3 took me 10 hours. 
 
@@ -59,11 +49,7 @@ Time to play the first Wario game. Going back from 3 to 1, you can clearly see w
 
 Super Wario Land plays a lot like Super Mario Land 2: Six Golden Coins for the Gameboy. Wario collects power ups in the form of "suits" (even a bunny one where he can fly). When you're hit by an enemy, you shrink in size and can die. Collecting hearts can net you a "one-up", a very Mario-like concept that was thankfully dropped in the later games. Jumps are a lot more floaty. That means it's a **slower game** than the more snappy sequels. 
 
-<img src="/img/articles/wario1.jpg" class="full" />
-<center>
-    Small and fragile Wario.<br/>
-    Does that status bar remind you of something?
-</center>
+![](/img/articles/wario1.jpg "Small and fragile Wario. Does that status bar remind you of something?")
 
 The overworld of Mario Land 2 is here but got a lot more... Wario-like. (Wackier). Mt. Teapot, really? Stages are selected, and hidden treasure is to be found. There are minigames at the end of each stage like Mario 2 (if you manage to hit the bell) but they're forgettable compared to the golfing of 3 or matching of 2. There are some branching pathways that even uncover a whole new "world" but it's more **linear** than the other games. 
 
@@ -75,11 +61,7 @@ When Nintendo released Wario Land 4 in 2001, things got a lit more **weirder**. 
 
 That said, Wario moves smoother, the animations are amazing and the world is very colorful. But there is no equipment to be found and the powerful feeling of Wario 2-3 is diminished. For instance, pounding into the ground - once you could do that in Wario 3 - shook the screen heavily. That's been reduced, but Wario says something "cool" like "hehey" or "here-I-go". Why did he need to have his own **voice** instead of grunts? It feels a bit out-of-place to me. The dashing is extremely fluid and feels natural to use, but a bit washed out compared to the powerful BUMP you've got in the previous installments. 
 
-<img src="/img/articles/wario4.jpg" clas="full" />
-<center>
-    A colorful amount of WTF!<br/>
-    Includes a free time limit. 
-</center>
+![](/img/articles/wario4.jpg "A colorful amount of WTF! Includes a free time limit. ")
 
 Wario Land 4's biggest advantage is it's tight **platforming**. It's a masterpiece in level design: you travel through a level to collect a key and 4 stone slab pieces but in the end there's no exit: you have to go back to the beginning within a time limit. I'm still undecided on that time thing: it makes some runs hectic and exciting but others frustrating. Why would you need to put a time limit to finishing a boss? I don't want to do a speedrun here... <br/>Making it back to the "entrance" involves another route where you come across more secrets to be found. 
 

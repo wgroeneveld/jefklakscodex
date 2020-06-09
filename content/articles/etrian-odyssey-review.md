@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/etrianoddysey.jpg"
 date = "2007-07-03"
 title = "Etrian Odyssey Review"
@@ -10,7 +8,6 @@ game_genre = 'FP RPG'
 game_platform = 'ds'
 game_release_year = '2007'
 game_developer = 'Atlus'
-weight = 0
 +++
 
 <img src="/img/Guides/EtrianOdyssey.jpg"/>

@@ -1,23 +1,19 @@
 +++
-showonlyimage = false
-draft = false
 image = "gif/apogee_still.gif"
 imageActive = "/gif/apogee.gif"
 date = "2006-10-23"
 title = "Apogee's Legacy"
 tags = ['Apogee']
-weight = 0
 +++
 
-<img src="/img/articles/Apogee.jpg"/>
+![Apogee title](/img/articles/Apogee.jpg)
 
-<a class="internal" data-to="#vid">Skip to the Videos part!</a>
+<a class="internal" href="#vid">Skip to the Videos part!</a>
 
 Only the new and young generation of gamers might not be familiar with Apogee Software - that is, until one has read the article. Apogee, the legacy of shareware PC games. I remember everything like it was yesterday! Impatiently receiving my first oversized floppy disk containing a demo version of Cosmo's little adventures, racing through the first few levels of Duke Nukem, defeating way too much zombies in Monster Bash, capturing the first castle in Mystic Towers, ... The video game company literally created the shareware distribution model using various monthly subscribed magazines and one free floppy which was without a doubt numberous times passed on.
 Apogee Software not only published excellent DOS (platform) games from various companies like Micro F/X Software or Scenario, but also created their own brilliant spin-offs or even whole separate branches. The perfect example is of course Duke Nukem, I'm quite certain Duke is one of the most well-known gaming franchises/character of the entire PC gaming world. Besides the Duke Apogee also created a few enjoyable platformers as well as shooters like Bio Menace, Crystal Caves and Rise of the triad. You can consult a full overview including release years at Wikipedia.
 
-<img src="/img/articles/bstone.png"/>
-<center>JAM Productions' Blake Stone uses id's Wolf3D Engine.</center>
+![](/img/articles/bstone.png "JAM Productions' Blake Stone uses id's Wolf3D Engine")
 
 ### How Apogee triumphed
 
@@ -27,8 +23,7 @@ Virtually every game you wanted to play was published or developed by Apogee in 
 
 **Addendum** - Thanks to jgkspsx for pointing out RoTT does have height differences, and the development team decided in the end not to use the Wolf3D eninge after all. Read the full 3DRealms article on Rise of the Triad here. Sorry for that!
 
-<img src="/img/articles/duke1.png"/>
-<center>Duke, the ever-popular platform game which kindly ripped concepts from Mega Man e.a.</center>
+![](/img/articles/duke1.png "Duke, the ever-popular platform game which kindly ripped concepts from Mega Man and others")
 
 ### How Apogee failed
 
@@ -36,8 +31,7 @@ Besides shooters, the biggest deal of Apogee games consisted of traditional plat
 
 Nowadays traditional 2D platform games are hardly recognized or accepted in the PC gaming world. You'll occasionally find one or two games devoted to an ancient Apogee game, just like this article, or a couple of independant developers trying to ressurect the genre. Besides the increasingly popular Nintendo DS, there's almost no system to date were platform games are popular. This is the very reason why Apogee has become 3D Realms. Initially Apogee wanted to split up the brand name for each genre, making each new game identifiable based on which brand it belonged to. Sadly, during the late 1990s the once-popular genres like Platform games or sidescrollers slowly died, and so dit the publisher's idea. Only 3D realms remained, developing and publishing Duke Nukem 3D and other recent games, featuring a 3D engine. good riddance, pixels.
 
-<img src="/img/articles/bash.png"/>
-<center>Johnny Dash in Monster Bash! Including free diapers, woah!</center>
+![](/img/articles/bash.png "Johnny Dash in Monster Bash! Including free diapers, woah!")
 
 ### The Apogee Legacy in motion
 <a name="vid" id="vid"></a>
@@ -88,8 +82,7 @@ Watch the first few minutes of well-known Apogee games in these Compilation vide
 <br/>
 <br/>
 
-<img src="/img/articles/wheels.png"/>
-<center>Wacky Wheels - an arcade MS-DOS lawn mower racing game.</center>
+![](/img/articles/wheels.png "Wacky Wheels - an arcade MS-DOS lawn mower racing game.")
 
 ### Handy References
 

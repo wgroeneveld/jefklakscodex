@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/riviera.jpeg"
 date = "2007-03-30"
 game_name = 'Riviera: the promised land'
@@ -10,7 +8,6 @@ game_release_year = '2002'
 game_developer = 'Sting ent.'
 title = "Riviera: the Review"
 tags = ['Riviera', 'Yggdra Union']
-weight = 0
 +++
 
 <img src="/img/Guides/Riviera.jpg">

@@ -1,11 +1,8 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/Arcanum/logo.jpg"
 date = "2007-03-30"
 title = "Arcanum: Party Seleciton"
 tags = ['Arcanum']
-weight = 0
 +++
 
 

@@ -1,10 +1,8 @@
 +++
-draft = false
 date = "2007-03-30"
 image = "/img/BlogPages/fallout3.jpg"
 title = "Bugs Are Features"
 tags = ['Fallout', 'Troika']
-weight = 0
 +++
 
 I'm getting fairly tired of defending Arcanum on various *cough, console lovers* message boards and against friends. Everybody seems to prefer Oblivion-style Roleplaying gameplay mechanics. Fine by me, but don't try to piss RPG Codex members and me off by complaining about the bug fest in Troika's games. During my more than 5 playthroughs (admittedly never got to the finish, fooling around with different characters is even funnier), I never encountered a single "bug". Except the obvious not-so-finished questlines in later stages of the game. Point the finger to the publishers, not to Troika.

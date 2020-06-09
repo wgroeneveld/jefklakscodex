@@ -1,12 +1,9 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/BaldursGate2/logo.jpg"
 date = "2007-03-30"
 title = "Baldur's Gate 2: Spell Protection"
 keywords = ['Baldurs Gate 2 spell protection', 'BG2 spell protection', 'bg2 spell guide', 'bg2 pierce magic']
 tags = ['Baldurs Gate 2']
-weight = 0
 +++
 
 Lots of misunderstanding exist for breaking through the spell protections of high level spell casting creatures. This guide is an almost exact copy of zvijers guide at the gone forgotten wars forum, also carried on by "The Hero's Guide to a Successful adventure". I found this to be very informative and vital for solo runs. The strategies explain mage protections in weimer's Tactics modification. 

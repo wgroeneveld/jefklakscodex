@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/ArxFatalis/title.jpg"
 date = "2007-03-30"
 title = "Arx Fatalis: the Review"
@@ -9,7 +7,6 @@ game_name = 'Arx Fatalis'
 game_genre = 'FP RPG'
 game_release_year = '2002'
 game_developer = 'Arkane Studios'
-weight = 0
 +++
 
 <img src="/img/Guides/ArxFatalis.jpg"/>

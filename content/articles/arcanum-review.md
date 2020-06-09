@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/Arcanum/logo.jpg"
 date = "2007-03-30"
 title = "Arcanum: the Review"
@@ -9,7 +7,6 @@ game_name = 'Arcanum'
 game_genre = 'PC RPG'
 game_release_year = '2001'
 game_developer = 'Troika Games'
-weight = 0
 +++
 
 <img src="/img/Guides/Arcanum.jpg"/>

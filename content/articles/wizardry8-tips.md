@@ -1,11 +1,8 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/Wizardry8/wiz8.jpg"
 date = "2007-06-17"
 title = "Wizardry 8: General Tips"
 tags = ['Wizardry8']
-weight = 0
 +++
 
 <span style="font-size: small; text-decoration: none; font-weight: italic;">Legal notice: Most tips, tricks, howtos and guides are - not - originally created by me. They are scattered throughout the Internet, and this site contains a bunch of information found on other sites. Therefore, I am not responsible for any wrong information, or grammatical faults. If anybody notices his own text and would like to have it removed, please email me!</span><br />

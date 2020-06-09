@@ -1,11 +1,8 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/themehospital.jpeg"
 date = "2006-10-29"
 title = "Flashback: Bullfrog"
 tags = ['Theme Hospital', 'Bullfrog', 'Black and White', 'Startopia', 'Lionhead', 'Fable']
-weight = 0
 +++
 
 <img src="/img/articles/acquiringStudios.jpg"/>

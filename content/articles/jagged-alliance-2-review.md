@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/ja2.jpeg"
 date = "2006-10-23"
 game_name = 'Jagged Alliance 2'
@@ -9,7 +7,6 @@ game_release_year = '1999'
 game_developer = 'Sir-Tech'
 title = "Jagged Alliance 2 Review"
 tags = ['Jagged Alliance 2']
-weight = 0
 +++
 
 <img src="/img/Guides/JaggedAlliance2.jpg">

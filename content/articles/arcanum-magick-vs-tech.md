@@ -1,11 +1,8 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/Arcanum/logo.jpg"
 date = "2007-03-30"
 title = "Arcanum: Magick VS Tech"
 tags = ['Arcanum']
-weight = 0
 +++
 
 First things first: you are not reading this wrong, it's magick and not magic. In the world of Arcanum, that is. There's also no such thing as mana or spellbooks. Every single spell you learn comes trough {+SPs+) (Skill Points) which you'll have to invest into several magickal realms. A little bit like Diablo 2, except the fact that once you've put 1 point into it, you can't raise it further to increase the power. If you know Spell #1 in the Meta realm, you'll be able to "purchase" spell #2 from the same realm, if 1) you have a CP 2) your INT is at a minimum level to cast and 3) your WP is sufficient (each level differs).

@@ -1,11 +1,8 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/Wizardry8/wiz8.jpg"
 date = "2008-04-30"
 title = "Wizardry 8: Classes Guide"
 tags = ['Wizardry8']
-weight = 0
 +++
 
 <img src="/img/games/Wizardry8/bishop.gif" style="float: right;"/>
@@ -35,8 +32,7 @@ Best Races:
 or if you like, try to go for the staff & wand skill. just practice trough combat, that'll do.
 If you are going for the Elf, you'll want the MACE skill + some shield. Very nice AC bonus, and a good weapon.
 
-<img src="/img/games/Wizardry8/bishopInv.jpg"/>
-<center>The Bishop Inventory Window</center>
+![](/img/games/Wizardry8/bishopInv.jpg "The Bishop Inventory Window")
 
 Training the different skills is very difficult. You should at least try to cast a variety of spells in combat. Start with a protective spell, use some healing, cast insanity and start throwing rocks. This makes use of all 4 realms much better. Another tip: use 1 level of rogue (they level quite fast, you'll need 1000 XP instead of 1600 as specialist class) and train stealth - a lot-. Every 10 points in the skill allows you to increase your AC by 1. Or, if you like to train a lot, you'll need to do the following:
 
@@ -82,8 +78,7 @@ Best Race:
 - Psionics (SEN/INT; it's always nice to cast a terrible spell before engaging fist-to-fist with your high speed)
 - Eventually throwing (I do not encourage, use your magic instead!) and a staff (the Bo's/Staff of Doom) >> STR based which is not good...
 
-<img src="/img/games/Wizardry8/monkInv.jpg"/>
-<center>The Monk Inventory Window</center>
+![](/img/games/Wizardry8/monkInv.jpg "The Monk Inventory Window")
 
 Do you go with a quick, agile Monk, capable of delivering an insane amount of attacks with a chance to critical on each blow landed? (Maximize as fast as possible SPE and DEX. Then go for SEN and INT) The trade-off is that you wont deal much damage per hit. Or do you develop a Monk capable of dishing out incredible amounts of damage with each hit and able to withstand even the mightiest blow from the enemy? The trade-off with this route is that you won't have as many attacks per round when compared to the above setup. (Maximize first DEX, and SPE/STR, go for SEN/INT after that)
 
@@ -117,8 +112,7 @@ Best race:
 
 As a ninja, you have access to the thrown criticals special skill. It would be wise to invest into throwing stuff like shurikens/slings because you'll be able to archive a nice #hits per round and a good critical strike skill maximizes the chance of instant-killing with every hit. If it doesn't equip a lot of alignment-changing items like KO/Poison/etc because you also automatically penetrate! Keep in mind, ranged user = maxing senses, keeping dex very high. just like the samurai you'll want many hits, hence the speed factor.
 
-<img src="/img/games/Wizardry8/ninjaInv.jpg"/>
-<center>The Ninja Skill Index</center>
+![](/img/games/Wizardry8/ninjaInv.jpg "The Ninja Skill Index")
 
 #### Controlling skills:
 
@@ -156,8 +150,7 @@ Best Race:
 
 Try to maximize STR and eventually INT for the power skills. You don't need to keep SEN over 80 (second controlling for dual plus it only adds half of the points into hit, AR as STR or even DEX does.)... Although it is wise to keep on bumping points into dexterity because it is a controlling attribute for both close combat, your sword skill AND dual weapons!
 
-<img src="/img/games/Wizardry8/samuraiInv.jpg"/>
-<center>The Samurai Inventory Window</center>
+![](/img/games/Wizardry8/samuraiInv.jpg "The Samurai Inventory Window")
 
 #### Controlling Skills:
 

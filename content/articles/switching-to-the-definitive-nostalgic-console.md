@@ -1,12 +1,9 @@
 +++
-showonlyimage = false
-draft = false
 image = "img/articles/curseofthemoon.jpg"
 date = "2018-06-08"
 title = "'Switch'-ing to the definitive nostalgic console"
 tags = ['Switch']
 keywords = ['switch nostalgic retro', 'nintendo virtual console', 'nintendo switch', 'castlevania switch retro']
-weight = 0
 +++
 
 The Nintendo Switch has been on active duty here for longer than I can remember myself playing on any of my previous home consoles. Of course the Wii had it's **Virtual Console** service where Nintendo forced you to pay another 5 EUR for NES, 8 EUR for SNES and 10 EUR for N64 games that were carefully, week by week, re-released. It must have been the fourth time I've bought the Legend of Zelda: a Link to the Past. I'm a sucker for retro stuff (hence this website) so naturally I started nagging as the Switch doesn't support this kind of retroness (yet). 

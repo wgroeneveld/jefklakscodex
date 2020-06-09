@@ -1,28 +1,25 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/BaldursGate2/logo.jpg"
 date = "2008-04-30"
 title = "BG2 Solo Blade: A Report"
 tags = ['Baldurs Gate 2']
 keywords = ['Baldurs Gate 2 solo blade', 'BG2 solo blade', 'solo blade', 'blade guide', 'bg2 solo blade guide', 'bg2 blade kit', 'bg2 blade']
-weight = 0
 +++
 
 ### Report Content
 
-- <a class="internal" data-to="#intro">Soloing - the Introduction</a>
-- <a class="internal" data-to="#explained">The Blade Kit explained</a>
-- <a class="internal" data-to="#setup">Used Baldur's Gate II Setup</a>
-- <a class="internal" data-to="#part1">Part 1: Irenicus' Dungeon</a>
-- <a class="internal" data-to="#part2">Part 2: The Circus Tent & Slums Slaves</a>
-- <a class="internal" data-to="#part3">Part 3: A Tanner & More Slaves</a>
-- <a class="internal" data-to="#part4">Part 4: The Astral Prison</a>
-- <a class="internal" data-to="#part5">Part 5: Daystar & Mae'Var</a>
-- <a class="internal" data-to="#part6">Part 6: Some Beholders & a Lich</a>
-- <a class="internal" data-to="#part7">Part 7: Druid Grove & Guarded Compound</a>
-- <a class="internal" data-to="#part8">Part 8: Planar Sphere & Kangaxx!</a>
-- <a class="internal" data-to="#part9">Part 9: The Shadow Temple</a>
+- <a href="#intro">Soloing - the Introduction</a>
+- <a href="#explained">The Blade Kit explained</a>
+- <a href="#setup">Used Baldur's Gate II Setup</a>
+- <a href="#part1">Part 1: Irenicus' Dungeon</a>
+- <a href="#part2">Part 2: The Circus Tent & Slums Slaves</a>
+- <a href="#part3">Part 3: A Tanner & More Slaves</a>
+- <a href="#part4">Part 4: The Astral Prison</a>
+- <a href="#part5">Part 5: Daystar & Mae'Var</a>
+- <a href="#part6">Part 6: Some Beholders & a Lich</a>
+- <a href="#part7">Part 7: Druid Grove & Guarded Compound</a>
+- <a href="#part8">Part 8: Planar Sphere & Kangaxx!</a>
+- <a href="#part9">Part 9: The Shadow Temple</a>
 
 <a id="intro"></a>
 ### Introduction
@@ -69,14 +66,21 @@ Bard Song does not become better with levels.<br/>
 
 After a few decent rolls, I managed to create a character with enough STR, DEX, CON and INT points to cast a decent amount of spells and be protected with enough AC. Too bad a minimum of 15 CHA is required. She's a half-elf since we can only choose between Human and Half-elf (with a minor infrasion bonus, nothing special), Neutral Good. Here is the statistic screen without leveling:
 
+
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_01_startstats.jpg" alt="Level 7 start stats" />
-    <center>Level 7 start stats</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_01_startstats.jpg">
+      <img class="img-responsive" src="/img/games/BaldursGate2/screens/b_01_startstats.jpg" title="Level 7 start stats" /></a>
+      <figcaption>Level 7 start stats</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_02_firstlvlup.jpg" alt="First level up" />
-    <center>First level up</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_02_firstlvlup.jpg">
+      <img class="img-responsive" src="/img/games/BaldursGate2/screens/b_02_firstlvlup.jpg" title="First level up" /></a>
+      <figcaption>First level up</figcaption>
+    </figure>
   </div>
 </div>
 
@@ -90,12 +94,16 @@ Armed with the shortbow, I manage to lure most second and third goblin mobs in p
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_03_otyguth.jpg" alt="Level 7 start stats" />
-    <center>Otyguth killed with a quarterstaff</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_03_otyguth.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_03_otyguth.jpg" title="Otyguth killed with a quarterstaff" /></a>
+      <figcaption>Otyguth killed with a quarterstaff</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_04_duergar.jpg" alt="First level up" />
-    <center>Duergar down with Skull trap</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_04_duergar.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_04_duergar.jpg" title="Duergar down with Skull trap" /></a>
+      <figcaption>Duergar down with Skull trap</figcaption>
+    </figure>
   </div>
 </div>
 
@@ -109,12 +117,16 @@ Whoops, I forgot the lesser clay golem guards! Luckily, the last defensive spin 
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_05_claygolems.jpg" alt="Level 7 start stats" />
-    <center>Clay golem guards</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_05_claygolems.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_05_claygolems.jpg" title="Clay golem guards" /></a>
+      <figcaption>Clay golem guards</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_06_airmephit.jpg" alt="First level up" />
-    <center>Air portal: summon does work for me.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_06_airmephit.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_06_airmephit.jpg" title="Air portal: summon does work for me." /></a>
+      <figcaption>Air portal: summon does work for me.</figcaption>
+    </figure>
   </div>
 </div>	
 
@@ -128,12 +140,16 @@ To get the anti-crushing-belt I had to kill another group of duergars. Good thin
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_07_portals.jpg" alt="Level 7 start stats" />
-    <center>Mephit portal + meteors = win.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_07_portals.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_07_portals.jpg" title="Mephit portal + meteors = win." /></a>
+      <figcaption>Mephit portal + meteors = win.</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_08_copperguards.jpg" alt="First level up" />
-    <center>Copper guards: huh 4 extra mages? Ouch!</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_08_copperguards.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_08_copperguards.jpg" title="Copper guards: huh 4 extra mages? Ouch!" /></a>
+      <figcaption>Copper guards: huh 4 extra mages? Ouch!</figcaption>
+    </figure>
   </div>
 </div>    
 
@@ -151,12 +167,16 @@ Before starting the slaves quest in the Copper Coronet, I first talked to Mae'Va
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_09_pickpocket.jpg" alt="Level 7 start stats" />
-    <center>Checking out my pickpocket stats.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_09_pickpocket.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_09_pickpocket.jpg" title="Checking out my pickpocket stats." /></a>
+      <figcaption>Checking out my pickpocket stats.</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_10_zerthblade.jpg" alt="First level up" />
-    <center>Yes! A very useful blade.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_10_zerthblade.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_10_zerthblade.jpg" title="Yes! A very useful blade" /></a>
+      <figcaption>Yes! A very useful blade.</figcaption>
+    </figure>
   </div>
 </div>
 	
@@ -180,12 +200,17 @@ Tanner disappears, skull trap fires and the first one is injured. I flee back up
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_11_rune.jpg" alt="Level 7 start stats" />
-    <center>The Rune assassins.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_11_rune.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_11_rune.jpg" title="The Rune assassins." /></a>
+      <figcaption>The Rune assassins.</figcaption>
+    </figure>
+    <center></center>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_12_sewers.jpg" alt="First level up" />
-    <center>Bye bye stupid hobgoblins...</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_12_sewers.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_12_sewers.jpg" title="Bye bye stupid hobgoblins..." /></a>
+      <figcaption>Bye bye stupid hobgoblins...</figcaption>
+    </figure>
   </div>
 </div>
 
@@ -207,12 +232,16 @@ As for the crypts, I entered and encountered the first bunch of spiders (sword, 
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_14_crypts.jpg" alt="Level 7 start stats" />
-    <center>Whoops, wrong crypt!</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_14_crypts.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_14_crypts.jpg" title="Whoops, wrong crypt!" /></a>
+      <figcaption>Whoops, wrong crypt!</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_15_spiders.jpg" alt="First level up" />
-    <center>Cloudkill still works...</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_13_slavers.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_13_slavers.jpg" title="Cloudkill still works..." /></a>
+      <figcaption>Cloudkill still works...</figcaption>
+    </figure>
   </div>
 </div>
 	
@@ -224,12 +253,16 @@ The astral prison proved to be... Hard in the beginning, very easy in the end. T
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_15_spiders.jpg" alt="Level 7 start stats" />
-    <center>Say hello to my little spider.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_15_spiders.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_15_spiders.jpg" title="Say hello to my little spider." /></a>
+      <figcaption>Say hello to my little spider.</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_16_prison.jpg" alt="First level up" />
-    <center>New shiny equipment</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_16_prison.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_16_prison.jpg" title="New shiny equipment" /></a>
+      <figcaption>New shiny equipment</figcaption>
+    </figure>
   </div>
 </div>
 	
@@ -248,12 +281,16 @@ Instead of attempting to kill the guy with my current arsenal, I cast improved i
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_18_daystar.jpg" alt="Level 7 start stats" />
-    <center>Lich + Breach = out of luck =(</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_18_daystar.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_18_daystar.jpg" title="Lich + Breach = out of luck =(" /></a>
+      <figcaption>Lich + Breach = out of luck =(</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_19_sewerparty.jpg" alt="First level up" />
-    <center>Stupid of them, demanding gold. Now they're dead.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_19_sewerparty.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_19_sewerparty.jpg" title="Stupid of them, demanding gold. Now they're dead." /></a>
+      <figcaption>Stupid of them, demanding gold. Now they're dead.</figcaption>
+    </figure>
   </div>
 </div>
 
@@ -266,12 +303,16 @@ Stole the amulet and reported to Mae'Var. He send me to Edwin, and I had to do h
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_20_rayic.jpg" alt="Level 7 start stats" />
-    <center>Puny little mage.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_20_rayic.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_20_rayic.jpg" title="Puny little mage." /></a>
+      <figcaption>Puny little mage.</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_21_maevar.jpg" alt="First level up" />
-    <center>What the heck is going on?</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_21_maevar.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_21_maevar.jpg" title="What the heck is going on?" /></a>
+      <figcaption>What the heck is going on?</figcaption>
+    </figure>
   </div>
 </div>
 	
@@ -292,12 +333,16 @@ Anyway, on to the Temple District. Hello Inquisitor, no I don't need your servic
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_22_vampires.jpg" alt="Level 7 start stats" />
-    <center>Taste Daystar, Vampires.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_22_vampires.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_22_vampires.jpg" title="Taste Daystar, Vampires." /></a>
+      <figcaption>Taste Daystar, Vampires.</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_23_shadelich.jpg" alt="First level up" />
-    <center>Getting the first Kangaxx part</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_23_shadelich.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_23_shadelich.jpg" title="Getting the first Kangaxx part" /></a>
+      <figcaption>Getting the first Kangaxx part</figcaption>
+    </figure>
   </div>
 </div>
 	
@@ -311,12 +356,16 @@ The beholders in the lair were as hard as the lower reaches beholder, maybe even
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_24_tensers.jpg" alt="Level 7 start stats" />
-    <center>Tenser's Transformation = godly</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_24_tensers.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_24_tensers.jpg" title="Tenser's Transformation = godly" /></a>
+      <figcaption>Tenser's Transformation = godly</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_25_bonegolem.jpg" alt="First level up" />
-    <center>Annoying bone golem!</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_25_bonegolem.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_25_bonegolem.jpg" title="First level up" /></a>
+      <figcaption>Annoying bone golem!</figcaption>
+    </figure>
   </div>
 </div>
 
@@ -331,12 +380,16 @@ Okay, time to try and get Celestial Fury. I arrived at the compound, fully buffe
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_26_druidgrove.jpg" alt="Level 7 start stats" />
-    <center>At the Troll hideout</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_26_druidgrove.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_26_druidgrove.jpg" title="At the Troll hideout" /></a>
+      <figcaption>At the Troll hideout</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_27_liches.jpg" alt="First level up" />
-    <center>Another group of liches...</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_27_liches.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_27_liches.jpg" title="Another group of liches..." /></a>
+      <figcaption>Another group of liches...</figcaption>
+    </figure>
   </div>
 </div>    
 	
@@ -349,12 +402,16 @@ I knew Kuroisan the Acid Kensai from tactics was going to spawn since I equipped
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_28_kuro.jpg" alt="Level 7 start stats" />
-    <center>Kuroisan wants my Katana.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_28_kuro.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_28_kuro.jpg" title="Kuroisan wants my Katana." /></a>
+      <figcaption>Kuroisan wants my Katana.</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_29_newequip.jpg" alt="First level up" />
-    <center>New and strong equipment</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_29_newequip.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_29_newequip.jpg" title="New and strong equipment" /></a>
+      <figcaption>New and strong equipment</figcaption>
+    </figure>
   </div>
 </div>
 
@@ -377,12 +434,16 @@ I can't exactly remember anymore how I killed him, but I do remember that in his
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_31_kangaxx.jpg" alt="Level 7 start stats" />
-    <center>Thank you for the ring!</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_31_kangaxx.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_31_kangaxx.jpg" title="Thank you for the ring!" /></a>
+      <figcaption>Thank you for the ring!</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_30_sphere.jpg" alt="First level up" />
-    <center>Boom in the planar sphere</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_30_sphere.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_30_sphere.jpg" title="Boom in the planar sphere" /></a>
+      <figcaption>Boom in the planar sphere</figcaption>
+    </figure>
   </div>
 </div>
 
@@ -399,12 +460,16 @@ The Shadows and Elder Shadows proved to be very annoying because of their "glare
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_32_shadowtemple.jpg" alt="Level 7 start stats" />
-    <center>Daystar rocks this world - and the next one.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_32_shadowtemple.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_32_shadowtemple.jpg" title="Daystar rocks this world - and the next one" /></a>
+      <figcaption>Daystar rocks this world - and the next one.</figcaption>
+    </figure>
   </div>
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_33_byedragon.jpg" alt="First level up" />
-    <center>Bye bye little dragon.</center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_33_byedragon.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_33_byedragon.jpg" title="Bye bye little dragon." /></a>
+      <figcaption>Bye bye little dragon.</figcaption>
+    </figure>
   </div>
 </div>
 	
@@ -415,8 +480,10 @@ Last problem: the "shadow lord" awaiting outside at the temple. After the dragon
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/img/games/BaldursGate2/screens/b_34_badsaves.jpg" alt="Level 7 start stats" />
-    <center>Death Spell - Death. Go figure. </center>
+    <figure>
+      <a class="lbox" href="/img/games/BaldursGate2/screens/b_34_badsaves.jpg"><img class="img-responsive" src="/img/games/BaldursGate2/screens/b_34_badsaves.jpg" title="Death Spell - Death. Go figure." /></a>
+      <figcaption>Death Spell - Death. Go figure.</figcaption>
+    </figure>
   </div>
 </div>
 
@@ -425,3 +492,4 @@ Last problem: the "shadow lord" awaiting outside at the temple. After the dragon
 Anno 2018, I managed to revive this lengthy report. I am ashamed to admit that I never played further than the Shadow temple with Xindra. It is time for a complete replay with Baldur's Gate 2: Enhanced Edition but I'm not quite sure who's up for it (would I be up for it?)
 
 Baldur's Gate is one of those games I know by heart. Every trap, every location of every highly prized artifact and every line of every NPC. But that doesn't matter and I would play it again and again. The only thing holding me back right now is time! 
+

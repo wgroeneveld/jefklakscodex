@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 imageActive = "gif/acnh.gif"
 image = "gif/acnh_still.gif"
 date = "2020-04-05"
@@ -12,7 +10,6 @@ game_platform = 'switch'
 game_genre = 'Life sim'
 game_release_year = '2020'
 game_developer = 'Nintendo'
-weight = 0
 +++
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 

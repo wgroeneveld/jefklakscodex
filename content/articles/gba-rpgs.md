@@ -1,11 +1,8 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/gbarpg.jpeg"
 date = "2006-11-15"
 title = "Impressive GBA RPGs"
 tags = ['rpg concepts', 'Final Fantasy', 'Yggdra Union', 'Fire Emblem', 'Golden Sun', 'Tatics Ogre', 'Final Fantasy Tactics', 'Riviera']
-weight = 0
 +++
 
 <img src="/img/articles/GBARPGs.jpg"/>

@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/por.jpg"
 date = "2007-01-12"
 title = "Castlevania Portrait of Ruin Review"
@@ -10,10 +8,9 @@ game_genre = 'Metroidvania'
 game_release_year = '2006'
 game_developer = 'Konami'
 game_platform = 'ds'
-weight = 0
 +++
 
-<img src="/img/Guides/CastlevaniaPoR.jpg">
+![portrait of ruin](/img/Guides/CastlevaniaPoR.jpg)
 
 Castlevania games tend to pop up each year on Nintendo's Handheld platform. The last entries: Aria of Sorrow and Dawn of Sorrow, followed the story of Soma, who mysteriously inherited Dracula's dark abilities. Forget about all that, and the soul harvesting system. Portrait of Ruin is the spiritual successor of Castlevania Bloodlines on the SEGA MegaDrive/Genesis. Jonathan Morris is the son of Bloodlines' whip-equipped hero. PoR takes place during or just after the second World War. Dracula's castle reappeared because of the many sacrificed souls during that era. Together with your childhood friend Charlotte, you'll have to explore the castle and beat Dracula, again!
 

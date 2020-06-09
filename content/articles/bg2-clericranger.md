@@ -1,12 +1,9 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/BaldursGate2/logo.jpg"
 date = "2008-04-30"
 title = "BG2: Cleric/Ranger Guide"
 tags = ['Baldurs Gate 2']
 keywords = ['Baldurs Gate 2 cleric/ranger guide', 'BG2 cleric guide', 'bg2 ranger guide', 'cleric/ranger guide']
-weight = 0
 +++
 
 ### Guide Content

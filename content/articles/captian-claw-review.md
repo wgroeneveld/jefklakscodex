@@ -1,6 +1,4 @@
 +++
-showonlyimage = false
-draft = false
 date = "2006-10-05"
 image = "/img/articles/captainclaw.jpg"
 title = "Captain Claw Review"
@@ -9,7 +7,6 @@ game_name = 'Captain Claw'
 game_genre = '2D Platformer'
 game_release_year = '1997'
 game_developer = 'Monolith'
-weight = 0
 +++
 
 <img src="/img/Guides/CaptainClaw.jpg">

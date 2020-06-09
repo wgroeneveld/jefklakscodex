@@ -1,11 +1,8 @@
 +++
-showonlyimage = false
-draft = false
 image = "/img/games/Arcanum/logo.jpg"
 date = "2007-03-30"
 title = "Arcanum: the Gunslinger"
 tags = ['Arcanum']
-weight = 0
 +++
 
 <div class='vspace'></div><h3>Overview</h3>
