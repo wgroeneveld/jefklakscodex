@@ -47,17 +47,24 @@
     {{ if $related }}
 
       <div class="sidebar-header">
-        <span>Related</span>
+        <span>Related Articles</span>
         <img src="/img/gob_purse.gif" alt="related articles" />
       </div>
 
         <ul class="sidebar-menu">
         {{ range $related }}
-          {{ .Date.Format (.Site.Params.dateFormat | default "01/2006") | $.Scratch.Set "subtitle" }}
-          {{ with .Description }} {{ $.Scratch.Set "subtitle" . }} {{ end }}              
           <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;
-            <span class="sidebar-date"><i class='fa fa-calendar'></i>&nbsp;{{ $.Scratch.Get "subtitle" }}</span>
+            <span class="sidebar-date">
+              <i class='fa fa-calendar'></i>&nbsp;
+              {{ .Date.Format "01/2006" }}
+              <br/>
+              {{ if isset .Params "Description" }}
+                {{ .Description }}
+              {{ else }}
+                {{ .Summary }}
+              {{ end }}
+            </span>
           </li>
         {{ end }}
       </ul>
@@ -66,18 +73,23 @@
     {{ end }}
 
     <div class="sidebar-header">
-      <span>Latest</span>
+      <span>Latest Articles</span>
       <img src="/img/gob_letter.gif" alt="latest articles" />
     </div>
     {{ with .Site.GetPage "section" "articles" }}
     <ul class="sidebar-menu">
-      {{ range first 10 .Data.Pages.ByDate.Reverse }}
-        {{ .Date.Format (.Site.Params.dateFormat | default "01/2006") | $.Scratch.Set "subtitle" }}
+      {{ range first 5 .Data.Pages.ByDate.Reverse }}
           <li>
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;
             <span class="sidebar-date">
               <i class='fa fa-calendar'></i>&nbsp;
-              {{ $.Scratch.Get "subtitle" }}
+              {{ .Date.Format "01/2006" }}
+              <br/>
+              {{ if isset .Params "Description" }}
+                {{ .Description }}
+              {{ else }}
+                {{ .Summary }}
+              {{ end }}
             </span>
           </li>
       {{ end }}
@@ -85,7 +97,7 @@
     {{ end }}
 
     <div class="sidebar-header">
-      <span>Browsing</span>
+      <span>Looking For More?</span>
       <img src="/img/gob_waypoint.gif" alt="More information" />
     </div>
     <ul class="sidebar-menu">

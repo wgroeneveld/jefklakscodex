@@ -10,7 +10,7 @@
           {{ end }}
 
           <h3>Featured Codex Articles
-            <span class='pages'>({{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }})</span> &raquo;
+            <span class='pages'>(Page {{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }})</span> &raquo;
           </h3>
 
           {{ range (.Paginate .Pages).Pages }}

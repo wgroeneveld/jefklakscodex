@@ -27,7 +27,7 @@ summaryLength = 20
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Articles Index"
+  name = "Browse All Articles"
   url = "articles/"
   home = true
 

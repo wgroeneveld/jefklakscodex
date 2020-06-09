@@ -9,8 +9,8 @@
   </div>
 
   {{ with .OutputFormats.Get "RSS" }}
-    <a href="{{ .RelPermalink }}" id="csslink" target="_blank">
-      <img src="/img/rss.png" />
+    <a href="{{ .RelPermalink }}" id="csslink" class="no-border">
+      <img src="/img/rss.png" alt="get RSS feed" class="no-border" />
     </a>
   {{ end }}
   <div id="all">

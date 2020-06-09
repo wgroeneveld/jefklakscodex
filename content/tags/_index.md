@@ -2,7 +2,7 @@
 title = "Jefklak's Codex: Appendix"
 +++
 
-![logo](/img/logo.png)
+<img class="no-border" alt="logo" src="/img/logo.png" />
 
 ## Codex Appendix
 

@@ -19,6 +19,9 @@ body
 	@media (min-width: 960px)
 		font-size: inherit
 
+html body
+  font-family: $font-stack
+
 
 .rfloat 
 	float: right
@@ -49,9 +52,11 @@ ul, ol
 
 
 blockquote 
-	font-size: inherit
+	font-size: 1.1rem
 	font-style: italic
-	border-left: 5px solid var(--accent)
+	border-left: 7px solid var(--accent)
+	background-color: var(--bglightshade)
+	border-radius: 5px
 
 
 button 
@@ -166,6 +171,9 @@ article
 		text-align: justify !important
 
 
+.no-border
+	border: none !important
+
 .modal-header 
 	display: none
 
@@ -186,8 +194,9 @@ a:hover, .box-masonry h4 a:hover
 
 
 .box-masonry 
-	background-color: #d9e7ac
+	background-color: var(--bglightshade)
 	border: 1px solid var(--accent)
+	border-radius: 5px
 
 	&:hover
 		box-shadow: 0 0 5px black
