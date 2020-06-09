@@ -8,10 +8,10 @@ keywords = ['Baldurs Gate 2 cleric/ranger guide', 'BG2 cleric guide', 'bg2 range
 
 ### Guide Content
 
-- <a class="internal" data-to="#intro">Introduction to the cleric/ranger</a>
-- <a class="internal" data-to="#progression">Basic progression guide</a>
-- <a class="internal" data-to="#equipment">Picking your equipment</a>
-- <a class="internal" data-to="#spells">The cleric/ranger's spell picks</a>
+- <a href="#intro">Introduction to the cleric/ranger</a>
+- <a href="#progression">Basic progression guide</a>
+- <a href="#equipment">Picking your equipment</a>
+- <a href="#spells">The cleric/ranger's spell picks</a>
 
 <a id="intro"></a>
 ### Introduction to the cleric/ranger
@@ -22,7 +22,7 @@ So, what's the worst part about the cleric, in general? He can even wear full pl
 
 The cleric/ranger combination actually works pretty well: high wisdom is needed for both classes to cast spells. Dex and Str are very useful, especially the first one. Don't build it up to 18 wearing plate mail though as it dismisses your evade bonus completely. There are good leather armors later in the game (if you've installed Throne of Bhaal: the obvious dungeon & further upgrades)
 
-<img src="/img/games/BaldursGate2/screens/01_clericstats.jpg"/>
+![](/img/games/BaldursGate2/screens/01_clericstats.jpg "The cleric/ranger stats screen")
 
 <a id="progression"></a>
 ### Basic Progression guide

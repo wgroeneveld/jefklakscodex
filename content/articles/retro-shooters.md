@@ -16,7 +16,7 @@ This is just a selection of shooters I highlighted. Most games listed below are 
 
 ### 1. Early 1990s: wireframes to 2.5D worlds and textures
 
-1992 - Of course, there's the **[Wolfenstein 3D](/tags/wolfenstein-3d) engine**. I did play [Blake Stone](/articles/apogees-legacy) and [Rise of the Triad](/tags/rise-of-the-triad), but I can't say I even finished one shareware episode. I was about eight years old and the maze-like levels didn't really help there. All I remember was: _hug walls and press spacebar_! It's mind-boggling that ROTT is running on a supercharged version of the Wolf3D engine
+1992 - Of course, there's the **[Wolfenstein 3D](/tags/wolfenstein-3d) engine**. I did play [Blake Stone](/articles/apogees-legacy) and [Rise of the Triad](/tags/rise-of-the-triad), but I can't say I even finished one shareware episode. I was about eight years old and the maze-like levels didn't really help there. All I remember was: _hug walls and press spacebar_! It's mind-boggling that ROTT is running on a supercharged version of the Wolf3D engine.
 
 ![](/img/games/blakestone.jpg "Blake Stone: Aliens of Gold")
 
