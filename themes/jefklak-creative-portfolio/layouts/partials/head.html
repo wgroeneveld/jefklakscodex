@@ -40,29 +40,37 @@
 <!-- end og -->
 
 <!-- structured data -->
+{{ $ISO8601 := "2006-01-02T15:04:05-07:00" }}
 <script type="application/ld+json">
 {
     "@context" : "http://schema.org",
     "@type" : "BlogPosting",
     "mainEntityOfPage": {
          "@type": "WebPage",
-         "@id": "{{ .Site.BaseURL }}"
+         "@id": {{ .Site.BaseURL }}
     },
     "articleSection" : "{{ .Section }}",
     "name" : "{{ .Title }}",
     "headline" : "{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}",
-    "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "description" : {{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }},
     "inLanguage" : "{{ .Site.LanguageCode }}",
     {{ if .Params.image }}
-      "image": "{{.Site.BaseURL}}{{ .Params.image }}",
+      "image": {{ .Params.image | absURL }},
+    {{ else }}
+      "image": "{{.Site.BaseURL}}img/logo.png",
     {{ end }}
     "author" : {
       "@type": "Person",
       "name": "{{ .Site.Author.name }}"
-  },
+    },
+    "creator" : {
+        "@type": "Person",
+        "name": "{{ .Site.Author.name }}"
+    },    
     "publisher": {
       "@type": "Organization",
       "name": "Brain Baking",
+      "url": {{ .Site.BaseURL }},
       "logo": {
         "@type": "ImageObject",
         "url": "https://brainbaking.com/img/avatar-icon.png",
@@ -73,14 +81,17 @@
     "accountablePerson" : "{{ .Site.Author.name }}",
     "copyrightHolder" : "{{ .Site.Author.name }}",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
-    "datePublished": "{{ .Date }}",
-    "dateModified" : "{{ .Lastmod }}",
-    "url" : "{{ .Permalink }}",
+    "dateCreated": {{ .Date.Format $ISO8601 }},
+    "datePublished": {{ .PublishDate.Format $ISO8601 }},
+    "dateModified": {{ .Lastmod.Format $ISO8601 }},
+    "url" : {{ .Permalink }},
     "wordCount" : "{{ .WordCount }}",
     {{ if .Keywords }}
-      "keywords" : [ {{ range .Keywords }}"{{ . }}",{{ end }}"{{ .Title }}" ]
+      "keywords" : [ {{ range .Keywords }}"{{ . }}",{{ end }}"{{ .Title }}" ],
+      "genre" : [ {{ range .Keywords }}"{{ . }}",{{ end }}"{{ .Title }}" ]
     {{ else if .Params.tags }}
-      "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"{{ .Title }}" ]
+      "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"{{ .Title }}" ],
+      "genre" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"{{ .Title }}" ]
     {{ else }}
       "keywords": [ "{{ .Title }}" ]
     {{ end }}
