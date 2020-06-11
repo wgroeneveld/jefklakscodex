@@ -68,3 +68,9 @@ Yes, I decapitated the poor guy, and yes, I started kicking his head around. A B
 In all honesty? The complete opposite. I'm very happy to have stumbled upon the game and I'm looking forward to replaying it. I don't miss Duke Nukem, but I do want to use my keyboard and mouse instead of a Nintendo Pro controller. And maybe then I can ease things by typing in **DNSTUFF** and **DNGOD**. 
 
 > _Hail to the king, baby!_
+
+Addendum, 11/06/2020: Just to prove that I finished the game:
+
+![finished the game](/img/games/ionfury/finished.jpg)
+
+The last boss sucks even harder than other bosses. And yes, I played on the lowest difficulty setting, because my aiming also sucks. Nonetheless, I had a lot of fun with Ion Fury. Definitely recommended! Lots of secrets yet to discover... 

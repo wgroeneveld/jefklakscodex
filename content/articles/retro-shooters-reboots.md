@@ -40,6 +40,14 @@ https://store.steampowered.com/app/753590/Hellbound/
 
 TBA
 
+### Bloom
+
+https://store.steampowered.com/app/940870/Bloom/
+
+### Hellhunt
+
+https://t19games.itch.io/hellhunt
+
 ### Apocryph (Heretic)
 
 https://store.steampowered.com/app/596240/Apocryph_an_oldschool_shooter/
