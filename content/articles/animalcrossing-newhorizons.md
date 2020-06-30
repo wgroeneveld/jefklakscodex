@@ -14,6 +14,16 @@ game_developer = 'Nintendo'
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 
 
+### Something took a dive.
+
+<div style="text-align: right;">[ Date: 29/06/2020 | <a href="#top">top</a> ]</div>
+
+{{< video "/vid/acnh_plons.mp4" >}}
+
+Shit.
+
+On another note, I'm starting to feel the "Animal Crossing Fatigue"; after playing for three months and, according to my Switch, 50+ hours (which is not so much compared to other fans). Tom Nook gave me yet another loan - `745.000` bells to pay off for friggin' kitchen space. Great.
+
 ### My villagers seem to be industrial bakers
 
 <div style="text-align: right;">[ Date: 01/06/2020 | <a href="#top">top</a> ]</div>
