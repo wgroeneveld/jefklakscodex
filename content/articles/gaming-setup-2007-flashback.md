@@ -9,6 +9,8 @@ tags:
 description: "While digging through an old archive, I came across pictures of my gaming setup in 2007. CRT gaming and the ultimate game boy - it's all there! Recollecting once owned but now lost games has become an expensive undertaking."
 ---
 
+[Take a look at a part of my 2006 gamelist collection!](/gamelist) I fished that list out of a rotting archive on a hard drive, it was made with the then-popular [Game Collector](https://www.collectorz.com/game) software. 
+
 Ever wonder what the could be the best way to play Game Boy Games? It will be a while before the [Analogue Pocket](https://analogue.co) release in 2021. Until then, how about this setup:
 
 ![](/img/articles/nostalgia_gameboy.jpg "The Ultimate Game Boy Setup")
