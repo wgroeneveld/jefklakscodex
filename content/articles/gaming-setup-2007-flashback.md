@@ -22,7 +22,9 @@ It has been 13 years since I took that photograph, and even in 2007, the Game Bo
 - In case one doesn't see jack shit, take out the magnifying glass. Light extensions also existed. 
 - In case one has trouble beating a boss, take out the Game Genie to apply cheat codes. What an ingenious system!
 
-In another photograph, I of course boast with my "huge" collection DS games:
+In other photographs, I of course boast with my "huge" collection GB(A)/DS games:
+
+![](/img/articles/nostalgia_cards.jpg "The original and rather ugly looking Nintendo DS that quickly got replaced.")
 
 ![](/img/articles/nostalgia_handhelds.jpg "More recent handheld additions for being the year 2007: the GBA Micro limited edition and a DS Lite. ")
 
