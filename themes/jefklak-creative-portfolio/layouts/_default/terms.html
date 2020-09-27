@@ -29,16 +29,16 @@ article ul {
 		  				</article>
 				      	<article>
 
+				      		<h3><a name="bytag"></a>By Game/Tag</h3>
+							{{ partial "taglist.html" . }}
+				         	<hr style="clear: both;"/>
+
 				         	<h3><a name="byarticle"></a>By Article</h3>
 				         	<hr style="clear: both;"/>
 
 						    {{ with .Site.GetPage "section" "articles" }}	
 						    	{{ partial "articlelist.html" . }}
 					      	{{ end }}
-
-				      		<h3><a name="bytag"></a>By Tag</h3>
-							{{ partial "taglist.html" . }}
-				         	<hr style="clear: both;"/>
 
 				      	</article>
 				    </div>
