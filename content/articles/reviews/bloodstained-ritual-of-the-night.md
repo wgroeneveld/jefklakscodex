@@ -6,7 +6,7 @@ tags:
     - 'bloodstained'
     - 'castlevania'
     - 'switch'
-description: "One year later, Ritual of the Night is still unplayable on the Nintendo Switch. Numerous patches later, the game still stutters and crashes, with it's most popular screen being the loading one. We're off to a great start here... "
+description: "One year later, Ritual of the Night is still unplayable on the Nintendo Switch. Numerous patches later, the game still stutters and crashes, with its most popular screen being the loading one. We're off to a great start here... "
 game_platform: 'switch'
 game_genre: 'Metroidvania'
 game_release_year: '2019'
@@ -15,7 +15,7 @@ aliases:
     - '/articles/bloodstained-ritual-of-the-night-review/'
 ---
 
-One year later, Ritual of the Night is still unplayable on the Nintendo Switch. Numerous patches later, the game still stutters and crashes, with it's most popular screen being the loading one. We're off to a great start here... 
+One year later, Ritual of the Night is still unplayable on the Nintendo Switch. Numerous patches later, the game still stutters and crashes, with its most popular screen being the loading one. We're off to a great start here... 
 
 After years and years (and more years) of waiting, the game was finally released in June 2019. I hope Iga learned not to tease players that long on beforehand. The Bloodstained kickstarter was launched in 2015, and in all fairness, the game received lots of small and bigger improvements over the course of its development. 
 
