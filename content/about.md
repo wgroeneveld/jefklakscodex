@@ -3,7 +3,7 @@ title = "About the Codex"
 disableComments = true
 +++
 
-Hi, I'm Jefklak/[Wouter](https://brainbaking.com/about/) and you're looking at "Jefklak's Codex", a dedicated and highly opinionated website about nostalgic games. The word **nostalgic** should be emphasized here. I grew up with a Gameboy between my hands and PC RPG games burnt into my retina. That healthy cocktail left a lasting impression - and netted me the Codex (and glasses).
+Hi, I'm Jefklak/[Wouter](https://brainbaking.com/about/) and you're looking at "Jefklak's Codex", a dedicated and highly opinionated website about nostalgic games. The word **nostalgic** should be emphasized here. I grew up with a Game Boy between my hands and PC RPG games burnt into my retina. That healthy cocktail left a lasting impression - and netted me the Codex (and glasses).
 
 The Codex has a long history, I've always felt the need to proclaim my definitive game of each generation. If you want to have some fun (you should have got some by now), try archive.org's wayback machine:
 
