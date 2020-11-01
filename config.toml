@@ -16,9 +16,7 @@ summaryLength = 20
 [markup]
   defaultMarkdownHandler = "blackfriday"
 
-[params]
-  fathomid = "YFJHP"
-  
+[params]  
   description = "Retro game thoughts"
   copyright = "<a href='/no-copyright'>No &copy; reserved - sharing is caring</a>. <br/>An integral part of <a href='https://brainbaking.com/' target='_blank'>Brain Baking</a>."
   sidebarAbout = [
