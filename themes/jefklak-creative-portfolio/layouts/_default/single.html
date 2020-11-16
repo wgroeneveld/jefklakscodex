@@ -36,6 +36,20 @@
 
         {{ $finalContent }}
 
+        {{ if isset $.Params "played_on" }}
+        <div class="categories">
+          Played on:
+          {{ if eq .Params.played_on "winxp" }}
+            <a href="https://brainbaking.com/post/2020/10/building-a-core2duo-winxp-retro-pc/">Windows XP - Core2Duo</a> 2006 build.
+          {{ else if eq .Params.played_on "win98" }}
+            <a href="https://brainbaking.com/post/2020/10/building-an-athlon-win98-retro-pc/">Windows 98 SE - Athlon 1.4</a> 2001 build.
+          {{ else if eq .Params.played_on "486" }}
+            <a href="https://brainbaking.com/post/2020/09/reviving-a-80486/">DOS 6.22 - 486DX2-66</a> 1993 build.
+          {{ end }}
+          
+        </div>
+        {{ end }}
+
          {{ if isset $.Params "tags" }}
           <div class="categories">
           Categorized under: 

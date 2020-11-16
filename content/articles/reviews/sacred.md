@@ -7,6 +7,8 @@ tags:
     - 'hack & slash'
     - 'diablo'
 game_platform: 'pc'
+played_on: 'winxp'
+description: "Sixteen years after its initial release, I finally managed to take the time to thoroughly inspect Sacred (the Gold release). I've always been a big fan of hack & slash games, so let's take this opportunity to compare mechanics of Sacred VS the undisputed king: Diablo II."
 game_genre: 'Hack & Slash'
 game_release_year: '2004'
 game_developer: 'Ascaron'
@@ -70,7 +72,7 @@ Leveling up in Sacred is your standard affair of distributing points across vari
 
 ![](/img/games/sacred/ca.jpg "The Combat Arts Master can exchange CAs. ")
 
-Next to that, there are various skills to pick after a set amount of levels, with a maximum of 8, as seen in the above screenshot. These skills are what make your build unique compared to other vampiresses, for example. However, there's not much difference between _Sword Lore_, _Weapon Lore_, and _Two Weapon Lore_: all increase attack and damage. Only the latter allows you to dual wield. After picking a skill, there's no turning back. You can again dump points into these. 
+Next to that, there are various skills to pick after a set amount of levels, with a maximum of 7, as seen in the above screenshot. These skills are what make your build unique compared to other vampiresses, for example. However, there's not much difference between _Sword Lore_, _Weapon Lore_, and _Two Weapon Lore_: all increase attack and damage. Only the latter allows you to dual wield. After picking a skill, there's no turning back. You can again dump points into these. 
 
 ### Combat Arts
 

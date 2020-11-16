@@ -6,6 +6,7 @@ tags:
     - 'rainbow six'
     - 'raven shield'
 game_platform: 'pc'
+played_on: 'winxp'
 game_genre: 'Tactical Shooter'
 game_release_year: '2003'
 game_developer: 'Red Storm Entertainment'
