@@ -98,4 +98,8 @@ Again, no comparison. There are cut-scenes - let's keep it at that. Diablo 2 is 
 
 Sacred kept me busy for about 16 hours. The first hours were a bit difficult, but after acquiring CAs, the game became a bit too easy. There are multiple difficulty modes (bronze/silver/... compares to normal/nightmare/...), for those who wish to replay it on a higher level. The last few hours were a bit of a drag, especially if you forget to enable waypoints. In the end, I'm glad I played it: it's a rather unique world with a strange skill tree implementation that still puzzles me to date. It doesn't quite come quite near the level of greatness Diablo II is, but it certainly tried well enough. I might actually prefer the huge open world, quests, visuals, and quirkiness of Sacred. Sadly, the core hack & slash mechanics, the loot and reward system, is a bit of a missed opportunity to me. 
 
+The [Random Battles Blog](https://randombattlesblog.wordpress.com/2019/10/31/rpg-166-beaten-sacred/) concludes more or less the same: 
+
+> Sacred was a good game for its time and the world is super vast but it just drags on a bit too long. The enemy variety is pretty nice but I just wish the vast world was fleshed out more and given more scripted parts. A good game and I certainly enjoyed it more than the recent Diablo III but in my book middle of the road action RPG.
+
 Now, should I try another class and take on the Underworld campaign? 
