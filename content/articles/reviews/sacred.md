@@ -18,9 +18,11 @@ The Diablo II craze has been raging for four years before Ascaron released their
 
 ## 1. World Design
 
-The world of Sacred takes place in the continent of Ancaria and it's _massive_. There's a neat looking world map that automatically records quests and your exploration progression. Unlike Diablo II (Let's call it D2), the world is open, and you can go to anywhere your heart would desire. Monsters are somewhat scaled to your level, to a much better degree than TES IV: Oblivon. There are some nice surprises that reward exploration, but as expected, the sandy dunes are... sandy, and the icy hilltops are... icy - and that's about it. There's not much else out there. In Ancaria, it is possible to rent a horse to go riding and zoom quicker through the world - provided you didn't forget where to park the animal last time, since the stables don't buy new horses. There are portal waypoints scattered throughout the world, but it is not possible to open up a town portal yourself. Luckily, a merchant should never be too far off. 
+The world of Sacred takes place in the continent of Ancaria and it's _massive_. There's a neat looking world map that automatically records quests and your exploration progression. Unlike Diablo II (Let's call it D2), the world is open, and you can go to anywhere your heart would desire. Monsters are somewhat scaled to your level, to a much better degree than TES IV: Oblivon. There are some nice surprises that reward exploration, but as expected, the sandy dunes are... sandy, and the icy hilltops are... icy - and that's about it. There's not much else out there. 
 
-I actually preferred Sacred's world progression compared to D2's chapter-divided ones. Sacred has much bigger cities full with sub-quests, we'll get into that later. D2's sandy town of _Lut Gholein_ for instance does not stack up to Sacred's _Castle Bedrock_. 
+In Ancaria, it is possible to rent a horse to go riding and zoom quicker through the world - provided you didn't forget where to park the animal last time, since the stables don't buy new horses. There are portal waypoints scattered throughout the world, but it is not possible to open up a town portal yourself. Luckily, a merchant should never be too far off. Mounted combat also plays differently: some weapons, such as polearms, are better when on horseback, while others, such as single handed swords my vampiress uses, take considerable more time to land a hit. The horse system is not perfect, but it's unique and a very welcome addition, even though my character ended up mostly walking. 
+
+I actually preferred Sacred's world progression compared to D2's chapter-divided ones. Sacred has much bigger cities full with sub-quests, we'll get into that later. D2's sandy town of _Lut Gholein_ for instance does not stack up to Sacred's _Castle Bedrock_. Another point for Sacred: each class starts in a unique place and has a unique bit of dialogue/questing before merging with the main storyline, not unlike like _Nox_ - hopefully someone still remembers Nox. The more I think about it, the better I like Sacred's world. 
 
 ### Graphics
 
@@ -28,7 +30,7 @@ I actually preferred Sacred's world progression compared to D2's chapter-divided
 
 Sacred's engine renders characters in 3D and backgrounds in 2D. The result is a sometimes clunky (characters running) but most of the times lovely look (especially in cities). You can actually stroll into buildings seamless and the effect is gorgeous, even in 2020. Spell effects are less stellar, and most shooting effects are the same: whether it's the dwarf firing off his cannon shot or the vampiress sucking blood out of a particular enemy. The UI is good enough. Swords and shields can be quick-slotted and are unique and 3D-rendered.
 
-However, when exploring the world, the scenery starts becoming pretty mundane quickly. Trees and bushes do not move whatsoever, and the dark forest of the even darker elves looks like smeared out dirt. When again comparing to D2, I don't think it's better or worse, since D2's overworld becomes boring too. Since enemies scale to your level, respawn, and even fight each other as the main quest unfolds, the world looks a tad more alive than Diablo's. 
+However, when exploring the world, the scenery starts becoming pretty mundane quickly. Trees and bushes do not move whatsoever, and the dark forest of the even darker elves looks like smeared out dirt. When again comparing to D2, I don't think it's better or worse, since D2's overworld becomes boring too. Since enemies scale to your level, respawn, and even fight each other as the main quest unfolds, the world looks a tad more alive than Diablo's. Especially considering there is a weather system and a full day/night cycle my vampiress' combat arts are even dependent upon! 
 
 ![](/img/games/sacred/inside.jpg "Going inside one of the houses is possible!")
 
@@ -58,11 +60,13 @@ Subquests are more fun than in Diablo 2 simply because Diablo merely has any. Ho
 
 The loot system might be my biggest problem with Sacred. In a hack & slash game, the reward loop is the most important principle: click click click, a shiny item drops, you pick it up saying "wow", and continue to click frenetically on everything that moves. The problem isn't that Sacred does not have loot: it's that it simply does not appear. Towns are full of small houses with chests: don't bother, it contains max. 500 gold pieces. Sometimes, you come across a small cavern to explore: don't bother, it doesn't even contain a proper mob. 
 
-![](/img/games/sacred/loot.jpg "My reward after defeating the end boss: a cool sword... I can't use. ")
-
 Money is completely useless in this game. I ended up with a million in cash, unable to sink it into something like a gambling merchant. And you better pick the "trading"/"merchant" skill as your character levels up: it is supposed to increase the likelihood of encountering rares in the shop. Item rarity categories are the same as in D2. My vampiress used the same sword and shield for the whole second half of the game! Damage does increase through stat boosts, but my item hunger was not fulfilled at all. 
 
-Nice items do drop now and then - specialized gear for other classes, of course. And no, there's no way to transfer that item to your other builds. What a missed opportunity. The blue chest in the town square used to store your stuff does not transfer over to other saves or new games (sure, there are [complicated ways of doing that](http://darkmatters.org/forums/index.php?/topic/14579-transfering-items/) using multiplayer games). That would have been a great incentive to replay the game with another class. There's a +% money drop item stat, but I have not encountered the classic "magic find". Proper item drops should encourage exploration, questing, and killing stuff. Instead, I stopped caring about chests all together. 
+![](/img/games/sacred/loot.jpg "My reward after defeating the end boss: a cool sword... I can't use. ")
+
+Nice items do drop now and then - specialized gear for other classes, of course. And no, there's no way to transfer that item to your other builds. What a missed opportunity. The blue chest in the town square used to store your stuff does not transfer over to other saves or new games (sure, there are [complicated ways of doing that](http://darkmatters.org/forums/index.php?/topic/14579-transfering-items/) using multiplayer games). That would have been a great incentive to replay the game with another class. There's a +% money drop item stat, but I have not encountered the classic "magic find". Proper item drops should encourage exploration, questing, and killing stuff. Instead, I stopped caring about chests all together. Isn't that depressing in a game like this, to not care about the contents of a chest? 
+
+As the [game difficulty](http://www.sacredwiki.org/index.php/Sacred:Game_Difficulty) ramps up, so do modifiers of items. For example, in the Bronze difficulty, an item would grant you `+15%` attack. In Silver, that would be `+20%`. The game difficulty should also affect the quality of items being dropped, but I haven't encountered a single chest in Silver so far that wasn't abysmal. Compare that with your Diablo hell runs and you know wny I'm that upset. Even the timed chests in [Diablo III](articles/diablo-for-kids/) are more amusing.
 
 ## 3. Character Progression
 
@@ -88,7 +92,7 @@ For my vampiress build, the CAs weren't all that compelling. My wolf companion a
 
 What music? Well, it's there, and when hacking at enemies, it sometimes spins up a dramatic tune, but it's mostly generic and only ambient. There's no real comparison to Diablo 2's magical soundtrack that I still listen regularly without even touching the game itself. 
 
-The voice acting is _very_ goofy, but perhaps fitting, as the game tries (and succeeds to) be funny now and then. Your character will say something when entering miserable looking villages or encountering enemies. In all, it does add to the atmosphere of Sacred, although I did miss good music. 
+The voice acting is _very_ goofy, but perhaps fitting, as the game tries (and succeeds to) be funny now and then - [listen and laugh](https://youtu.be/WVZDZHvYLAc?t=1031). Your character will say something when entering miserable looking villages or encountering enemies. In all, it does add to the atmosphere of Sacred, although I did miss good music. 
 
 ### Cinematic
 
@@ -98,7 +102,7 @@ Again, no comparison. There are cut-scenes - let's keep it at that. Diablo 2 is 
 
 ## To Conclude
 
-Sacred kept me busy for about 16 hours. The first hours were a bit difficult, but after acquiring CAs, the game became a bit too easy. There are multiple difficulty modes (bronze/silver/... compares to normal/nightmare/...), for those who wish to replay it on a higher level. The last few hours were a bit of a drag, especially if you forget to enable waypoints. In the end, I'm glad I played it: it's a rather unique world with a strange skill tree implementation that still puzzles me to date. It doesn't quite come quite near the level of greatness Diablo II is, but it certainly tried well enough. I might actually prefer the huge open world, quests, visuals, and quirkiness of Sacred. Sadly, the core hack & slash mechanics, the loot and reward system, is a bit of a missed opportunity to me. 
+The Ancaria Sacred campaign kept me busy for about 16 hours. The first hours were a bit difficult, but after acquiring CAs, the game became a bit too easy. There are five different difficulty modes (bronze/silver/gold compares to normal/nightmare/hell), for those who wish to replay it on a higher level. The last few hours were a bit of a drag, especially if you forget to enable waypoints. In the end, I'm glad I played it: it's a rather unique world with a strange skill tree implementation that still puzzles me to date. It doesn't quite come quite near the level of greatness Diablo II is, but it certainly tried well enough. I might actually prefer the huge open world, quests, visuals, and quirkiness of Sacred. Sadly, the core hack & slash mechanics, the loot and reward system, is a bit of a missed opportunity to me. 
 
 The [Random Battles Blog](https://randombattlesblog.wordpress.com/2019/10/31/rpg-166-beaten-sacred/) concludes more or less the same: 
 

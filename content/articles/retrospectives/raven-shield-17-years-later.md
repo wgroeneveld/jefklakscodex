@@ -12,7 +12,7 @@ game_release_year: '2003'
 game_developer: 'Red Storm Entertainment'
 ---
 
-It's amazing the second disk is still readable by my [Retro WinXP machine](https://brainbaking.com/post/2020/10/building-a-core2duo-winxp-retro-pc/). It has been heavily abused in 2003 and the years after that. Rainbow Six' third installment, Raven Shield (or simply RvS), is quite a departure from the crude looking Rogue Spear. For once, the gun you're shooting with is rendered, and the game is operating under the Unreal 2 engine now. But the most fundamental change is the focus on action, rather than the planning. 
+It's amazing that the second disk is still readable by my [Retro WinXP machine](https://brainbaking.com/post/2020/10/building-a-core2duo-winxp-retro-pc/). It has been heavily abused in 2003 and the years after that. Rainbow Six' third installment, Raven Shield (or simply RvS), is quite a departure from the crude looking Rogue Spear. For once, the gun you're shooting with is rendered, and the game is operating under the Unreal 2 engine now. But the most fundamental change is the focus on action, rather than the planning. 
 
 ![](/img/games/ravenshield/rvs1.jpg "Team selection and operation planning is a big part of the game. ")
 
