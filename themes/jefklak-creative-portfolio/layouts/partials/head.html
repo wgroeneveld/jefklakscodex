@@ -50,8 +50,8 @@
          "@id": {{ .Site.BaseURL }}
     },
     "articleSection" : "{{ .Section }}",
-    "name" : "{{ .Title }}",
-    "headline" : "{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}",
+    "name" : {{ .Title }},
+    "headline" : {{ .Title }},
     "description" : {{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }},
     "inLanguage" : "{{ .Site.LanguageCode }}",
     {{ if .Params.image }}
@@ -87,13 +87,13 @@
     "url" : {{ .Permalink }},
     "wordCount" : "{{ .WordCount }}",
     {{ if .Keywords }}
-      "keywords" : [ {{ range .Keywords }}"{{ . }}",{{ end }}"{{ .Title }}" ],
-      "genre" : [ {{ range .Keywords }}"{{ . }}",{{ end }}"{{ .Title }}" ]
+      "keywords" : [ {{ range .Keywords }}{{ . }},{{ end }}{{ .Title }} ],
+      "genre" : [ {{ range .Keywords }}{{ . }},{{ end }}{{ .Title }} ]
     {{ else if .Params.tags }}
-      "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"{{ .Title }}" ],
-      "genre" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"{{ .Title }}" ]
+      "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}{{ . }},{{ end }}{{ end }}{{ .Title }} ],
+      "genre" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}{{ . }},{{ end }}{{ end }}{{ .Title }} ]
     {{ else }}
-      "keywords": [ "{{ .Title }}" ]
+      "keywords": [ {{ .Title }} ]
     {{ end }}
 }
 </script>
