@@ -6,7 +6,7 @@ publishDir = "docs"
 enableEmoji = true
 # for .Lastmod to work with .GitInfo: --enableGitInfo https://gohugo.io/variables/git/
 enableGitInfo = true
-
+enableRobotsTXT = true
 summaryLength = 20
 
 [Author]
