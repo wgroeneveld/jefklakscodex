@@ -115,3 +115,12 @@
 <script data-goatcounter="https://stats.jefklakscodex.com/count"
         async src="//stats.jefklakscodex.com/count.js"></script>
 {{- end }}
+
+<!-- twitter cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
+{{ if .Params.image }}
+  <meta name="twitter:image" content="{{ .Params.image | absURL }}">
+{{ end }}
+<meta name="twitter:image:alt" content="Figure of {{ .Title }}">
