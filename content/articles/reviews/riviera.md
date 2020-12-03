@@ -8,7 +8,7 @@ game_release_year = '2002'
 aliases = ['/articles/riviera-review/']
 game_developer = 'Sting ent.'
 title = "Riviera: the Review"
-tags = ['Riviera', 'Yggdra Union']
+tags = ['Riviera', 'Yggdra Union', 'review']
 +++
 
 <img src="/img/Guides/Riviera.jpg">

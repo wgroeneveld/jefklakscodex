@@ -7,7 +7,7 @@ game_genre = 'Simulation/RTS'
 game_release_year = '2000'
 game_developer = 'Impressions Games'
 aliases = ['/articles/zeus-review/']
-tags = ['Zeus', 'Emperor']
+tags = ['Zeus', 'Emperor', 'review']
 +++
 
 <img src="/img/Guides/Zeus.jpg"/>

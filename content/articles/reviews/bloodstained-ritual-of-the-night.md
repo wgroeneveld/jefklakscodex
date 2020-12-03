@@ -6,6 +6,7 @@ tags:
     - 'bloodstained'
     - 'castlevania'
     - 'switch'
+    - 'review'
 description: "One year later, Ritual of the Night is still unplayable on the Nintendo Switch. Numerous patches later, the game still stutters and crashes, with its most popular screen being the loading one. We're off to a great start here... "
 game_platform: 'switch'
 game_genre: 'Metroidvania'

@@ -2,7 +2,7 @@
 image = "/img/games/Arcanum/logo.jpg"
 date = "2007-03-30"
 title = "Arcanum: the Gunslinger"
-tags = ['Arcanum']
+tags = ['Arcanum', 'guide']
 aliases = ['/articles/arcanum-gunslinger/']
 +++
 

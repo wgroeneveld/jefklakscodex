@@ -4,6 +4,7 @@ date: 2002-04-08
 title: "Wizardry 8: the Review"
 tags:
     - 'Wizardry8'
+    - 'review'
 game_platform: 'PC'
 aliases:
     - /articles/wizardry8-review/

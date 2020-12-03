@@ -2,7 +2,7 @@
 image = "/img/articles/captainclaw.jpg"
 date = "2007-03-15"
 title = "Windows 2D Platforming"
-tags = ['2D platforming']
+tags = ['2D platforming', 'feature']
 +++
 
 Platform games, one of the most dominant game genres in gaming history. They spawned a whole lot of spin-off series (run-and-gun, platform puzzles, Apogee's shareware system, Mario 64's 3D platform debut). Platform gaming has been the dominant type on every gaming platform for quite a while.

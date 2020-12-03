@@ -4,6 +4,7 @@ date: 2002-04-09
 title: "Hitman 2: the Preview"
 tags:
     - 'hitman'
+    - 'preview'
 game_platform: 'PC'
 aliases:
     - '/articles/hitman-2-preview/'

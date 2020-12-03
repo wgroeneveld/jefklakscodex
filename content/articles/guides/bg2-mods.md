@@ -2,7 +2,7 @@
 image = "/img/games/BaldursGate2/logo.jpg"
 date = "2006-11-08"
 title = "BG2/Infinity Engine Mods"
-tags = ['Baldurs Gate 2']
+tags = ['Baldurs Gate 2', 'guide']
 aliases = ['/articles/bg2-mods/']
 +++
 

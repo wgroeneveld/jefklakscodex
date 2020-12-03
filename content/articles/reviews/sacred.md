@@ -6,6 +6,7 @@ tags:
     - 'sacred'
     - 'hack and slash'
     - 'diablo'
+    - 'review'
 game_platform: 'pc'
 played_on: 'winxp'
 description: "Sixteen years after its initial release, I finally managed to take the time to thoroughly inspect Sacred (the Gold release). I've always been a big fan of hack & slash games, so let's take this opportunity to compare mechanics of Sacred VS the undisputed king: Diablo II."

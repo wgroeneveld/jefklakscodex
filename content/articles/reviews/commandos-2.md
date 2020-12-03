@@ -4,6 +4,7 @@ date: 2002-04-09
 title: "Commandos 2: Men of Courage Review"
 tags:
     - 'commandos'
+    - 'review'
 game_platform: 'PC'
 aliases:
     - '/articles/commandos-2-review/'

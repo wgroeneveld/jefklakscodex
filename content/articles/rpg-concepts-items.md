@@ -2,7 +2,7 @@
 image = "/img/articles/RPG-world_ultima.jpg"
 date = "2007-01-04"
 title = "RPG Concepts: Items"
-tags = ['RPG Concepts', 'Divine Divinity', 'Ultima', 'Temple of the Elemental Evil', 'Blue Dragon', 'Neverwinter Nights', 'Baldurs Gate 2']
+tags = ['RPG Concepts', 'Divine Divinity', 'Ultima', 'Temple of the Elemental Evil', 'Blue Dragon', 'Neverwinter Nights', 'Baldurs Gate 2', 'feature']
 +++
 
 <img src="/img/articles/RPG.jpg"/>

@@ -2,7 +2,7 @@
 image = "/img/games/BaldursGate1/portrait.png"
 date = "2019-07-31"
 title = "Experiencing the Enhanced Baldur's Gate"
-tags = ['Baldurs Gate 1', 'Baldurs Gate 2']
+tags = ['Baldurs Gate 1', 'Baldurs Gate 2', 'feature']
 keywords = ['Baldurs Gate 2', 'Baldurs Gate', 'bg1', 'bgee', 'bg1ee']
 +++
 

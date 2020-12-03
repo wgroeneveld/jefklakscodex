@@ -2,7 +2,7 @@
 image = "/img/games/etrianoddysey.jpg"
 date = "2007-07-03"
 title = "Etrian Odyssey Review"
-tags = ['Etrian Odyssey']
+tags = ['Etrian Odyssey', 'review']
 game_name = 'Etrian Odyssey'
 game_genre = 'FP RPG'
 game_platform = 'ds'

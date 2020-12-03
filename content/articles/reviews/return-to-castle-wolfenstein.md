@@ -4,6 +4,7 @@ date: 2002-04-09
 title: "Return to Castle Wolfenstein Review"
 tags:
     - 'wolfenstein 3d'
+    - 'review'
 game_platform: 'PC'
 aliases:
     - /articles/return-to-castle-wolfenstein-review/

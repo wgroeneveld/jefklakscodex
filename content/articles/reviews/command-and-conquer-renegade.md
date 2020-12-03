@@ -4,6 +4,7 @@ date: 2002-04-09
 title: "Command & Conquer: Renegade Review"
 tags:
     - 'command and conquer'
+    - 'review'
 game_platform: 'PC'
 game_genre: 'Strategy/FPS'
 game_release_year: '2001'

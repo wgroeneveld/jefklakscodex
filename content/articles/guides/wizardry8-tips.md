@@ -2,7 +2,7 @@
 image = "/img/games/Wizardry8/wiz8.jpg"
 date = "2007-06-17"
 title = "Wizardry 8: General Tips"
-tags = ['Wizardry8']
+tags = ['Wizardry8', 'guide']
 aliases = ['/articles/wizardry8-tips/']
 +++
 

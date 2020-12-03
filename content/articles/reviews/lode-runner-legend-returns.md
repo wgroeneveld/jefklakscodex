@@ -2,7 +2,7 @@
 image = "/img/games/loderunner.jpeg"
 date = "2007-03-30"
 title = "Lode Runner Returns Review"
-tags = ['Lode Runner: the Legend Returns']
+tags = ['Lode Runner: the Legend Returns', 'review']
 game_name = 'Lode Runner: the Legend Returns'
 game_genre = '2D Platformer/Puzzle'
 game_release_year = '1994'

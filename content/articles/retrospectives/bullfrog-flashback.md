@@ -2,7 +2,7 @@
 image = "/img/games/themehospital.jpeg"
 date = "2006-10-29"
 title = "Flashback: Bullfrog"
-tags = ['Theme Hospital', 'Bullfrog', 'Black and White', 'Startopia', 'Lionhead', 'Fable']
+tags = ['Theme Hospital', 'Bullfrog', 'Black and White', 'Startopia', 'Lionhead', 'Fable', 'retrospective']
 aliases = ['/articles/bullfrog-flashback/']
 +++
 

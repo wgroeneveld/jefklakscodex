@@ -2,7 +2,7 @@
 image = "/img/games/por.jpg"
 date = "2007-01-12"
 title = "Castlevania Portrait of Ruin Review"
-tags = ['Castlevania', 'Portrait of Ruin']
+tags = ['Castlevania', 'Portrait of Ruin', 'review']
 game_name = 'Castlevania Portrait of Ruin'
 game_genre = 'Metroidvania'
 game_release_year = '2006'

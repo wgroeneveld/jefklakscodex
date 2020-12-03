@@ -6,6 +6,7 @@ tags:
     - 'retro'
     - 'collecting'
     - 'gaming setup'
+    - 'feature'
 description: "While digging through an old archive, I came across pictures of my gaming setup in 2007. CRT gaming and the ultimate game boy - it's all there! Recollecting once owned but now lost games has become an expensive undertaking."
 ---
 

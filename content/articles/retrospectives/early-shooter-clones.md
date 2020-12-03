@@ -9,6 +9,7 @@ tags:
     - 'rise of the triad'
     - 'quake'
     - 'duke nukem 3d'
+    - 'retrospective'
 aliases:
     - /articles/early-shooter-clones/
 description: "Feeling nostalgic? You can play enhanced versions of your favourite nineties retro shooter - just follow these instructions."

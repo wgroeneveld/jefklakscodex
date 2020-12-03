@@ -2,7 +2,7 @@
 date = "2006-10-05"
 image = "/img/articles/captainclaw.jpg"
 title = "Captain Claw Review"
-tags = ['Captain Claw']
+tags = ['Captain Claw', 'review']
 game_name = 'Captain Claw'
 game_genre = '2D Platformer'
 game_release_year = '1997'

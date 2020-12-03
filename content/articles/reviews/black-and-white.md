@@ -4,6 +4,7 @@ date: 2002-04-09
 title: "Black and White: Creature Isle Review"
 tags:
     - 'Black and White'
+    - 'review'
 game_platform: 'PC'
 game_genre: 'Simulation'
 game_release_year: '2001'

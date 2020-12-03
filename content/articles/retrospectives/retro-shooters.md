@@ -5,6 +5,7 @@ title: "A Look At the Evolution of Retro Shooters and Their Engines"
 tags:
     - 'retro shooters'
     - 'doom'
+    - 'retrospective'
 aliases:
     - /articles/retro-shooters/
 description: "I'm feeling nostalgic. Why don't you join me so we can marvel at magnificent achievements of the FPS past?"

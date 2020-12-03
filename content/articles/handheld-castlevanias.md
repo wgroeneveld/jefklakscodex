@@ -2,7 +2,7 @@
 image = "/img/Guides/cv-harmony.jpg"
 date = "2007-01-12"
 title = "Handheld Castlevanias"
-tags = ['Castlevania', 'Portrait of Ruin', 'Harmony of Dissonance', 'Circle of the Moon', 'Aria of Sorrow', 'Dawn of Sorrow']
+tags = ['Castlevania', 'Portrait of Ruin', 'Harmony of Dissonance', 'Circle of the Moon', 'Aria of Sorrow', 'Dawn of Sorrow', 'feature']
 +++
 
 <p class='vspace'><a class='wikilink' href='/articles/castlevania-portrait-of-ruin-review/'>Portrait of Ruin</a> is the second Nintendo DS Castlevania game. Maybe, if Komani thinks it'll be worthwile, a third one will follow, since there have been three Castlevania games released for the predecessor the Gameboy Advance. All excellent Handheld Metroidvania games, but which one excels at what? A short overview would be handy indeed. Well here you go!

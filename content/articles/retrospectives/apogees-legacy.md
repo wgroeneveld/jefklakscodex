@@ -3,7 +3,7 @@ image = "gif/apogee_still.gif"
 imageActive = "/gif/apogee.gif"
 date = "2006-10-23"
 title = "Apogee's Legacy"
-tags = ['Apogee']
+tags = ['Apogee', 'retrospective']
 aliases = ['/articles/apogees-legacy/']
 +++
 

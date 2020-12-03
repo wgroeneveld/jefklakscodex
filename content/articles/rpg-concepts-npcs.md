@@ -2,7 +2,7 @@
 image = "/img/articles/rpg-npc_blocking.gif"
 date = "2007-01-02"
 title = "RPG Concepts: NPCS"
-tags = ['RPG Concepts', 'Knights of the Old Republic', 'Oblivion', 'Wizardry8', 'Wizardry7', 'Arcanum']
+tags = ['RPG Concepts', 'Knights of the Old Republic', 'Oblivion', 'Wizardry8', 'Wizardry7', 'Arcanum', 'feature']
 +++
 
 <img src="/img/articles/RPG.jpg"/>

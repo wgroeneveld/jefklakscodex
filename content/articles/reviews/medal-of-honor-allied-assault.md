@@ -4,6 +4,7 @@ date: 2002-04-09
 title: "Medal of Honor: Allied Assault Review"
 tags:
     - 'medal of honor'
+    - 'review'
 game_platform: 'PC'
 aliases:
     - '/articles/medal-of-honor-allied-assault-review/'

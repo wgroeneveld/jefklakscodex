@@ -2,7 +2,7 @@
 image = "/img/games/Gobliins2.jpg"
 date = "2006-10-16"
 title = "Gobliins 2: the Review"
-tags = ['Gobliins 2']
+tags = ['Gobliins 2', 'review']
 game_name = 'Gobliins 2'
 game_genre = 'Point&Click adventure'
 game_release_year = '1992'

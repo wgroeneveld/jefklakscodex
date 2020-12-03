@@ -4,6 +4,7 @@ date: 2002-04-09
 title: "The Sims: Vacation the Preview"
 tags:
     - 'the sims'
+    - 'preview'
 game_platform: 'PC'
 aliases:
     - /articles/the-sims-vacation-preview/

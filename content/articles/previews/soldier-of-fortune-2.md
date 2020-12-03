@@ -4,6 +4,7 @@ date: 2002-04-09
 title: "Soldier of Fortune 2: the Preview"
 tags:
     - 'soldier of fortune'
+    - 'preview'
 game_platform: 'PC'
 game_genre: 'FPS'
 aliases:

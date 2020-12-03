@@ -2,7 +2,7 @@
 image = "/img/games/simon2.jpeg"
 date = "2006-11-14"
 title = "Simon The Sorcerer 2 Review"
-tags = ['Simon the Sorcerer']
+tags = ['Simon the Sorcerer', 'review']
 game_name = 'Simon the Sorcerer 2'
 game_genre = 'Point & Click'
 aliases = ['/articles/simon-the-sorcerer-2-review/']

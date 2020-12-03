@@ -2,7 +2,7 @@
 image = "/img/games/ArxFatalis/title.jpg"
 date = "2007-03-30"
 title = "Arx Fatalis: the Review"
-tags = ['Arx Fatalis']
+tags = ['Arx Fatalis', 'review']
 game_name = 'Arx Fatalis'
 game_genre = 'FP RPG'
 aliases = ['/articles/arxfatalis-review/']

@@ -5,6 +5,7 @@ title: "Rainbow Six 3: Raven Shield - 17 Years Later"
 tags:
     - 'rainbow six'
     - 'raven shield'
+    - 'retrospective'    
 game_platform: 'pc'
 played_on: 'winxp'
 game_genre: 'Tactical Shooter'

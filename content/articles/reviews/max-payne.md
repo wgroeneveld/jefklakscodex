@@ -4,6 +4,7 @@ date: 2002-03-16
 title: "Max Payne Review"
 tags:
     - 'max payne'
+    - 'review'
 game_platform: 'PC'
 aliases:
     - /articles/max-payne-review/

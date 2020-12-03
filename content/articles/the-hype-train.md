@@ -2,7 +2,7 @@
 image = "/img/games/hypetrain.jpg"
 date = "2007-06-11"
 title = "The Hype Train"
-tags = ['hype train', 'Oblivion', 'Black and White', 'Fallout 3', 'Might and Magic', 'Deus Ex']
+tags = ['hype train', 'Oblivion', 'Black and White', 'Fallout 3', 'Might and Magic', 'Deus Ex', 'feature']
 +++
 
 ![the hype train](/img/articles/HypeTrain.jpg)

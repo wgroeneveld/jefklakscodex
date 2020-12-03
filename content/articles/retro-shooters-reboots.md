@@ -5,6 +5,7 @@ draft: true
 title: "A Look At the Retro Shooter Reboots: New Pixels Based on Old Ideas"
 tags:
     - 'retro shooters'
+    - 'feature'
 description: "TODO"
 ---
 

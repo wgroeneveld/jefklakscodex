@@ -7,7 +7,7 @@ game_release_year = '1999'
 aliases = ['/articles/jagged-alliance-2-review/']
 game_developer = 'Sir-Tech'
 title = "Jagged Alliance 2 Review"
-tags = ['Jagged Alliance 2']
+tags = ['Jagged Alliance 2', 'review']
 +++
 
 <img src="/img/Guides/JaggedAlliance2.jpg">

@@ -7,7 +7,7 @@ game_release_year = '1999'
 aliases = ['/articles/might-and-magic-vii-review/']
 game_developer = 'New World Computing'
 title = "Might and Magic VII: the Review"
-tags = ['Might and Magic VII', 'Might and Magic']
+tags = ['Might and Magic VII', 'Might and Magic', 'review']
 +++
 
 In the year 1999 the then-existing company New World Computing released version seven of their honored Might & Magic series, subtitled "**For Blood and Honor**". Most Might & Magic [-(MM)-] fans were quite happy since VII is by many people marked as (at least one of) the best in the series. Sadly, even New World Computing disappeared in 2003 and Ubisoft the giant looking evil company bought all NWC rights. The Might & Magic VII Publisher, 3DO also closed their doors. What's up with that? Is this some kind of bad disease, creating a brilliant game no-one cares about and thus nobody likes to play except hard-core fans? Let's not try to blame it on **EA** again. 

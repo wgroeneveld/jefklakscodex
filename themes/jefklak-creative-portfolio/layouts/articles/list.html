@@ -1,0 +1,54 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    {{ partial "mobile_nav_toggle.html" . }}
+
+        <div class="col-lg-8">
+          <img src="/img/logo.png"/>
+          <article>
+            {{ .Content }}
+          </article>
+
+          <h3>Latest <a href="/tags/retrospective/">Retrospectives</a> &raquo;</h3>
+          <div class="latest retros">
+            {{ $retros := first 4 (where .Pages.ByDate.Reverse ".Params.tags" "intersect" (slice "retrospective")) }}
+            {{ range $retros }}
+              {{ partial "portfolio-block.html" . }}
+            {{ end }}
+          </div>
+          <span class="latest-all">
+            <a href="/tags/retrospective/">Browse all retrospectives</a> &raquo;
+          </span>
+          <h3>Latest <a href="/tags/review/">Reviews</a> &raquo;</h3>
+          <div class="latest reviews">
+            {{ $guides := first 4 (where .Pages.ByDate.Reverse ".Params.tags" "intersect" (slice "review" "preview")) }}
+            {{ range $guides }}
+              {{ partial "portfolio-block.html" . }}
+            {{ end }}
+          </div>
+          <span class="latest-all">
+            <a href="/tags/review/">Browse all reviews</a> &raquo;
+          </span>
+          <h3>Latest <a href="/tags/feature/">Features</a> &raquo;</h3>
+          <div class="latest reviews">
+            {{ $guides := first 4 (where .Pages.ByDate.Reverse ".Params.tags" "intersect" (slice "feature")) }}
+            {{ range $guides }}
+              {{ partial "portfolio-block.html" . }}
+            {{ end }}
+          </div>
+          <span class="latest-all">
+            <a href="/tags/feature/">Browse all features</a> &raquo;
+          </span>
+          <h3>Latest <a href="/tags/guide/">Guides</a> &raquo;</h3>
+          <div class="latest guides">
+            {{ $guides := first 4 (where .Pages.ByDate.Reverse ".Params.tags" "intersect" (slice "guide")) }}
+            {{ range $guides }}
+              {{ partial "portfolio-block.html" . }}
+            {{ end }}
+          </div>
+          <span class="latest-all">
+            <a href="/tags/guide/">Browse all guides</a> &raquo;
+          </span>
+        <hr style="margin-top: 4rem" />
+</div>
+</div>
+{{ end }}

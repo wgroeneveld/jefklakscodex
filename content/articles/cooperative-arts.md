@@ -2,7 +2,7 @@
 image = "/img/games/coop.jpeg"
 date = "2006-10-28"
 title = "The Art of Cooperative (PC) Gaming"
-tags = ['coop', 'age of wonders', 'disciples', 'heroes of might and magic', 'commandos', 'emperor', 'doom']
+tags = ['coop', 'age of wonders', 'disciples', 'heroes of might and magic', 'commandos', 'emperor', 'doom', 'feature']
 +++
 
 <img src="/img/articles/Coop.jpg">

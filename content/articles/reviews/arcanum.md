@@ -2,7 +2,7 @@
 image = "/img/games/Arcanum/logo.jpg"
 date = "2007-03-30"
 title = "Arcanum: the Review"
-tags = ['Arcanum']
+tags = ['Arcanum', 'review']
 game_name = 'Arcanum'
 game_genre = 'PC RPG'
 game_release_year = '2001'

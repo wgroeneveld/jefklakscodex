@@ -7,6 +7,7 @@ tags:
     - 'retro shooters'
     - 'Apogee'
     - 'Ion Fury'
+    - 'review'
 game_name: 'Ion Fury'
 aliases:
     - /articles/ion-fury/

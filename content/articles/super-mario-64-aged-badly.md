@@ -5,6 +5,7 @@ title: "Super Mario 64 aged badly"
 tags:
     - 'N64'
     - 'Mario 64'
+    - 'feature'
 ---
 
 Super Mario 3D All Stars, the sneaky compilation release Nintendo bestowed upon us in the previous month, contains high definition remakes of three classic Mario 3D titles: Super Mario 64 (N64), Super Mario Sunshine (Gamecube), and Super Mario Galaxy (Wii). I have a special place in my heart for Sunshine, despite the general hate the game got. However, I wanted to start where any brave gamer would start: at the beginning. 

@@ -2,7 +2,7 @@
 image = "/img/games/lich.jpeg"
 date = "2006-10-24"
 title = "On Killing a Lich"
-tags = ['Baldurs Gate 2', 'Final Fantasy', 'Neverwinter Nights', 'Tactics Ogre', 'Warcraft 3', 'Might and Magic VIII']
+tags = ['Baldurs Gate 2', 'Final Fantasy', 'Neverwinter Nights', 'Tactics Ogre', 'Warcraft 3', 'Might and Magic VIII', 'feature']
 +++
 
 <img src="/img/articles/Lich.jpg"/>
