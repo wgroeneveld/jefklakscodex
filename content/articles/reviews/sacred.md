@@ -1,7 +1,7 @@
 ---
 image: "/img/games/sacred/cover.jpg"
 date: "2020-11-15"
-title: "Sacred Gold VS Diablo II: an In-Depth Analysis"
+title: "Sacred Gold VS Diablo 2: an In-Depth Analysis"
 tags:
     - 'sacred'
     - 'hack and slash'
@@ -9,7 +9,7 @@ tags:
     - 'review'
 game_platform: 'pc'
 played_on: 'winxp'
-description: "Sixteen years after its initial release, I finally managed to take the time to thoroughly inspect Sacred (the Gold release). I've always been a big fan of hack & slash games, so let's take this opportunity to compare mechanics of Sacred VS the undisputed king: Diablo II."
+description: "Sixteen years after its initial release, I finally managed to take the time to thoroughly inspect Sacred (the Gold release). I've always been a big fan of hack & slash games, so let's take this opportunity to compare mechanics of Sacred VS the undisputed king: Diablo 2."
 game_genre: 'Hack and Slash'
 game_release_year: '2004'
 game_developer: 'Ascaron'
