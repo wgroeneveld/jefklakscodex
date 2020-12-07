@@ -2,7 +2,7 @@
     {{ partial "mobile_nav_toggle.html" . }}
 
         <div class="col-lg-8">
-          <img src="/img/logo.png"/>
+          <img src="/img/logo.png" class="logo" />
           {{ if eq .Paginator.PageNumber 1 }}
             <article>
               {{ .Content }}

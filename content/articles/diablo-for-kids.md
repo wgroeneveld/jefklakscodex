@@ -7,7 +7,7 @@ game_genre = 'Hack and Slash'
 game_release_year = '2012'
 game_developer = 'Blizzard Entertainment'
 title = "Diablo III: Diablo for Kids"
-tags = ['Diablo III', 'Diablo', 'Hack & Slash', 'feature']
+tags = ['Diablo III', 'Diablo', 'Hack and Slash', 'feature']
 +++
 
 Ever wanted to play a _real_ dungeon crawler but got held back by the possibility of a carpel tunnel syndrome? Did Diablo 2's skill tree make you dizzy and the hard decisions on where to dump attribute points net you an increased blood pressure? No more, with Diablo III: Diablo for Kids! Cruising through the killing fields by the press of a single button. Forget health potions, character builds and scouring dungeons for loot. It's all made much more accessible and _fun_ to play. At least, for those who didn't know what Diablo really was like, before version 3. With Diablo III's Eternal Collection arriving this week on the Nintendo Switch (what? A Blizzard game on a Nintendo Console? That's right!), I take a look at my all-time favorite _clickedy-click_ game genre and try to bring back some fond memories. 
