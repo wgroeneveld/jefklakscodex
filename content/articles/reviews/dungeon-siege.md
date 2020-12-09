@@ -8,6 +8,9 @@ tags:
     - 'diablo'
     - 'review'
 game_platform: 'pc'
+howlongtobeat_id: 2956
+howlongtobeat_hrs: 29
+game_name: 'Dungeon Siege'
 played_on: 'win98'
 description: "Next in line after finishing Sacred: whacking my way through endless hordes of Krugs, skeletons, crystal shards, and goblins. How does the original Dungeon Siege hold up compared to the hack & slash king Diablo 2? "
 game_genre: 'Hack and Slash'

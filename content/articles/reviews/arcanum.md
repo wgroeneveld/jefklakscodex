@@ -1,14 +1,19 @@
-+++
-image = "/img/games/Arcanum/logo.jpg"
-date = "2007-03-30"
-title = "Arcanum: the Review"
-tags = ['Arcanum', 'review']
-game_name = 'Arcanum'
-game_genre = 'PC RPG'
-game_release_year = '2001'
-aliases = ['/articles/arcanum-review/']
-game_developer = 'Troika Games'
-+++
+---
+image: "/img/games/Arcanum/logo.jpg"
+date: "2007-03-30"
+title: "Arcanum: the Review"
+tags:
+    - 'Arcanum'
+    - 'review'
+howlongtobeat_id: 557
+howlongtobeat_hrs: 33.5
+game_name: 'Arcanum'
+game_genre: 'PC RPG'
+game_release_year: '2001'
+aliases: 
+    - '/articles/arcanum-review/'
+game_developer: 'Troika Games'
+---
 
 <img src="/img/Guides/Arcanum.jpg"/>
 

@@ -8,6 +8,9 @@ tags:
     - 'diablo'
     - 'review'
 game_platform: 'pc'
+howlongtobeat_id: 6678
+howlongtobeat_hrs: 14
+game_name: 'nox'
 played_on: 'win98'
 description: "Ideated in the 1995 college years of Michael Booth, this intended to be multiplayer focused fast-paced wizard combat game ultimately would wound up to be compared to Diablo II, which was released five months later. Yet, a lot of the likable charm, quickness and quirkiness remained. Is this really a traditional hack & slash game?"
 game_genre: 'Hack and Slash'

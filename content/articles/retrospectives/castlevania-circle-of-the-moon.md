@@ -1,15 +1,25 @@
-+++
-image = "/img/articles/cotm_boss.jpg"
-imageActive = "/img/articles/cotm_boss.jpg"
-aliases = ['/articles/circle-of-the-moon-retrospective/']
-date = "2018-09-09"
-title = "Castlevania Circle of the Moon: a retrospective"
-tags = ['Castlevania Circle of the Moon', 'Castlevania', 'Castlevania gba', 'Circle of the Moon', 'Castlevania cotm', 'retrospective']
-game_platform = 'gba'
-game_genre = 'Metroidvania'
-game_release_year = '2001'
-game_developer = 'Nintendo'
-+++
+---
+image: "/img/articles/cotm_boss.jpg"
+imageActive: "/img/articles/cotm_boss.jpg"
+aliases:
+    - '/articles/circle-of-the-moon-retrospective/'
+date: "2018-09-09"
+title: "Castlevania Circle of the Moon: a retrospective"
+tags:
+    - 'Castlevania Circle of the Moon'
+    - 'Castlevania'
+    - 'Castlevania gba'
+    - 'Circle of the Moon'
+    - 'Castlevania cotm'
+    - 'retrospective'
+game_platform: 'gba'
+howlongtobeat_id: 1578
+howlongtobeat_hrs: 10
+game_name: 'Castlevania circle of the moon'
+game_genre: 'Metroidvania'
+game_release_year: '2001'
+game_developer: 'Konami'
+---
 
 As the hunt continues, from [Aria of Sorrow](/articles/aria-of-sorrow-retrospective) to the beginning of Castlevania's appearance on the GBA, Circle of the Moon, I have the uneasy feeling that my whip offers less solace in this scarier version of the castle. The encounter with an _earth demon_ in the very first minutes acts as a warning for the rest of the game: _be prepared to see YOU DIED a lot!_ Nathan Graves has to free his master from the clutches of - you guessed it - Dracula and partners, on the way avoiding the increasingly jealous Hugh Baldwin, the son of his master. 
 

@@ -37,6 +37,12 @@
         {{ with .Params.game_developer }}
           &nbsp;Developer: <a href="https://en.wikipedia.org/wiki/{{ . }}" target="_blank" class="external">{{ . }}</a><br/>
         {{ end }}
+        {{ with .Params.howlongtobeat_id }}
+          &nbsp;<a href="https://howlongtobeat.com/game?id={{ . }}" target="_blank" class="external">How long to beat</a>
+        {{ end }}
+        {{ with .Params.howlongtobeat_hrs }}
+          : <code>{{ . }}</code> hours<br/>
+        {{ end }}
         </p>
       </div>
     {{ end }}

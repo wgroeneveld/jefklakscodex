@@ -8,6 +8,9 @@ tags:
     - 'diablo'
     - 'review'
 game_platform: 'pc'
+howlongtobeat_id: 8049
+howlongtobeat_hrs: 25
+game_name: 'sacred'
 played_on: 'winxp'
 description: "Sixteen years after its initial release, I finally managed to take the time to thoroughly inspect Sacred (the Gold release). I've always been a big fan of hack & slash games, so let's take this opportunity to compare mechanics of Sacred VS the undisputed king: Diablo 2."
 game_genre: 'Hack and Slash'

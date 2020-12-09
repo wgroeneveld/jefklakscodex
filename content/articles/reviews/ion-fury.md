@@ -8,6 +8,8 @@ tags:
     - 'Apogee'
     - 'Ion Fury'
     - 'review'
+howlongtobeat_id: 49534
+howlongtobeat_hrs: 9.5
 game_name: 'Ion Fury'
 aliases:
     - /articles/ion-fury/

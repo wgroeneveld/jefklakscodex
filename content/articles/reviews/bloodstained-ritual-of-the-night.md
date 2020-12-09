@@ -9,6 +9,9 @@ tags:
     - 'review'
 description: "One year later, Ritual of the Night is still unplayable on the Nintendo Switch. Numerous patches later, the game still stutters and crashes, with its most popular screen being the loading one. We're off to a great start here... "
 game_platform: 'switch'
+howlongtobeat_id: 26266
+howlongtobeat_hrs: 13.5
+game_name: "Bloodstained ritual of the night"
 game_genre: 'Metroidvania'
 game_release_year: '2019'
 game_developer: 'ArtPlay'

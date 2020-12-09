@@ -1,10 +1,25 @@
-+++
-image = "/img/games/BaldursGate1/portrait.png"
-date = "2019-07-31"
-title = "Experiencing the Enhanced Baldur's Gate"
-tags = ['Baldurs Gate 1', 'Baldurs Gate 2', 'feature']
-keywords = ['Baldurs Gate 2', 'Baldurs Gate', 'bg1', 'bgee', 'bg1ee']
-+++
+---
+image: "/img/games/BaldursGate1/portrait.png"
+date: "2019-07-31"
+title: "Experiencing the Enhanced Baldur's Gate"
+tags:
+    - 'Baldurs Gate 1'
+    - 'Baldurs Gate 2'
+    - 'feature'
+keywords:
+    - 'Baldurs Gate 2'
+    - 'Baldurs Gate'
+    - 'bg1'
+    - 'bgee'
+    - 'bg1ee'
+game_platform: 'PC'
+game_genre: 'RPG'
+howlongtobeat_id: 814
+howlongtobeat_hrs: 30
+game_name: 'Baldurs Gate Enhanced Edition'
+game_release_year: '2012'
+game_developer: 'Beamdog'
+---
 
 We move from one tree to the other, carefully glancing towards the ever so black fog of war. Imoen investigates things for us, while we prepare for the inevitable. Then, a sudden scream. Our friend is in sudden need of help! To battle! Or, as the more evil aligned main protagonist would say, 'Oh well. Imoen had it coming. At least she can stop saying "good on you if you save the day" now. Let's go guys. Now, where do I recruit another thief, that doesn't mind a good backstab or two?' 
 

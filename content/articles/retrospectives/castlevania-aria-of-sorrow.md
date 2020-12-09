@@ -1,15 +1,25 @@
-+++
-image = "gif/aria-of-sorrow_still.gif"
-imageActive = "/gif/aria-of-sorrow.gif"
-date = "2018-07-31"
-title = "Castlevania Aria of Sorrow: a retrospective"
-aliases = ['/articles/aria-of-sorrow-retrospective/']
-tags = ['Castlevania aria of sorrow', 'Castlevania', 'Castlevania gba', 'Aria of sorrow', 'Castlevania aos', 'retrospective']
-game_platform = 'gba'
-game_genre = 'Metroidvania'
-game_release_year = '2002'
-game_developer = 'Nintendo'
-+++
+---
+image: "gif/aria-of-sorrow_still.gif"
+imageActive: "/gif/aria-of-sorrow.gif"
+date: "2018-07-31"
+title: "Castlevania Aria of Sorrow: a retrospective"
+aliases:
+    - '/articles/aria-of-sorrow-retrospective/'
+tags:
+    - 'Castlevania aria of sorrow'
+    - 'Castlevania'
+    - 'Castlevania gba'
+    - 'Aria of sorrow'
+    - 'Castlevania aos'
+    - 'retrospective'
+game_platform: 'gba'
+howlongtobeat_id: 1576
+howlongtobeat_hrs: 7
+game_name: 'Castlevania aria of sorrow'
+game_genre: 'Metroidvania'
+game_release_year: '2002'
+game_developer: 'Konami'
+---
 
 Calling Aria of Sorrow the best handheld Castlevania is quite a bold statement: they're all great in their own way. But after replaying this again (and again...) I've made up my mind: it is **the best** Castlevania - period. It's the second best Gameboy Advance title of all times according to IGN. Yes, I am insinuating it's better than Symphony of the night. And yes, I know of the inverted castle's greatness and the rip-off in Harmony of Dissonance. Soma's gameplay mechanics: the soul system, is simply more engaging to me. 
 

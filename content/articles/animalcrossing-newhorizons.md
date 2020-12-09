@@ -1,16 +1,22 @@
-+++
-imageActive = "gif/acnh.gif"
-image = "gif/acnh_still.gif"
-date = "2020-04-05"
-title = "Animal Crossing: New Horizons Adventure Blog"
-tags = ['Animal Crossing', 'feature']
-game_name = 'Animal Crossing: New Horizons'
-description = 'It is a fresh breeze indeed as the Island unfolds, buildings appear, and I sweat my ass off trying to collect enough lumber and clay to satisfy even the most grumpy of Tom Nooks. Welcome to the latest installment of Animal Crossing!'
-game_platform = 'switch'
-game_genre = 'Life sim'
-game_release_year = '2020'
-game_developer = 'Nintendo'
-+++
+---
+imageActive: "gif/acnh.gif"
+image: "gif/acnh_still.gif"
+date: "2020-04-05"
+title: "Animal Crossing: New Horizons Adventure Blog"
+tags:
+    - 'Animal Crossing New Horizons'
+    - 'blog'
+    - 'Animal Crossing'
+    - 'feature'
+howlongtobeat_id: 68240
+howlongtobeat_hrs: 60.5
+game_name: 'Animal Crossing: New Horizons'
+description: 'It is a fresh breeze indeed as the Island unfolds, buildings appear, and I sweat my ass off trying to collect enough lumber and clay to satisfy even the most grumpy of Tom Nooks. Welcome to the latest installment of Animal Crossing!'
+game_platform: 'switch'
+game_genre: 'Life sim'
+game_release_year: '2020'
+game_developer: 'Nintendo'
+---
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 
 

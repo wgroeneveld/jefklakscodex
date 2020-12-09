@@ -1,0 +1,28 @@
+{
+  "name": "jefklakscodex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "howlongtobeat.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "howlongtobeat": "^1.2.1",
+    "parser-front-matter": "^1.6.4"
+  },
+  "scripts": {
+    "build": "/usr/local/bin/hugo",
+    "install": "node howlongtobeat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgroeneveld/jefklakscodex.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/wgroeneveld/jefklakscodex/issues"
+  },
+  "homepage": "https://github.com/wgroeneveld/jefklakscodex#readme"
+}

@@ -8,6 +8,9 @@ tags:
     - 'retrospective'    
 game_platform: 'pc'
 played_on: 'winxp'
+howlongtobeat_id: 10448
+howlongtobeat_hrs: 11
+game_name: 'rainbow six raven shield'
 game_genre: 'Tactical Shooter'
 game_release_year: '2003'
 game_developer: 'Red Storm Entertainment'

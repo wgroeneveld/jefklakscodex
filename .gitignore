@@ -2,3 +2,4 @@
 *.sublime-workspace
 docs/
 resources/_gen/
+node_modules/
