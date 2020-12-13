@@ -1,5 +1,5 @@
 ---
-image: "/img/articles/d3.jpg"
+image: "/img/games/diablo3/cover.jpg"
 date: "2020-12-13"
 title: "Diablo 3 VS Diablo 2: an In-Depth Analysis"
 tags:
