@@ -6,7 +6,11 @@
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
 
-<meta name="description" content="{{ .Site.Title }} - {{ .Site.Title }}">
+{{ if .Description }}
+  <meta name="description" content="{{ .Description | safeHTML }}">
+{{ else }}
+  <meta name="description" content="{{ .Summary | safeHTML }}">
+{{ end }}
 
 {{ if .Keywords }}
   <meta content="{{ delimit .Keywords ", " }}, {{ .Title }}" name="keywords">

@@ -18,13 +18,13 @@
         </div>
 
         <p style="position: relative;">
-        <img src="{{ $url }}{{ .Params.image }}" alt="game cover image" class="img-responsive img-inactive" style="border: 1px solid black"/>
+        <img src="{{ $url }}{{ .Params.image }}" alt="game cover image" alt="game cover" class="img-responsive img-inactive" style="border: 1px solid black"/>
         {{ with .Params.imageActive }}
-          <img src="{{ $url }}{{ . }}" alt="game cover image active" class="img-responsive img-active" style="border: 1px solid black"/>
+          <img src="{{ $url }}{{ . }}" alt="game cover image active" alt="game cover" class="img-responsive img-active" style="border: 1px solid black"/>
         {{ end }}
 
         {{ with .Params.game_platform }}
-          <img src="{{ $url }}img/{{ . }}.png" alt="{{ . }}" class="sidebar-game-platform img-responsive"/>
+          <img src="{{ $url }}img/{{ . }}.png" alt="{{ . }}" alt="platform" class="sidebar-game-platform img-responsive"/>
         {{ end }}
         <br/>
 

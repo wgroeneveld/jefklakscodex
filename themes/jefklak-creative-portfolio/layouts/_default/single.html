@@ -8,8 +8,7 @@
 
         <header>
          <h1>{{ .Title }}</h1>
-          <h5>
-            <span style="color: grey;">
+            <span class="metatitle">
               <span title="Created Date">
                       <i class='fa fa-calendar'></i>&nbsp;{{ .Date.Format (.Site.Params.dateFormat | default "2 January 2006") }}
                   </span>
@@ -21,7 +20,6 @@
                 </span>
                 {{ end }}
           </span>
-        </h5>
         <hr/>
         </header>
 
@@ -53,9 +51,9 @@
 
         {{ if (not .Params.disableComments) }}
           <hr/>
-          <h4 class="page-header"><i class="fa fa-comments-o"></i>&nbsp;
+          <h3 class="page-header"><i class="fa fa-comments-o"></i>&nbsp;
               Join the Discussion
-          </h4>        
+          </h3>        
 
         {{- if (ne hugo.Environment "development") }}
           <script defer src="https://commento.jefklakscodex.com/js/commento.js"></script>

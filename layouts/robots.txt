@@ -1,1 +1,3 @@
+Sitemap: https://jefklakscodex.com/sitemap.xml
 User-agent: *
+Disallow: 
