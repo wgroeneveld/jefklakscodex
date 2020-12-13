@@ -95,7 +95,7 @@ The background music in town comes off as a bit too much after hours of running 
 
 ### Cinematic
 
-I cannot remember seeing one. The "epic" feel of a grand adventure is a bit missing: it's more of a stroll in a mine. The sense of urge is there as the blight is getting you yourself, and things are worsening for the village, but still: nothing is as pressing as the eminent prime evils escaping their soulstone prisons. 
+I cannot remember seeing one. The "epic" feel of a grand adventure is a bit missing: it's more of a stroll into a mine. The sense of urge is there as your blight infection is worsening, and things are looking grim for the villagers, but still: nothing is as pressing as the eminent prime evils escaping their soulstone prisons. 
 
 ![](/img/games/torchlight/fortress.jpg "Goblins in the molten lava fortress levels.")
 
