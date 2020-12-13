@@ -14,11 +14,14 @@ summaryLength = 20
   email = "wouter.groeneveld@gmail.com"
 
 [markup]
-  defaultMarkdownHandler = "blackfriday"
+  defaultMarkdownHandler = "goldmark"
+  
+  [markup.goldmark.renderer]
+    unsafe= true
 
 [params]  
   description = "Retro game thoughts"
-  copyright = "<a href='/no-copyright'>No &copy; reserved - sharing is caring</a>. <br/>An integral part of <a href='https://brainbaking.com/' target='_blank'>Brain Baking</a>."
+  copyright = "<a href='/no-copyright'>No &copy; reserved - sharing is caring</a>. <br/>An integral part of <a href='https://brainbaking.com/' rel='noopener' target='_blank'>Brain Baking</a>."
   sidebarAbout = [
     "You’re browsing “The Codex”, a dedicated and highly opinionated website about nostalgic games that left a lasting impression on me."
   ]

@@ -9,9 +9,9 @@
 <meta name="description" content="{{ .Site.Title }} - {{ .Site.Title }}">
 
 {{ if .Keywords }}
-  <meta content="{{ delimit .Keywords ", " }}" name="keywords">
+  <meta content="{{ delimit .Keywords ", " }}, {{ .Title }}" name="keywords">
 {{ else if .Params.tags }}
-  <meta content="{{ delimit .Params.tags ", " }}" name="keywords">
+  <meta content="{{ delimit .Params.tags ", " }}, {{ .Title }}" name="keywords">
 {{ end }}
 
 <!-- opengraph meta -->
