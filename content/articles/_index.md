@@ -1,5 +1,5 @@
 +++
-title = "Jefklak's Retro Gaming Codex"
+title = "Retro Gaming"
 +++
 
 <strong><i class='fa fa-book'></i>&nbsp;Codex | <i class='fa fa-comments'></i>&nbsp;Articles | <i class='fa fa-gamepad'></i>&nbsp;Guides | <i class='fa fa-newspaper-o'></i>&nbsp;Reviews.</strong>

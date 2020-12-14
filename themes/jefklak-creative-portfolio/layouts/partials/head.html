@@ -1,15 +1,18 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-{{ with .Title }}<title>{{ . }}</title>{{ end }}
+<title>{{ .Title }} | {{ .Site.Title }}</title>
+<meta content="{{ .Title }} | {{ .Site.Title }}" property="og:title">  
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
 
 {{ if .Description }}
-  <meta name="description" content="{{ .Description | safeHTML }}">
+  <meta name="description" content="{{ .Title }}. {{ .Description | safeHTML }} Via {{ .Site.Title }}">
+  <meta content="{{ .Title }}. {{ .Description | safeHTML }} Via {{ .Site.Title }}" property="og:description">  
 {{ else }}
-  <meta name="description" content="{{ .Summary | safeHTML }}">
+  <meta name="description" content="{{ .Title }}. {{ .Summary | safeHTML }}">
+  <meta content="{{ .Title }}. {{ .Summary | safeHTML }} Via {{ .Site.Title }}" property="og:description">  
 {{ end }}
 
 {{ if .Keywords }}
@@ -20,8 +23,7 @@
 
 <!-- opengraph meta -->
 <!-- see https://github.com/nozzle/hugo-snippets/blob/master/layouts/partials/head/seo/open_graph.html -->
-<meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}" property="og:title">
-<meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}" property="og:description">
+
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
 {{ if .Params.image }}
