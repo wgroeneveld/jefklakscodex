@@ -1,6 +1,15 @@
-+++
-title = "Retro Gaming"
-+++
+---
+title: 'Retro Gaming'
+description: 'Nostalgic retro games. Nintendo handheld gaming love mixed with nineties DOS games and old school PC RPGs.'
+keywords:
+    - dos games
+    - old school pc RPGs
+    - retro pc games
+    - retro gba games
+    - gba RPGs
+    - retro nintendo ds games
+    - game retrospectives
+---
 
 <strong><i class='fa fa-book'></i>&nbsp;Codex | <i class='fa fa-comments'></i>&nbsp;Articles | <i class='fa fa-gamepad'></i>&nbsp;Guides | <i class='fa fa-newspaper-o'></i>&nbsp;Reviews.</strong>
 <hr/>
