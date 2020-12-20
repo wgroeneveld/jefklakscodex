@@ -9,9 +9,11 @@
         <header>
          <h1>{{ .Title }}</h1>
             <span class="metatitle">
-              <span title="Created Date">
-                      <i class='fa fa-calendar'></i>&nbsp;{{ .Date.Format (.Site.Params.dateFormat | default "2 January 2006") }}
-                  </span>
+                {{ $createdate := .Date.Format (.Site.Params.dateFormat | default "2 January 2006") }}
+
+                <span title="Created Date">
+                  <i class='fa fa-calendar'></i>&nbsp;{{ $createdate }}
+                </span>
 
                 {{ if (not .Params.disableComments) }}
                   &nbsp;|&nbsp;

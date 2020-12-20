@@ -1,7 +1,7 @@
 ---
 imageActive: "gif/acnh.gif"
 image: "gif/acnh_still.gif"
-date: "2020-04-05"
+date: "2020-12-20"
 title: "Animal Crossing: New Horizons Adventure Blog"
 tags:
     - 'Animal Crossing New Horizons'
@@ -19,6 +19,34 @@ game_developer: 'Nintendo'
 ---
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 
+
+### Suddenly, Winter arrives!
+
+<div style="text-align: right;">[ Date: 20/12/2020 | <a href="#top">top</a> ]</div>
+
+![](/img/games/ac/nhwinter.jpg "Jingle bells?")
+
+I should have played this game more often. Villages complain that they haven't seen me in more than two months, my weeds are getting out of control, and I have no idea what to do with all those pumpkins. Apparently, a famous chef came by at the end of November. I'm missing out on every single festive activity and to my shame, also on a lot of villagers' birthdays. Oops.
+
+Well, I started today on a positive note:
+
+- Paid off my loan. Again. 
+- Got another loan. Again. About `1.250.000` bells. WTF.
+- Snatched 10 snowflakes, built a snowman, and crafted an icy archway.
+
+It is high time that I try to see Redd more often. The museum is full of stuff, except paintings and sculptures. The Christmas Trees are taken out, pine trees have jolly lights in them, and everybody is looking forward to what they call _'Toy Day'_.
+
+![](/img/games/ac/nhvisitor.jpg "Playing cards with a camping visitor.")
+
+Another positive note: I finally win at the stupid card game with camping visitors, where you have to guess which kind of card they're holding. Basically a one out of four guess chance. My prize is... A stinkin' working top? Dude! Shep is sick and I got him some medicine, hopefully he'll be pumping iron again soon.
+
+### In Fall, we Taste Mushrooms
+
+![](/img/games/ac/nhfall.jpg "Mushroom picking.")
+
+I love the fact that Animal Crossing: New Horizons keeps on getting patched and updated (v.`1.6.0b` on 20th of December). And I also hate it, as it clearly shows that the game wasn't nearly as finished as it should be when initially released. Imagine a Gamecube mini-DVD with a game called Animal Crossing on it, with two missing seasons. How are you going to patch that? Supply gamers a second DVD?
+
+In any case, I missed out on fall. My character is having a panic FOMO attack! There are different kinds of mushrooms, acorns, and maple leaves - of course all usable in DIY crafting recipes. Oh, and in the beginning of October, I visited my colleage's daughter's island, where we janked some pears off the trees. With permission, of course. 
 
 ### Something took a dive.
 
