@@ -2,6 +2,8 @@
 image: "/img/articles/mario3dallstars.jpg"
 date: "2020-10-15"
 title: "Super Mario 64 aged badly"
+aliases:
+    - '/articles/super-mario-64-aged-badly'
 tags:
     - 'N64'
     - 'Mario 64'

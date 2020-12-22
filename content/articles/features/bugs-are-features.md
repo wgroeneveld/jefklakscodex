@@ -2,6 +2,7 @@
 date = "2007-03-30"
 image = "/img/BlogPages/fallout3.jpg"
 title = "Bugs Are Features"
+aliases = ['/articles/bugs-are-features/']
 tags = ['Fallout', 'Troika', 'feature']
 +++
 

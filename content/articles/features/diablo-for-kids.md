@@ -4,6 +4,7 @@ date = "2018-11-05"
 game_name = 'Diablo 3'
 game_platform = 'switch'
 game_genre = 'Hack and Slash'
+aliases = ['/articles/diablo-for-kids']
 game_release_year = '2012'
 game_developer = 'Blizzard Entertainment'
 title = "Diablo III: Diablo for Kids"

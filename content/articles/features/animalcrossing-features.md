@@ -1,5 +1,6 @@
 +++
 imageActive = "gif/acgc.gif"
+aliases = ['/articles/animalcrossing-features']
 image = "gif/acgc_still.gif"
 date = "2020-05-24"
 title = "31 Animal Crossing GCN Features that (never?) returned"

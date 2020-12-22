@@ -2,6 +2,8 @@
 image: "/img/games/BaldursGate1/portrait.png"
 date: "2019-07-31"
 title: "Experiencing the Enhanced Baldur's Gate"
+aliases:
+    - /articles/bg1-ee/
 tags:
     - 'Baldurs Gate 1'
     - 'Baldurs Gate 2'

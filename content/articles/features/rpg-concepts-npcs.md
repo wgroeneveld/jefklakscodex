@@ -2,6 +2,7 @@
 image = "/img/articles/rpg-npc_blocking.gif"
 date = "2007-01-02"
 title = "RPG Concepts: NPCS"
+aliases = ['/articles/rpg-concepts-npcs']
 tags = ['RPG Concepts', 'Knights of the Old Republic', 'Oblivion', 'Wizardry8', 'Wizardry7', 'Arcanum', 'feature']
 +++
 

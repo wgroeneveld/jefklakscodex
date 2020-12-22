@@ -2,6 +2,7 @@
 image = "/img/Guides/cv-harmony.jpg"
 date = "2007-01-12"
 title = "Handheld Castlevanias"
+aliases = ['/articles/handheld-castlevanias']
 tags = ['Castlevania', 'Portrait of Ruin', 'Harmony of Dissonance', 'Circle of the Moon', 'Aria of Sorrow', 'Dawn of Sorrow', 'feature']
 +++
 

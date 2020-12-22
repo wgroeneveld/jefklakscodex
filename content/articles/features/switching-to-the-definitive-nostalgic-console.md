@@ -2,7 +2,8 @@
 image = "img/articles/curseofthemoon.jpg"
 date = "2018-06-08"
 title = "'Switch'-ing to the definitive nostalgic console"
-tags = ['Switch']
+tags = ['Switch', 'virtual console', 'feature']
+aliases = ['/articles/switching-to-the-definitive-nostalgic-console']
 keywords = ['switch nostalgic retro', 'nintendo virtual console', 'nintendo switch', 'castlevania switch retro', 'feature']
 +++
 
@@ -22,10 +23,7 @@ To give you an example, Inti creates' Castlevania: Curse of the Moon that was re
 - 3DS – 4%
 - PlayStation Vita – 4%
 
-<center>
-    <img src="/img/articles/curseofthemoon_big.jpg">
-    Castlev-erm, Bloodstained: Curse of the Moon
-</center>
+![](/img/articles/curseofthemoon_big.jpg "Castlev-erm, Bloodstained: Curse of the Moon")
 
 Of course the average Playstation 4 gamer is not looking for a hardcore 8-BIT 2D platformer but for the next iteration of Call of Duty. As another example, Ron Gilbert tweets "[**Switch our the best selling console for Thimbleweed Park.**](https://twitter.com/grumpygamer/status/933385161407741952?lang=en)". Of course it is, it's a perfect match! 
 
@@ -49,7 +47,7 @@ Inspired by: **Super Metroid**, **Castlevania: Symphony of the Night**
 
 Heavyweight metroidvania's:
 
-- Bloodstained: Ritual of the Night (TBA) (16)
+- [Bloodstained: Ritual of the Night](/articles/reviews/bloodstained-ritual-of-the-night) (16)
 - Dandara (16)
 - The Mummy Demastered (16)
 - Cave Story+
@@ -91,10 +89,7 @@ A new subgenre called **Masocore platformers** emerged from these games, also in
 - Super Meat Boy
 - Slime San
 
-<center>
-    <img src="/img/articles/celeste.png">
-    Celeste
-</center>
+![](/img/articles/celeste.png "Celeste on Switch")
 
 #### Hardcore 3D platforming
 
@@ -139,10 +134,7 @@ Inspired by: **Monkey Island**
 
 ### Roleplaying
 
-<center>
-    <img src="/img/articles/octopathtraveller.jpg">
-    Octopath Traveller
-</center>
+![](/img/articles/octopathtraveller.jpg "Octopath Traveller on Switch")
 
 #### Strategy RPGs
 
@@ -158,13 +150,16 @@ Inspired by: **Final Fantasy Tactics**, **X-Com**
 Inspired by: **Diablo**
 
 - Titan Quest 
+- [Diablo III](/articles/reviews/diablo-3)
+- [Torchlight II](/articles/reviews/torchlight-2)
 
 #### Classic Western RPGs
 
 Inspired by: **Might and Magic**, **Baldur's Gate**
 
 - Darkest Dungeon
-- Pillars of Eternity II (TBA)
+- Pillars of Eternity II
+- The Divinity: Original Sin ports
 
 #### Classic JRPGs 
 

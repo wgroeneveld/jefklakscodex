@@ -2,6 +2,8 @@
 image: "/img/articles/nostalgia_gameboy.jpg"
 date: "2020-08-20"
 title: "The Gaming Setup, a 2007 Flashback"
+aliases:
+    - '/articles/gaming-setup-2007-flashback'
 tags:
     - 'retro'
     - 'collecting'

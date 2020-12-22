@@ -2,6 +2,7 @@
 imageActive = "gif/acww.gif"
 image = "gif/acww_still.gif"
 date = "2006-10-01"
+aliases = ['/articles/animalcrossing-wirldworld']
 title = "Animal Crossing: Wild World Adventure Blog"
 tags = ['Animal Crossing', 'feature']
 game_name = 'Animal Crossing: Wild World'

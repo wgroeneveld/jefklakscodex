@@ -1,6 +1,8 @@
 ---
 title: 'Reviews from 2001 revived!'
 image: "/img/games/CCRenegade/screen001_k.jpg"
+aliases:
+    - '/articles/reviews-from-2001-revived/'
 tags: 
     - 'feature'
 date: 2020-09-25

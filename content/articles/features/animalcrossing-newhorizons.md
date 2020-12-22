@@ -3,6 +3,8 @@ imageActive: "gif/acnh.gif"
 image: "gif/acnh_still.gif"
 date: "2020-12-20"
 title: "Animal Crossing: New Horizons Adventure Blog"
+aliases:
+    - /articles/animalcrossing-newhorizons
 tags:
     - 'Animal Crossing New Horizons'
     - 'blog'

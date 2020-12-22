@@ -2,6 +2,7 @@
 image = "/img/games/gbarpg.jpeg"
 date = "2006-11-15"
 title = "Impressive GBA RPGs"
+aliases = ['/articles/gba-rpgs']
 tags = ['rpg concepts', 'Final Fantasy', 'Yggdra Union', 'Fire Emblem', 'Golden Sun', 'Tatics Ogre', 'Final Fantasy Tactics', 'Riviera', 'feature']
 +++
 

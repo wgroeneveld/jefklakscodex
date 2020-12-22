@@ -2,6 +2,7 @@
 image = "/img/articles/RPG-world_ultima.jpg"
 date = "2007-01-04"
 title = "RPG Concepts: Items"
+aliases = ['/articles/rpg-concepts-items']
 tags = ['RPG Concepts', 'Divine Divinity', 'Ultima', 'Temple of the Elemental Evil', 'Blue Dragon', 'Neverwinter Nights', 'Baldurs Gate 2', 'feature']
 +++
 
