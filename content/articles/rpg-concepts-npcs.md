@@ -5,13 +5,13 @@ title = "RPG Concepts: NPCS"
 tags = ['RPG Concepts', 'Knights of the Old Republic', 'Oblivion', 'Wizardry8', 'Wizardry7', 'Arcanum', 'feature']
 +++
 
-<img src="/img/articles/RPG.jpg"/>
+![Roleplaying Concepts](/img/articles/RPG.jpg)
 
 <a class="internal" data-to="#vids">Watch the NPC Reaction video tests! >></a>
 
 An NPC is basically a character not controlled by the player, who can be of great importance during the many main or side quests. NPCs vary in importance and placement: they can either be annoying and useless or interesting and useful. Many Role-playing games only give the most important NPCs something useful to say or do. Talking to other characters makes no sense since they only answer with one of the standard sentences: "oh, you're the princess!" or "good weather, isn't it?". This concept destroys the whole role-playing experience since it transforms role-playing into trying to find the right character to chat with, without any interest to other local inhabitants.
 
-<img src="/img/articles/rpg-npc_blocking.gif"/>
+![](/img/articles/rpg-npc_blocking.gif "Isn't that nice, NPCs blocking your path?")
 
 Everyone probably already encountered a couple of NPCs just standing there, doing nothing. When you talk to them, they respond with "hiya stranger". When you talk to them again, they repeat that exact same sentence. After the tenth time of "hiya stranger" you begin to wonder whether the person was on drugs or not. What is the purpose of this NPC? Exactly: a useless object to fill the otherwise void space. Players can enjoy a "guess who holds the quest" puzzle. Things get even worse when each NPC is called "stranger x" or "villager y". This does not give them any personality and give you even less reasons to replay the game since the living world feels artificial and dead. There's a difficult balance to be kept within a city full of NPCs: do you want extreme activity but soulless beings or a less crowded area, where everyone has their own personality and interesting story?
 
@@ -21,8 +21,7 @@ Especially on console RPGs, it can get very frustrating to wander around town, t
 
 This quest system can also reward you for talking to all NPCs if you intend to do so anyway. Some "Star Constellation Magnus" in the game can be traded for rare items otherwise not found. These constellations can be found by looking in every container and box you see. This works exactly the same: it gives you a reason to check containers, otherwise 50% empty or full with useless junk.
 
-<img src="/img/articles/rpg-npc_dontdie.jpg">
-<center>Don't open it! It could contain... err... An NPC-turns-hostile trigger!</center>
+![](/img/articles/rpg-npc_dontdie.jpg "Don't open it! It could contain... err... An NPC-turns-hostile trigger!")
 
 It's very easy to implement a shield which renders quest NPCs immortal. Of course, how else can you finish the quest if you killed the person to deliver item x or get goods y? That's one way, but not the acceptable way. Role-playing - yeah right. If you decide to attack your quest related person, you may do so. One of the consequences could be unable to finish the quest (if it's a side quest of course). Another better one would be to include different ways to tackle this obstacle. If you kill the NPC, everyone will turn hostile or run or just ignore you depending on their parameters (easily offended or threatened, easily scared, drunk, ...). The NPC will leave his quest item for you to collect, if you managed to get rid of everyone else. There could be a high level relative, standing next to the killed person, who frenzies if you hurt the NPC. Ha!
 
@@ -32,8 +31,7 @@ Other mechanics which greatly unbalance the importance of various NPCs include v
 
 Interaction with those people are mostly done throughout a limited series of questions. You can select one (which might alter his personal reaction, or even attack you, the classic Dungeons & Dragons way) and the NPC will react to that selected question. The questions are usually built depending on the active quests. You can't possibly ask something about a stone mask if you did not start that quest first. Although this limited interaction technique is even being used in new Role-playing games (including Mass Effect), these have their own problems.
 
-<img src="/img/articles/npc-rpg_kotor.jpg">
-<center>Knights of the Old Republic: select your answer among a limited amount of possibilities.</center>
+![](/img/articles/npc-rpg_kotor.jpg "Knights of the Old Republic: select your answer among a limited amount of possibilities.")
 
 For instance, why can't you ask someone about his neighbor? Why is his neighbor running in circles? Or why is this person not sleeping at night? Why is he aligned with faction x? What does he know about your previous boss encounter? etc. One of the early Final Fantasy games introduced a system in which you can store key words said by NPCs, and ask about them to others. This concept sounds very nice, but lacked execution. Most of the time the NPC did not know what you were talking about.
 
@@ -41,8 +39,7 @@ Wizardry VII introduced a nice system which allowed players to literally type in
 
 Of course keywords are still available and stored automatically if you did not follow every conversation.
 
-<img src="/img/articles/npc-rpg_wiz8.jpg">
-<center>Wizardry 8: The 'talk about' feature.</center>
+![](/img/articles/npc-rpg_wiz8.jpg "Wizardry 8: The 'talk about' feature.")
 
 **Avoid at all costs:**
 
@@ -86,21 +83,23 @@ Of course keywords are still available and stored automatically if you did not f
 
 #### Wizardry 8
 
-<div class='vspace'></div><div class='indent'><em>Marten's Tomb (SPOILERS)</em>
-</div><p class='vspace'>Sir-Tech's [Wizardry 8](/tags/wizardry8) includes like VII a beautiful NPC interaction system which allows the user to talk about anything, including obscure words (and you'll get appropriate reactions! Wait for vid#2 to see that) Here, I ask Marten, one of the main plot characters, about the dark savant, the higardi, "die", "f*ck" and some more stuff. I forgot to wear the helmet so all members went insane... Whoops.
-</p>
+##### Marten's Tomb (SPOILERS)
+
+Sir-Tech's [Wizardry 8](/tags/wizardry8) includes like VII a beautiful NPC interaction system which allows the user to talk about anything, including obscure words (and you'll get appropriate reactions! Wait for vid#2 to see that) Here, I ask Marten, one of the main plot characters, about the dark savant, the higardi, "die", "f*ck" and some more stuff. I forgot to wear the helmet so all members went insane... Whoops.
 
 {{< youtube "n9RgBmP5qpU" >}}
 
-<div class='vspace'></div><div class='indent'><em>He'Li's Bar in Arnika</em>
-</div><p class='vspace'>He'Li kicks my butt as I attempt to intimidate her with my impressive vocal skills. Vi teams up, shoving a boot through my rib cage. Amazing stuff, Sir-Tech. I love the voice acting. (Fully voiced, EVERY NPC).
-</p>
+##### He'Li's Bar in Arnika
+
+He'Li kicks my butt as I attempt to intimidate her with my impressive vocal skills. Vi teams up, shoving a boot through my rib cage. Amazing stuff, Sir-Tech. I love the voice acting. (Fully voiced, EVERY NPC).
+
 
 {{< youtube "HV7P5bCNUZI" >}}
 
-<div class='vspace'></div><div class='indent'><em>Trynton's Chief (SPOILERS)</em>
-</div><p class='vspace'>After chatting with Trynton's Chief, I decide to attack him with Madras (a trynnie) in my party. That was *not* a good idea. Glad to see he reacts properly to my actions in the game.
-</p>
+##### Trynton's Chief (SPOILERS)
+
+After chatting with Trynton's Chief, I decide to attack him with Madras (a trynnie) in my party. That was *not* a good idea. Glad to see he reacts properly to my actions in the game.
+
 
 {{< youtube "q52EROdDuCU" >}}
 

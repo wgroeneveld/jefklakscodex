@@ -37,6 +37,7 @@ $(function() {
 			var url = me.attr('href');
 			if(url && url.startsWith('http') && url.indexOf(host) === -1) {
 				me.attr('target', '_blank').addClass('external');
+				me.attr('rel', 'noopener');
 			}
 		})
 	};
