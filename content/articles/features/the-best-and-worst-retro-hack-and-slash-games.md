@@ -28,7 +28,7 @@ First, let us take a look at each game in the list.
 
 ### [Diablo 2](/articles/retrospectives/diablo-2)
 
-![](/img/games/diablo2/crystallinepassage.jpg "Diablo II.")
+![](/img/games/diablo2/crystallinepassage.jpg "Diablo II on PC.")
 
 Read [the retrospective](/articles/retrospectives/diablo-2). There, we concluded:
 
@@ -51,7 +51,7 @@ The question is, does any other game come close to matching its greatness?
 
 ### [Diablo 3](/articles/reviews/diablo-3)
 
-![](/img/games/diablo3/mobs.jpg "Diablo III.")
+![](/img/games/diablo3/mobs.jpg "Diablo III on Nintendo Switch.")
 
 Read [the full review](/articles/reviews/diablo-3). There, we concluded:
 
@@ -72,7 +72,7 @@ The skill choice instead of tree greatly reduces the complexity, and the added s
 
 ### [Nox](/articles/reviews/nox)
 
-![](/img/games/nox/castle.jpg "Galava Castle. Beautiful 2D pixel-art.")
+![](/img/games/nox/castle.jpg "Nox on PC.")
 
 Read [the full review](/articles/reviews/nox). There, we concluded:
 
@@ -92,7 +92,7 @@ Westwood knows how to put the _charm_ and unique atmosphere in a game: it is vis
 
 ### [Dungeon Siege](/articles/reviews/dungeon-siege)
 
-![](/img/games/dungeonsiege/enemies.jpg "Annoying critters that spew a constant stream of energy at your party.")
+![](/img/games/dungeonsiege/enemies.jpg "Dungeon Siege on PC.")
 
 Read [the full review](/articles/reviews/dungeon-siege). There, we concluded:
 
@@ -114,7 +114,7 @@ Being still an impressive looking game with a seamless world that does not invol
 
 ### [Sacred](/articles/reviews/sacred)
 
-![](/img/games/sacred/houses.jpg "Lovely 2D art visible in bigger cities.")
+![](/img/games/sacred/houses.jpg "Sacred Gold on PC.")
 
 Read [the full review](/articles/reviews/sacred). There, we concluded:
 
@@ -137,7 +137,7 @@ The unique world of Ancaria comes with goofy voice acting, funny but mostly mund
 
 ### [Torchlight](/articles/reviews/torchlight)
 
-![](/img/games/torchlight/effects.jpg "Spell/Skill effects flying all over the place.")
+![](/img/games/torchlight/effects.jpg "Torchlight I on PC.")
 
 Read [the full review](/articles/reviews/torchlight). There, we concluded:
 
