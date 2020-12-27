@@ -1,7 +1,7 @@
 ---
 imageActive: "gif/acnh.gif"
 image: "gif/acnh_still.gif"
-date: "2020-12-20"
+date: "2020-12-27"
 title: "Animal Crossing: New Horizons Adventure Blog"
 aliases:
     - /articles/animalcrossing-newhorizons
@@ -21,6 +21,20 @@ game_developer: 'Nintendo'
 ---
 
 Remember the [Animal Crossing: Wild World Adventure Blog post](/articles/animalcrossing-wildworld/)? Well, after a _very_ long wait, the newest installment of Animal Crossing, called New Horizons, finally arrived on the Nintendo Switch. For the first time since the original installment on the Gamecube, it has come back to home consoles! It only seemed appropriate to continue the **AC adventure blog**, from way back in 2006, to see what kind of trouble my character would get himself into while trying to build a community in the new Island. 
+
+### Playing for Santa
+
+<div style="text-align: right;">[ Date: 27/12/2020 | <a href="#top">top</a> ]</div>
+
+![](/img/games/ac/nhsanta.jpeg "Ho-ho-ho, look at my big sack of stuff!")
+
+Playing the game on what they call "Toy Day" was a lot of fun. Jingle the reindeer instructs you to give gifts to every inhabitant of the island, and you're given a big white sack to do so. It acts like any other equipment and even appears in the ring menu. After everyone received their gifts, you're treated yourself. Too bad I had to return the bag!
+
+Some villagers mistook me for the mailman, like Static for instance. Everyone said something really funny, and on Christmas day, I bought some red wrapping paper for everyone and wrapped the toys temporarily available at Nook's Cranny, as an extra present. They mostly returned the favor with weird clothing... We're working on that.
+
+![](/img/games/ac/nhmuseumcomplete.jpeg "All fossils have been identified and donated!")
+
+Besides dealing out gifts, the daily donations to the museum finally paid off: Blathers gives a big **thank you** after receiving the final piece! Now at least one part of the museum is complete. Next up: catching more fish, insects, and buying more genuine paintings/sculptures. If only Redd visited the island more often... 
 
 ### Suddenly, Winter arrives!
 
