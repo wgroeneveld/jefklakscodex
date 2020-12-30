@@ -1,5 +1,8 @@
 <figure>
 	<a href="{{ .Destination | safeURL }}" class="lbox">
+		<noscript>
+			<img src="{{ .Destination | safeURL }}" {{ with .Text }} alt="{{ . }}"{{ end }} {{ with .Title}} title="{{ . }}"{{ end }}>
+		</noscript>		
 		<img class="lazyload img-responsive" data-src="{{ .Destination | safeURL }}" {{ with .Text }} alt="{{ . }}"{{ end }} {{ with .Title}} title="{{ . }}" alt="{{ . }}"{{ end }}>
 	</a>
 	{{ with .Title }}
