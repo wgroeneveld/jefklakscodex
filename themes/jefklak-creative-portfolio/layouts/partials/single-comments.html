@@ -1,0 +1,26 @@
+{{ if (not .Params.disableComments) }}
+    <hr/>
+    <h3 class="page-header"><i class="fa fa-comments-o"></i>&nbsp;
+        Bio and Support
+    </h3>
+
+    <div class="avatar">
+        <noscript>
+            <img src="/img/avatar.jpg" alt="Me!" />
+        </noscript>                 
+        <img class="lazyload" data-src="/img/avatar.jpg" alt="Me!" />
+    </div>
+    <div class="support">
+        <p>
+            I'm Wouter, a level {{ .Site.Params.level }} <em>Retro Gamer</em>, and I love the sight of experience points on old and forgotten hardware. I sometimes convince others join in on the nostalgic grind.
+            Read more <a href="/about">about me here</a>.
+        </p>
+        <p>
+            If you found this article amusing and/or helpful, you can <a href="https://ko-fi.com/woutergroeneveld"><strong>buy me a coffee</strong></a> - although I'm more of a tea fan myself. I also like to hear your feedback via e-mail: <a class="meel">say hello</a>. Thanks!
+        </p>
+        <noscript>
+            JavaScript is disabled. I use it to obfuscate my e-mail, keeping spambots at bay. <br/>
+            Reach me using: <code>[firstname] at [brainbaking] dot [you-know]</code>.
+        </noscript>
+    </div>
+{{ end }}

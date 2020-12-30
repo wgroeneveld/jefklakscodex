@@ -19,7 +19,8 @@ summaryLength = 20
   [markup.goldmark.renderer]
     unsafe= true
 
-[params]  
+[params] 
+  level = 35
   description = "Retro game thoughts"
   copyright = "<a href='/no-copyright'>No &copy; reserved - sharing is caring</a>. <br/>An integral part of <a href='https://brainbaking.com/' rel='noopener' target='_blank'>Brain Baking</a>."
 

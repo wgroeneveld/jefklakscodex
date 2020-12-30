@@ -51,21 +51,7 @@
          </div>
 
 
-        {{ if (not .Params.disableComments) }}
-          <hr/>
-          <h3 class="page-header"><i class="fa fa-comments-o"></i>&nbsp;
-              Join the Discussion
-          </h3>        
-
-        {{- if (ne hugo.Environment "development") }}
-          <script defer src="https://commento.jefklakscodex.com/js/commento.js"></script>
-          <script src="https://commento.jefklakscodex.com/js/count.js"></script>
-        {{- else }}
-          (localhost, commento not loaded)
-        {{- end }}
-          <div id="commento"></div>
-
-        {{ end }}
+         {{ partial "single-comments" . }}
 
       </article>
     </div>

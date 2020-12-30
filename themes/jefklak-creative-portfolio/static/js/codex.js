@@ -68,6 +68,17 @@ $(function() {
 		$('.sidebar-game-platform').height($('.sidebar-content .img-inactive').height());
 	};
 
+	var obfuscateMail = function() {
+		var meel = document.querySelector('.meel');
+		var enc = "<o ofwo-zopsz='aowz orrfsgg' vfst='aowzhc:kcihsf@pfowbpoywbu.qca'>kcihsf@pfowbpoywbu.qca</o>  <o ofwo-zopsz='sbqfmdhwcb DUD ysm' vfst='vhhdg://ysmg.cdsbdud.cfu/jyg/j1/pm-twbusfdfwbh/24O319TO8708OP6961997205S66Q99941091O46R' hwhzs='Sbqfmdh aowzg kwhv am UDU ysm'><w qzogg='to to-zcqy' ofwo-vwrrsb='hfis'></w></o>"
+
+		if(meel) {
+			meel.addEventListener('click', function() {
+				meel.innerHTML = enc.replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+12)?c:c-26);});
+			})
+		}		
+	}
+
 	var animateActiveGameImagesIfFound = function() {
 		var animate = function() {
 			var active = $(this).find('.img-active');
@@ -93,4 +104,5 @@ $(function() {
 	setSideBarPlatformHeight();
 	addRandomImageToSideBarMenus();
 	enableScrollToTopOnInternalLinks();
+	obfuscateMail();
 });
