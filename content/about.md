@@ -1,9 +1,24 @@
-+++
-title = "About the Codex"
-disableComments = true
-+++
+---
+title: About the Codex
+disableComments: true
+---
 
 Hi, I'm Jefklak/[Wouter](https://brainbaking.com/about/) and you're looking at "Jefklak's Codex", a dedicated and highly opinionated website about nostalgic games. The word **nostalgic** should be emphasized here. I grew up with a Game Boy between my hands and PC RPG games burnt into my retina. That healthy cocktail left a lasting impression - and netted me the Codex (and glasses).
+
+If you found this website amusing and/or helpful, you can <a href="https://ko-fi.com/woutergroeneveld"><strong>buy me a coffee</strong></a> - if you don't mind I'll use it to drink tea instead. I also like to hear your feedback via (encrypted) e-mail: <a class="meel">say hello</a>. Thanks!
+
+<center>
+    <a href='https://ko-fi.com/woutergroeneveld'>
+        <img height='36' style='border:0px !important;height:36px;' src='/img/kofi.png' border='0' alt='Buy Me a Coffee' />
+    </a>
+</center>
+
+<noscript>
+    JavaScript is disabled. I use it to obfuscate my e-mail, keeping spambots at bay. <br/>
+    Reach me using: <code>[firstname] at [brainbaking] dot [you-know]</code>.
+</noscript>
+
+## History
 
 The Codex has a long history, I've always felt the need to proclaim my definitive game of each generation. If you want to have some fun (you should have got some by now), try archive.org's wayback machine:
 

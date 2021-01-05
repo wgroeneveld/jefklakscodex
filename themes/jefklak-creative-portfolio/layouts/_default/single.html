@@ -8,19 +8,14 @@
 
         <header>
          <h1>{{ .Title }}</h1>
+          {{ if isset $.Params "date" }}
             <span class="metatitle">
                 {{ $createdate := .Date.Format (.Site.Params.dateFormat | default "2 January 2006") }}
 
                 <span title="Created Date">
                   <i class='fa fa-calendar'></i>&nbsp;{{ $createdate }}
                 </span>
-
-                {{ if (not .Params.disableComments) }}
-                  &nbsp;|&nbsp;
-                  <span title="Comments">
-                    <i class="fa fa-comments-o"></i>&nbsp;<a href="{{ .Permalink }}#commento"></a>
-                </span>
-                {{ end }}
+          {{ end }}
           </span>
         <hr/>
         </header>
