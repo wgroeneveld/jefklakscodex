@@ -43,10 +43,18 @@
           <category>{{ . }}</category>
         {{ end }}
       {{ end }}
+      {{ $lazyLoadImg := "data-src=" }}
+      {{ $eagerLoadImg := "src=" }}
+      {{ $content := .Content | replaceRE $lazyLoadImg $eagerLoadImg | safeHTML }}      
       <description>
-          {{ `<![CDATA[ ` | safeHTML }}<img align="left" hspace="5" src="{{ $baseurl }}{{ .Params.image }}"/>
+          {{ `<![CDATA[ ` | safeHTML }}
+          {{ if .Params.image }}
+            <p>
+              <img hspace="5" src="{{ $baseurl }}{{ .Params.image }}"/>
+            </p>
+          {{ end }}
 
-          {{ .Summary | html }}
+          {{ $content | safeHTML }}
           ]]>
       </description>
     </item>

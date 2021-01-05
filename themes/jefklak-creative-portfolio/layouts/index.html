@@ -1,7 +1,14 @@
+<html>
 <head> 
+  {{ with .OutputFormats.Get "RSS" }}
+	  <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="Jefklak's Codex" />
+	  <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="Jefklak's Codex" />
+  {{ end }}
+
     {{ range .Site.Params.navlinks }}
-    {{ if .home }}
-    <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
-    {{ end }}
+	    {{ if .home }}
+	    	<meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
+	    {{ end }}
     {{ end }}
   </head>
+</html>
