@@ -45,7 +45,10 @@
       {{ end }}
       {{ $lazyLoadImg := "data-src=" }}
       {{ $eagerLoadImg := "src=" }}
-      {{ $content := .Content | replaceRE $lazyLoadImg $eagerLoadImg | safeHTML }}      
+      {{ $contentImg := .Content | replaceRE $lazyLoadImg $eagerLoadImg | safeHTML }}      
+
+      {{ $noscriptImg := "<noscript class=\"noscript-lazyload\">(.*)</noscript>" }}
+      {{ $content := $contentImg | replaceRE $noscriptImg "" | safeHTML }}      
       <description>
           {{ `<![CDATA[ ` | safeHTML }}
           {{ if .Params.image }}
