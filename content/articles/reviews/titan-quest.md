@@ -14,7 +14,7 @@ game_release_year: '2006 (2018)'
 game_developer: 'Iron Lore Entertainment'
 ---
 
-Originally released only two years after [Sacred](/articles/reviews/sacred), Titan Quest brings combines Greek mythology with hack and slash: a world full of mesmerizing creatures to kill, wealth to collect, and above all: horrible bugs and boring gameplay. Should you play this hack & slash game over others such as [Dungeon Siege](/articles/reviews/dungeon-siege) and [Diablo 2](/articles/retrospectives/diablo-2)? The answer is a definitive no.
+Originally released only two years after [Sacred](/articles/reviews/sacred), Titan Quest combines Greek mythology with hack and slash: a world full of mesmerizing creatures to kill, wealth to collect, and above all: horrible bugs and boring gameplay. Should you play this hack & slash game over others such as [Dungeon Siege](/articles/reviews/dungeon-siege) and [Diablo 2](/articles/retrospectives/diablo-2)? The answer is a definitive no.
 
 I slogged through more than twenty hours of repetitive and frustrating gameplay and wrote all this to spare you from the same misery, so do me a favor and simply don't bother: look at [better hack & slash games](/articles/features/the-best-and-worst-retro-hack-and-slash-games/) instead. The game was re-released for Nintendo Switch in 2018, and that's the one I regretted playing. You'd think that twelve years after the original release, most bugs would have been fixed. Think again!
 
@@ -74,6 +74,6 @@ Another thing that irritated me was that finishing a quest by finding a required
 
 ## The verdict
 
-Is it worth it to play Titan Quest? No. My conclusion is in stark contrast to Justin's over at his [Random Battles Blog](https://randombattlesblog.wordpress.com/2020/10/03/rpg-beaten-titan-quest/), but for the reasons mentioned above, I'd rather replay other H&S games than trying to slog through the expansion(s) content(s). Even Dungeon Siege, the H&S game I found to be [most boring](/articles/features/the-best-and-worst-retro-hack-and-slash-games/), is a better alternative. The setting is unique but does not have enough to offer to to justify the other shortcomings.
+Is it worth it to play Titan Quest? No. My conclusion is in stark contrast with Justin's over at his [Random Battles Blog](https://randombattlesblog.wordpress.com/2020/10/03/rpg-beaten-titan-quest/), but for the reasons mentioned above, I'd rather replay other H&S games than trying to slog through the expansion(s) content(s). Even Dungeon Siege, the H&S game I found to be [most boring](/articles/features/the-best-and-worst-retro-hack-and-slash-games/), is a better alternative. The setting is unique but does not have enough to offer to to justify the other shortcomings.
 
 
