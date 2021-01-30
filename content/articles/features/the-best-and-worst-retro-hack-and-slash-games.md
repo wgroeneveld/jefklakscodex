@@ -112,6 +112,27 @@ Being still an impressive looking game with a seamless world that does not invol
 - You prefer playing games over watching movies.
 - You expect to mess around with spells and items.
 
+### [Titan Quest](/articles/reviews/titan-quest)
+
+![](/img/games/TitanQuest/temple.jpg "Titan Quest on Switch.")
+
+Read [the full review](/articles/reviews/titan-quest). There, we concluded:
+
+> Is it worth it to play Titan Quest? No. My conclusion is in stark contrast to Justin's over at his [Random Battles Blog](https://randombattlesblog.wordpress.com/2020/10/03/rpg-beaten-titan-quest/), but for the reasons mentioned above, I'd rather replay other H&S games than trying to slog through the expansion(s) content(s). Even Dungeon Siege, the H&S game I found to be most boring, is a better alternative. The setting is unique but does not have enough to offer to to justify the other shortcomings.
+
+Titan Quest offers a titanic amount of hours in Ancient Greece, Egypt, and on The Great Wall, but ultimately failed to impress me because of the plethora of bugs and awkward usability on the Switch, coupled with boring gameplay. 
+
+**Play Titan Quest if...**
+
+- You value 3D above 2D.
+- You like ancient mythology.
+- You like a classless system.
+
+**Do not play Titan Quest if...**
+
+- Your time is valuable.
+- You are looking for variation.
+
 ### [Sacred](/articles/reviews/sacred)
 
 ![](/img/games/sacred/houses.jpg "Sacred Gold on PC.")
@@ -190,7 +211,8 @@ Keep in mind that ranking games is actually a silly practice that does not fully
 5. Torchlight 2
 6. Torchlight
 7. Dungeon Siege
+8. Titan Quest
 
-The undisputed king stays at number one - obviously. Second is Nox, a game I have a soft spot for. Next in line, Diablo 3, as I honestly think it is a good game in its own right - on the couch, with a controller in hand. I had more fun playing it on Switch than I did Torchlight II, and Torchlight I isn't as good as the second version. To me, Dungeon Siege was very boring. That leaves us with Sacred, a unique and maybe a bit of an odd game, I would put right in the middle. I'd rather replay Sacred with a cool class like the Seraphim than go through Torchlight II again. 
+The undisputed king stays at number one - obviously. Second is Nox, a game I have a soft spot for. Next in line, Diablo 3, as I honestly think it is a good game in its own right - on the couch, with a controller in hand. I had more fun playing it on Switch than I did Torchlight II, and Torchlight I isn't as good as the second version. To me, Dungeon Siege was very boring - and Titan Quest was even worse. That leaves us with Sacred, a unique and maybe a bit of an odd game, I would put right in the middle. I'd rather replay Sacred with a cool class like the Seraphim than go through Torchlight II again. 
 
 To be continued, with more H&S fun!
