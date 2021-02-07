@@ -9,6 +9,7 @@ tags:
     - 'Animal Crossing New Horizons'
     - 'blog'
     - 'Animal Crossing'
+    - 'Playthrough'
     - 'feature'
 howlongtobeat_id: 68240
 howlongtobeat_hrs: 60.5
