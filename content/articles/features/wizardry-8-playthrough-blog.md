@@ -1,6 +1,6 @@
 ---
 image: "/img/games/Wizardry8/wiz8.jpg"
-date: 2021-02-07
+date: 2021-02-09
 title: Wizardry 8 Playthrough Blog
 played_on: 'win98'
 game_genre: 'RPG'
@@ -59,6 +59,22 @@ So, nothing much left to do than to clear out the Upper Monastery Floor - and me
 
 Christina our Bishop is as crappy as can be expected from an untrained low-level Bishop. I already shiver when I think of the many hours of "exercise" (casting _Knock Knock_ in the Arnika vaults) I used to put into such builds. I'm not sure if I'll be able to do that this time. Anyway, when entering a side chapel, suddenly, in a flash, a robot appears! Oh no, wait, it was waiting for us but it _disappears_ in a flash. We were impressed. But what to make of it? It seems that there's a race going on, a quest to "**ascend**", and for that, we need to be as "smart as the cosmic lords". How do we do that? By getting three important artifacts! The flags on the walls hint towards these, but other than that, there's not much here. We grab a few more unnecessary potions, Wooly's first gadget, spot more hidden piles of stones for Wooly's Omnigun, and get going by opening the front door. 
 
+<div style="text-align: right;">[ Date: 08/02/2021 | <a href="#top">top</a> ]</div>
+
 ### <a id="arnika"></a>(The Road to) Arnika
 
-To be continued!
+After a long, long road - basically a big slog - the most gruesome part of Wizardry 8 is finally over: the road from the Monastery to Arnika. A lot of people gave up on this road, and a lot of reloads were needed. Enemy mobs scale to your level, and if you camp too many times, multiple mobs will spawn and make your journey even more difficult. I managed to trash the rogues guarding the treasure fairly quickly, but after closing in on the abandoned house (housing a hidden portal), I got stumped myself. 
+
+{{% dualscreens "/img/games/Wizardry8/playthrough/" "arnika-patrols.jpg" "So many nasty rogues out here!" "arnika-vi.jpg" "We rescued Vi!" %}}
+
+Arnika itself isn't what it used to be: many people flet since the arrival of the _Dark Savant_. The bastard build a huge tower here, from where he shot down our ship. We can't seem to access it yet, but a shady looking character named _Myles_ reports on a kidnapping. Naturally, we comply, and temporarily accompany Myles to the location of the crime: another crashed ship, with a destroyed house. There, we rescue Vi from a bunch of angry droids, and we find another interesting part that might come in handy for Wooly our gadgeteer. 
+
+In this game, you are nowhere safe, not even in He'Li's bar, not even in the rooms she rents, as another group of mercenaries were keen on stealing our money and shiny looking equipment. After stealing Antone's keycard, plundering the bank and getting every piece of useful information out of all NPCs, we prepare to leave for Trynton. Muesli, our Feline Ninja, "guarded" Myles' gear, as we politely asked both Myles and Vi to leave. _All your XP are belong to us!_ No, really, wee need it, desperately - especially after getting our butts kicked by a guardian golem in the vaults. The treasure was worthless. It was a sad day. Sharptooth got killed, and said _"next time, help me BEFORE I die!"_ after sprinkling him with our priceless resurrection powder.
+
+{{% dualscreens "/img/games/Wizardry8/playthrough/" "arnika-wheel.jpg" "Grabbing the Wheel Key after being interrupted by ghosts." "arnika-bank.jpg" "Lured a mob into the bank, whoops! A few rounds later, Lorrac the clerk gave up and fled." %}}
+
+I can't stand the fact that we have to go back to the Lower Monastery in order to fetch those damn "special weapons" after getting hold of the Wheel Key - thanks, Lord Braffit! (We handed over an official signed declaration, it's okay!)
+
+### <a id="arnika"></a>Trynton
+
+To be continued! 
