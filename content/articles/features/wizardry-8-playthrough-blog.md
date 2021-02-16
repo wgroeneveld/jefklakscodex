@@ -1,6 +1,6 @@
 ---
 image: "/img/games/Wizardry8/wiz8.jpg"
-date: 2021-02-09
+date: 2021-02-16
 title: Wizardry 8 Playthrough Blog
 played_on: 'win98'
 game_genre: 'RPG'
@@ -22,6 +22,7 @@ tags:
 - <a href="#intro">the Introduction</a>
 - <a href="#monastery">The Monastery</a>
 - <a href="#arnika">Arnika Road/Arnika</a>
+- <a href="#arnika2">Back to the Monastery, back to Arnika</a>
 
 ### <a id="intro"></a>Introduction
 
@@ -75,6 +76,19 @@ In this game, you are nowhere safe, not even in He'Li's bar, not even in the roo
 
 I can't stand the fact that we have to go back to the Lower Monastery in order to fetch those damn "special weapons" after getting hold of the Wheel Key - thanks, Lord Braffit! (We handed over an official signed declaration, it's okay!)
 
-### <a id="arnika"></a>Trynton
+### <a id="arnika2"></a>Back to the Monastery, back to Arnika
+
+Right, the _Wheel Key_. We need to go back to the Monastery - to the lower levels - to grab the super-secret and super-powerful _Demonsbane_ and _Demonstring_ sword and bow. It's not essential, but it does double damage to demons and is has nice stats overall for this section of the game. Futhermore, our sammy was really keen on getting his hands on another shiny sword. Not that he can equip another one: Bloodlust is cursed... And he doesn't care: it swings and hits time and time again. 
+
+After another excruciating long walk to the Monastery, and being ambushed by poisoning and sleep-inducing plants that nearly kicked our butt, we finally make it back. The crypt is guarded by two floating heads, but this time, Muesli our Ninja does his first **insta-kill** and Christine our Bishop manages to turn undead for 92 damage. Boom - the treasure is ours!
+
+{{% dualscreens "/img/games/Wizardry8/playthrough/" "monastery2.jpg" "Ah, the secret weapons of the Monks." "thievesdagger.jpg" "We were finally able to afford Muesli his Thieves Dagger." %}}
+
+Back - again - to Arnika, before heading to Trynton. Why? Because Christine could do with some training, and Muesli could do with better equipment. We've heard that Antone has his special daggers back in stock - the _Thieves dagger_ - and we were hoping he could make us a nice deal. It turned out to be freakishly expensive: over 10k! So now we're broke, and it is up to Christine her Alchemy skills to fix that. Before being rich again and being able to afford all spellbooks, she'll need to do some Identify Item training (Divinity, Mental Magic) and Knock Knock (Alchemy/Wizardry, Earth Magic). It is not especially pleasant to do, but it turned out to be very much needed. In the end, she trained well, and the party is satisfied. 
+
+{{% dualscreens "/img/games/Wizardry8/playthrough/" "training1.jpg" "A training session with Christine in the secret bank vault." "training2.jpg" "Nice job, Chrinstine!" %}}
+
+We hope those misfires - and especially backfiring Mental Stabs - will happen less often now. We're finally ready to pack up and travel to Trynton!
 
 To be continued! 
+
