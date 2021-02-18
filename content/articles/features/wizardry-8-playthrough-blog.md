@@ -1,6 +1,6 @@
 ---
 image: "/img/games/Wizardry8/wiz8.jpg"
-date: 2021-02-16
+date: 2021-02-18
 title: Wizardry 8 Playthrough Blog
 played_on: 'win98'
 game_genre: 'RPG'
@@ -23,6 +23,7 @@ tags:
 - <a href="#monastery">The Monastery</a>
 - <a href="#arnika">Arnika Road/Arnika</a>
 - <a href="#arnika2">Back to the Monastery, back to Arnika</a>
+- <a href="#trynton">Killin' Rattkin in Trynton</a>
 
 ### <a id="intro"></a>Introduction
 
@@ -76,6 +77,8 @@ In this game, you are nowhere safe, not even in He'Li's bar, not even in the roo
 
 I can't stand the fact that we have to go back to the Lower Monastery in order to fetch those damn "special weapons" after getting hold of the Wheel Key - thanks, Lord Braffit! (We handed over an official signed declaration, it's okay!)
 
+<div style="text-align: right;">[ Date: 12/02/2021 | <a href="#top">top</a> ]</a></div>
+
 ### <a id="arnika2"></a>Back to the Monastery, back to Arnika
 
 Right, the _Wheel Key_. We need to go back to the Monastery - to the lower levels - to grab the super-secret and super-powerful _Demonsbane_ and _Demonstring_ sword and bow. It's not essential, but it does double damage to demons and is has nice stats overall for this section of the game. Futhermore, our sammy was really keen on getting his hands on another shiny sword. Not that he can equip another one: Bloodlust is cursed... And he doesn't care: it swings and hits time and time again. 
@@ -89,6 +92,24 @@ Back - again - to Arnika, before heading to Trynton. Why? Because Christine coul
 {{% dualscreens "/img/games/Wizardry8/playthrough/" "training1.jpg" "A training session with Christine in the secret bank vault." "training2.jpg" "Nice job, Chrinstine!" %}}
 
 We hope those misfires - and especially backfiring Mental Stabs - will happen less often now. We're finally ready to pack up and travel to Trynton!
+
+<div style="text-align: right;">[ Date: 17/02/2021 | <a href="#top">top</a> ]</div>
+
+### <a id="trynton"></a>Killin' Rattkin in Trynton
+
+On our way towards Trynton, we come across a shady looking character that introduces himself as _Rattus Rattus_, and wants us to deliver a "note" to the Arnika Bank. _Sure thing, bro!_ - we say. But after reading the note (_THIS IS A STICK UP!_), we discard the idea and continue southwards, until we see a desolate graveyard. A mummy and a few ghosts roam the area, we quickly pick up crafting ingredients and get the hell out of there. Bad vibes!
+
+{{% dualscreens "/img/games/Wizardry8/playthrough/" "graveyard.jpg" "Mielie smells danger. Let's get out of here!" "instakill.jpg" "Muesli's Ninjitsu mastery is coming in handy, INSTANT KILL!" %}}
+
+Muesli our Ninja and Sharptooth our Samurai are becoming real pro's at hitting the right notes in combat. Muesli's _INSTANT KILL_s are very gratifying, especially if it's with a simple fairy dart, as ninja's can also do critical kills using thrown weapons. Trynton's tree is a big maze mess, and we do our best to scour every secret (Wooly's exclamations _"What is that??"_ help) to fill our bags with loot.
+
+On the third Bough, the Trynton Zoo is open, and a sign reads _DO NOT FEED THE HOGAR_. Of course, we feed the hogar (with drugged meat). The beast falls asleep, we steel the gadget its guarding, and let the beast live. On the other hand, we do slaughter the pixies: those little pests scare us, and their Eye for an Eye magic caused all sorts of mayhem. Santa wasn't paying attention, hurled a Fireball in their direction, but it came right back and killed a few crew members... Great... 
+
+{{% dualscreens "/img/games/Wizardry8/playthrough/" "hogar.jpg" "Welcome to the Trynton Zoo." "barlone.jpg" "BAM! We'll Get 'em! The Don and our team become good friends." %}}
+
+Get the Zuzu petals - check. Buy the Mystery potion - check. Find the seventh Bough - check. Get high - check. The no-magic zone gave us a bit of trouble too: Christine wanted to eagerly heal everyone but we forgot that it wasn't allowed, so a Spider bit and killed her when retreating. Whoops. Oh well, Resurrection Powder is still in stock, right guys? After meeting Madras, he instructs us to kill "Breeders", "big as a house, wide as a ..." - yeah we get it, it's a deal. 
+
+The Rattkin tree proved to be a walk in the park after a good night of sleep and proper preparations. No ugly mages here, just a bunch of loser archers that can't get past our Missile Shield. Battles do tend to drag on for a while if Sharptooth kept on missing, as these Rattkin seem to have +200HP and travel in quite large packs. The Don and I came to an "understanding" - he was to steal the shiny ball we're looking for, and we are to pay him for it. We'll see about that... Madras mentioned Marten's Bluff, and we've heard that and the Z'Ant name before, so let's slug through the swamp, meet Crock, and do some work for the T'Rang next!
 
 To be continued! 
 
