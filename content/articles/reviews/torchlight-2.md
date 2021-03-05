@@ -9,6 +9,8 @@ tags:
     - 'diablo'
     - 'review'
 game_platform: 'switch'
+howlongtobeat_id: 10528
+howlongtobeat_hrs: 20.5
 game_name: 'Torchlight 2'
 description: "Three years after the highly appreciated Torchlight, Runic Games continues the trend with Torchlight 2, released only a few months after Diablo III. Should we be comparing this versus Diablo 2 or 3? Is it worth it to again hire a pet, gear up, and go after the Alchemist? Let's find out."
 game_genre: 'Hack and Slash'

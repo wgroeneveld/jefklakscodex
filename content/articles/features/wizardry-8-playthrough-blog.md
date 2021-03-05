@@ -7,6 +7,8 @@ game_genre: 'RPG'
 game_release_year: '2001'
 game_developer: 'SirTech Canada'
 game_platform: 'pc'
+howlongtobeat_id: 11228
+howlongtobeat_hrs: 93
 game_name: "Wizardry 8"
 summary: "Wizardry 8: the Adventure Blog! I've been keen on replaying the whole game for old times sake - on a 'real' retro Win98 PC. After _finally_ convincing my friend to install the game, we were ready to go through it together/alone, since it's a single-player adventure. In the same fashion as other adventure blogs on this site, I thought it would be nice to do a short write-up after making a bit of progress. "
 tags:

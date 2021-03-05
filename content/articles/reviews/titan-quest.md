@@ -8,6 +8,8 @@ tags:
     - 'diablo'
     - 'review'
 game_platform: 'switch'
+howlongtobeat_id: 10379
+howlongtobeat_hrs: 25.5
 game_name: 'Titan Quest'
 game_genre: 'Hack and Slash'
 game_release_year: '2006 (2018)'
