@@ -670,17 +670,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jam-my-stack@npm:^1.0.3":
-  version: 1.0.3
-  resolution: "jam-my-stack@npm:1.0.3"
+"jam-my-stack@npm:^1.0.4":
+  version: 1.0.4
+  resolution: "jam-my-stack@npm:1.0.4"
   dependencies:
     ent: ^2.2.0
     fast-xml-parser: ^3.18.0
     got: ^11.8.2
     howlongtobeat: ^1.3.1
     lunr: ^2.3.9
+    moment: ^2.29.1
     parser-front-matter: ^1.6.4
-  checksum: 97821256733208521c8fcddb772c6292bc196ba03e3461091a5c34a077e1fc3a0d09b44ce1ddb6097994e1e1e89f93c9e4bbc7cae08531abc4bd1908f965a47e
+  checksum: 9962c87f145ff83aa85b11e9b0072c0f6541049039783bd4e3a363e86083430e25a6acf027a61579a05375db10beafd2f1cb27eef47bbaa4d7b504b24dd5901f
   languageName: node
   linkType: hard
 
@@ -688,7 +689,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "jefklakscodex@workspace:."
   dependencies:
-    jam-my-stack: ^1.0.3
+    jam-my-stack: ^1.0.4
   languageName: unknown
   linkType: soft
 
@@ -843,6 +844,13 @@ __metadata:
     for-in: ^1.0.2
     is-extendable: ^1.0.1
   checksum: 68da98bc1af57ffccde7abdc86ac49feec263b73b3c483ab7e6e2fab9aa2b06fba075da9e86bcda725133c1d2a59e4c810a17b55865c67c827871c25d5713c33
+  languageName: node
+  linkType: hard
+
+"moment@npm:^2.29.1":
+  version: 2.29.1
+  resolution: "moment@npm:2.29.1"
+  checksum: 86729013febf7160de5b93da69273dd304d674b0224f9544b3abd09a87671ddd2cdd57598261ce57588910d63747ffd5590965e83c790d8bf327083c0e0a06e0
   languageName: node
   linkType: hard
 
