@@ -2,8 +2,7 @@
   <div class="col-md-6">
 	<figure>
 		<a href="{{ index .Params 0 }}/{{ index .Params 1 }}" class="lbox">
-			<noscript class="noscript-lazyload"><img src="{{ index .Params 0 }}/{{ index .Params 1 }}" alt="{{ index .Params 2 }}" title="{{ index .Params 2 }}"></noscript>
-			<img class="lazyload img-responsive" data-src="{{ index .Params 0 }}/{{ index .Params 1 }}" alt="{{ index .Params 2 }}" title="{{ index .Params 2 }}">
+			<img loading="lazy" class="img-responsive" src="{{ index .Params 0 }}/{{ index .Params 1 }}" alt="{{ index .Params 2 }}" title="{{ index .Params 2 }}">
 		</a>
 		<figcaption>{{ index .Params 2 }}</figcaption>
 	</figure>
@@ -11,8 +10,7 @@
   <div class="col-md-6">
 	<figure>
 		<a href="{{ index .Params 0 }}/{{ index .Params 3 }}" class="lbox">
-			<noscript class="noscript-lazyload"><img src="{{ index .Params 0 }}/{{ index .Params 3 }}" alt="{{ index .Params 4 }}" title="{{ index .Params 4 }}"></noscript>
-			<img class="lazyload img-responsive" data-src="{{ index .Params 0 }}/{{ index .Params 3 }}" alt="{{ index .Params 4 }}" title="{{ index .Params 4 }}">
+			<img loading="lazy" class="img-responsive" src="{{ index .Params 0 }}/{{ index .Params 3 }}" alt="{{ index .Params 4 }}" title="{{ index .Params 4 }}">
 		</a>
 		<figcaption>{{ index .Params 4 }}</figcaption>
 	</figure>
